@@ -30,6 +30,28 @@ except:
 # cache for one hour
 cache = StorageServer.StorageServer(PLUGIN_NAME, 1)
 
+def video_id(value):
+    """
+    Examples:
+    - http://youtu.be/SA2iWivDJiE
+    - http://www.youtube.com/watch?v=_oPAwA_Udwc&feature=feedu
+    - http://www.youtube.com/embed/SA2iWivDJiE
+    - http://www.youtube.com/v/SA2iWivDJiE?version=3&amp;hl=en_US
+    """
+    query = urlparse.urlparse(value)
+    if query.hostname == 'youtu.be':
+        return query.path[1:]
+    if query.hostname in ('www.youtube.com', 'youtube.com'):
+        if query.path == '/watch':
+            p = urlparse.parse_qs(query.query)
+            return p['v'][0]
+        if query.path[:7] == '/embed/':
+            return query.path.split('/')[2]
+        if query.path[:3] == '/v/':
+            return query.path.split('/')[2]
+    # fail?
+    return None
+
 def get_signature(key, msg):
     return base64.b64encode(hmac.new(key, msg, hashlib.sha1).digest())
 
@@ -56,7 +78,7 @@ def getCategories(content,id):
     items = []
     for cat in content['MainCategory']:
         if cat['@parent_id'] == id:
-            if cat['@activeInd'] == "N": continue
+            #if cat['@activeInd'] == "N": continue
             listitem=xbmcgui.ListItem(cat['@name'], iconImage="DefaultFolder.png")
             url = build_url({'id': cat['@id']})
             items.append((url, listitem, True))
@@ -64,36 +86,46 @@ def getCategories(content,id):
     xbmcplugin.addDirectoryItems(addon_handle,items)
     items = []
     # no videos in root category
-    if cat=="": return
+    if id=="": return
 
     for clip in content['item']:
-        for cat in clip['categories']['category']:
-            if type(cat) != DictType: continue # FIX ME
-            if cat['@activeInd'] == "N": continue
-            if cat['@id']==id:
-                url = clip['movieURL']
-                if not "http" in url:
-                    url = "http://video1.screenwavemedia.com/Cinemassacre/smil:"+clip['movieURL']+".smil/playlist.m3u8"
-                date=None
-                if clip['pubDate']:
-                    # python bug http://stackoverflow.com/questions/2609259/converting-string-to-datetime-object-in-python
-                    date=clip['pubDate'][:-6]
-                    # python bug http://forum.xbmc.org/showthread.php?tid=112916
-                    try:
-                        date=datetime.strptime(date, '%a, %d %b %Y %H:%M:%S')
-                    except TypeError:
-                        date=datetime(*(time.strptime(date, '%a, %d %b %Y %H:%M:%S')[0:6]))
+        if not clip['movieURL'] or clip['@activeInd'] == "N": continue
+        cat_tag=clip['categories']['category']
+        cat=None
+        if type(cat_tag)==DictType:
+            if cat_tag['@id']==id: cat=[cat_tag['@id']]
+        elif type(cat_tag)==ListType:
+            for c in cat_tag:
+                if c['@id']==id: cat=c['@id']
 
-                    date=date.strftime('%Y-%m-%d')
-                listitem=xbmcgui.ListItem (clip['title'], thumbnailImage=clip['smallThumbnail'], iconImage='DefaultVideo.png')
-                listitem.setInfo( type="Video", infoLabels={ "Title": clip['title'], "plot": clip['description'], "aired": date})
-                listitem.addStreamInfo('video', {'duration': clip['duration']})
-                items.append((url, listitem, False))
+        if not cat: continue
+        url = clip['movieURL']
+        if not "http" in url:
+            url = "http://video1.screenwavemedia.com/Cinemassacre/smil:"+url+".smil/playlist.m3u8"                
+        elif "youtube.com" in url:
+            url = "plugin://plugin.video.youtube/?action=play_video&videoid="+video_id(url)
+        date=None
+        if clip['pubDate']:
+            # python bug http://stackoverflow.com/questions/2609259/converting-string-to-datetime-object-in-python
+            date=clip['pubDate'][:-6]
+            # python bug http://forum.xbmc.org/showthread.php?tid=112916
+            try:
+                date=datetime.strptime(date, '%a, %d %b %Y %H:%M:%S')
+            except TypeError:
+                date=datetime(*(time.strptime(date, '%a, %d %b %Y %H:%M:%S')[0:6]))
+
+            date=date.strftime('%Y-%m-%d')
+        listitem=xbmcgui.ListItem (clip['title'], thumbnailImage=clip['smallThumbnail'], iconImage='DefaultVideo.png')
+        listitem.setInfo( type="Video", infoLabels={ "title": clip['title'], "plot": clip['description'], "aired": date})
+        listitem.setProperty('IsPlayable', 'true')
+        listitem.addStreamInfo('video', {'duration': clip['duration']})
+        items.append((url, listitem, False))
 
     xbmcplugin.addDirectoryItems(addon_handle,items)
 
 
 xbmcplugin.setContent(addon_handle, "episodes")
+# Media Info View
 xbmc.executebuiltin('Container.SetViewMode(504)')
 id = ''.join(args.get('id', ""))
 content = cache.cacheFunction(getContent)
