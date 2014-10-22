@@ -64,7 +64,7 @@ def log(msg):
 def getContent():
     devicetoken=binascii.b2a_hex(os.urandom(32))
     deviceuid=binascii.b2a_hex(os.urandom(20)).upper()
-    signature=get_signature(os.urandom(10),os.urandom(20))
+    signature=get_signature(os.urandom(20),os.urandom(20))
     timestamp=datetime.now().strftime("%Y-%m-%dT%H:%M:%S.000Z")
     URL="http://cinemassacre.screenwavemedia.com/AppServer/SWMAppFeed.php?appname=Cinemassacre&appversion=1.5.8&devicetoken="+devicetoken+"&deviceuid="+deviceuid+"&lastupdateid=0&timestamp="+timestamp+"&signature="+signature
     log(URL)
@@ -125,11 +125,11 @@ def getCategories(content,id):
 
 
 xbmcplugin.setContent(addon_handle, "episodes")
-# Media Info View
-xbmc.executebuiltin('Container.SetViewMode(504)')
 id = ''.join(args.get('id', ""))
 content = cache.cacheFunction(getContent)
 getCategories(content, id)
 
 xbmcplugin.addSortMethod(addon_handle, xbmcplugin.SORT_METHOD_LABEL)
 xbmcplugin.endOfDirectory(addon_handle)
+# Media Info View
+xbmc.executebuiltin('Container.SetViewMode(504)')
