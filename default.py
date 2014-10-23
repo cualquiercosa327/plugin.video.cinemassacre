@@ -12,8 +12,8 @@ import base64
 import os
 import binascii
 import time
+import xmltodict
 from datetime import datetime, date
-from resources.xmltodict import xmltodict
 from types import *
 
 base_url = sys.argv[0]
