@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # Copyright 2014 cdwertmann
 
 import sys
@@ -83,43 +82,39 @@ def getCategories(content,id):
             url = build_url({'id': cat['@id']})
             items.append((url, listitem, True))
     
-    xbmcplugin.addDirectoryItems(addon_handle,items)
-    items = []
-    # no videos in root category
-    if id=="": return
+    if id!="":
+        for clip in content['item']:
+            if clip['movieURL']=="" or clip['@activeInd'] == "N": continue
+            cat_tag=clip['categories']['category']
+            cat=None
+            if type(cat_tag)==DictType:
+                if cat_tag['@id']==id: cat=[cat_tag['@id']]
+            elif type(cat_tag)==ListType:
+                for c in cat_tag:
+                    if c['@id']==id: cat=c['@id']
 
-    for clip in content['item']:
-        if not clip['movieURL'] or clip['@activeInd'] == "N": continue
-        cat_tag=clip['categories']['category']
-        cat=None
-        if type(cat_tag)==DictType:
-            if cat_tag['@id']==id: cat=[cat_tag['@id']]
-        elif type(cat_tag)==ListType:
-            for c in cat_tag:
-                if c['@id']==id: cat=c['@id']
+            if not cat: continue
+            url = clip['movieURL']
+            if not "http" in url:
+                url = "http://video1.screenwavemedia.com/Cinemassacre/smil:"+url+".smil/playlist.m3u8"
+            elif "youtube.com" in url:
+                url = "plugin://plugin.video.youtube/?action=play_video&videoid="+video_id(url)
+            date=None
+            if clip['pubDate']:
+                # python bug http://stackoverflow.com/questions/2609259/converting-string-to-datetime-object-in-python
+                date=clip['pubDate'][:-6]
+                # python bug http://forum.xbmc.org/showthread.php?tid=112916
+                try:
+                    date=datetime.strptime(date, '%a, %d %b %Y %H:%M:%S')
+                except TypeError:
+                    date=datetime(*(time.strptime(date, '%a, %d %b %Y %H:%M:%S')[0:6]))
 
-        if not cat: continue
-        url = clip['movieURL']
-        if not "http" in url:
-            url = "http://video1.screenwavemedia.com/Cinemassacre/smil:"+url+".smil/playlist.m3u8"                
-        elif "youtube.com" in url:
-            url = "plugin://plugin.video.youtube/?action=play_video&videoid="+video_id(url)
-        date=None
-        if clip['pubDate']:
-            # python bug http://stackoverflow.com/questions/2609259/converting-string-to-datetime-object-in-python
-            date=clip['pubDate'][:-6]
-            # python bug http://forum.xbmc.org/showthread.php?tid=112916
-            try:
-                date=datetime.strptime(date, '%a, %d %b %Y %H:%M:%S')
-            except TypeError:
-                date=datetime(*(time.strptime(date, '%a, %d %b %Y %H:%M:%S')[0:6]))
-
-            date=date.strftime('%Y-%m-%d')
-        listitem=xbmcgui.ListItem (clip['title'], thumbnailImage=clip['smallThumbnail'], iconImage='DefaultVideo.png')
-        listitem.setInfo( type="Video", infoLabels={ "title": clip['title'], "plot": clip['description'], "aired": date})
-        listitem.setProperty('IsPlayable', 'true')
-        listitem.addStreamInfo('video', {'duration': clip['duration']})
-        items.append((url, listitem, False))
+                date=date.strftime('%Y-%m-%d')
+            listitem=xbmcgui.ListItem (clip['title'], thumbnailImage=clip['smallThumbnail'], iconImage='DefaultVideo.png')
+            listitem.setInfo( type="Video", infoLabels={ "title": clip['title'], "plot": clip['description'], "aired": date})
+            listitem.setProperty('IsPlayable', 'true')
+            listitem.addStreamInfo('video', {'duration': clip['duration']})
+            items.append((url, listitem, False))
 
     xbmcplugin.addDirectoryItems(addon_handle,items)
 
