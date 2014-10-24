@@ -1,7 +1,7 @@
 # Copyright 2014 cdwertmann
 
 import urllib2
-from resources.xmltodict import xmltodict
+import xmltodict
 import os,binascii
 from datetime import datetime, date, time
 
@@ -14,7 +14,7 @@ def get_signature(key, msg):
 
 devicetoken=binascii.b2a_hex(os.urandom(32))
 deviceuid=binascii.b2a_hex(os.urandom(20)).upper()
-signature=get_signature(os.urandom(10),os.urandom(20))
+signature=get_signature(os.urandom(20),os.urandom(20))
 timestamp=datetime.now().strftime("%Y-%m-%dT%H:%M:%S.000Z")
 
 URL="http://cinemassacre.screenwavemedia.com/AppServer/SWMAppFeed.php?appname=Cinemassacre&appversion=1.5.8&devicetoken="+devicetoken+"&deviceuid="+deviceuid+"&lastupdateid=0&timestamp="+timestamp+"&signature="+signature
