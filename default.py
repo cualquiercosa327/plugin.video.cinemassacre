@@ -75,6 +75,16 @@ def getContent():
 
 def getCategories(content,id):
     items = []
+    if id=="":
+        listitem=xbmcgui.ListItem("- All videos sorted by date -", iconImage="DefaultFolder.png")
+        url = build_url({'id': "all"})
+        items.append((url, listitem, True))
+
+    if id=="all":
+        xbmcplugin.addSortMethod(addon_handle, xbmcplugin.SORT_METHOD_DATE)
+    else:
+        xbmcplugin.addSortMethod(addon_handle, xbmcplugin.SORT_METHOD_LABEL)
+
     for cat in content['MainCategory']:
         if cat['@parent_id'] == id:
             #if cat['@activeInd'] == "N": continue
@@ -82,7 +92,8 @@ def getCategories(content,id):
             url = build_url({'id': cat['@id']})
             items.append((url, listitem, True))
     
-    if id!="":
+    if id!="" or id=="all":
+        count=0
         for clip in content['item']:
             if clip['movieURL']=="" or clip['@activeInd'] == "N": continue
             cat_tag=clip['categories']['category']
@@ -93,25 +104,28 @@ def getCategories(content,id):
                 for c in cat_tag:
                     if c['@id']==id: cat=c['@id']
 
-            if not cat: continue
+            if not cat and id!="all": continue
             url = clip['movieURL']
             if not "http" in url:
                 url = "http://video1.screenwavemedia.com/Cinemassacre/smil:"+url+".smil/playlist.m3u8"
             elif "youtube.com" in url:
                 url = "plugin://plugin.video.youtube/?action=play_video&videoid="+video_id(url)
             date=None
+            airdate=None
             if clip['pubDate']:
                 # python bug http://stackoverflow.com/questions/2609259/converting-string-to-datetime-object-in-python
-                date=clip['pubDate'][:-6]
+                d=clip['pubDate'][:-6]
                 # python bug http://forum.xbmc.org/showthread.php?tid=112916
                 try:
-                    date=datetime.strptime(date, '%a, %d %b %Y %H:%M:%S')
+                    d=datetime.strptime(d, '%a, %d %b %Y %H:%M:%S')
                 except TypeError:
-                    date=datetime(*(time.strptime(date, '%a, %d %b %Y %H:%M:%S')[0:6]))
+                    d=datetime(*(time.strptime(d, '%a, %d %b %Y %H:%M:%S')[0:6]))
 
-                date=date.strftime('%Y-%m-%d')
+                date=d.strftime('%d.%m.%Y')
+                airdate=d.strftime('%Y-%m-%d')
+            count+=1
             listitem=xbmcgui.ListItem (clip['title'], thumbnailImage=clip['smallThumbnail'], iconImage='DefaultVideo.png')
-            listitem.setInfo( type="Video", infoLabels={ "title": clip['title'], "plot": clip['description'], "aired": date})
+            listitem.setInfo( type="Video", infoLabels={ "title": clip['title'], "plot": clip['description'], "aired": airdate, "date": date, "count": count})
             listitem.setProperty('IsPlayable', 'true')
             listitem.addStreamInfo('video', {'duration': clip['duration']})
             items.append((url, listitem, False))
@@ -124,7 +138,6 @@ id = ''.join(args.get('id', ""))
 content = cache.cacheFunction(getContent)
 getCategories(content, id)
 
-xbmcplugin.addSortMethod(addon_handle, xbmcplugin.SORT_METHOD_LABEL)
 xbmcplugin.endOfDirectory(addon_handle)
 # Media Info View
 xbmc.executebuiltin('Container.SetViewMode(504)')
