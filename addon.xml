@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.cinemassacre" name="cinemassacre" version="2.0.0" provider-name="cdwertmann">
+<addon id="plugin.video.cinemassacre.com" name="cinemassacre.com" version="2.0.0" provider-name="cdwertmann">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.common.plugin.cache" version="0.9.1"/>
@@ -12,8 +12,8 @@
         <platform>all</platform>
         <summary lang="en">Cinemassacre Videos</summary>
         <description lang="en">Videos from cinemassacre.com</description>
-        <website>https://github.com/cdwertmann/plugin.video.cinemassacre</website>
-        <source>git://github.com/cdwertmann/plugin.video.cinemassacre.git</source>
+        <website>https://github.com/cdwertmann/plugin.video.cinemassacre.com</website>
+        <source>git://github.com/cdwertmann/plugin.video.cinemassacre.com.git</source>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
     </extension>
 </addon>
