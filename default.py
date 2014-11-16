@@ -19,7 +19,7 @@ from types import *
 base_url = sys.argv[0]
 addon_handle = int(sys.argv[1])
 args = urlparse.parse_qs(sys.argv[2][1:])
-PLUGIN_NAME = "plugin.video.cinemassacre.com"
+PLUGIN_NAME = "plugin.video.cinemassacre"
 
 try:
     import StorageServer
