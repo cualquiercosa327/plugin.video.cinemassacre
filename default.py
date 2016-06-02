@@ -3,6 +3,7 @@
 import sys
 import xbmcgui
 import xbmcplugin
+import xbmcaddon
 import urllib
 import urllib2
 import urlparse
