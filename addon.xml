@@ -15,6 +15,5 @@
         <website>https://github.com/cdwertmann/plugin.video.cinemassacre</website>
         <source>git://github.com/cdwertmann/plugin.video.cinemassacre.git</source>
         <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-        <broken>Video feed has disappeared</broken>
     </extension>
 </addon>
