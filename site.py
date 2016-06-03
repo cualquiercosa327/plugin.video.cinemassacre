@@ -1,5 +1,10 @@
 # Copyright 2014 cdwertmann
 
+
+# 2016
+# Updated By esc0rtd3w [http://github.com/esc0rtd3w]
+
+
 import urllib2
 import xmltodict
 import os,binascii
@@ -28,7 +33,7 @@ def getContent():
     response.close()
     return xml
 
-# f = open('test.xml', 'r')
+# f = open('site.xml', 'r')
 # xml = f.read
 
 d = xmltodict.parse(getContent())['document']
