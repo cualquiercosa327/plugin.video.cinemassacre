@@ -16,6 +16,7 @@
 # Originals By cdwertmann
 # http://video1.screenwavemedia.com/Cinemassacre/smil:
 # http://cdn.springboard.gorillanation.com/storage/cinemassacre/conversion/
+# http://blip.tv/file/get/Cinemassacre-
 
 # http://206.217.201.108/Cinemassacre/smil:
 
@@ -26,7 +27,6 @@
 # http://player.screenwavemedia.com/play/embed.php?id=
 
 # http://blip.tv/play/
-# http://blip.tv/file/get/Cinemassacre-
 # http://j16.video2.blip.tv/
 # http://a.blip.tv/api.swf#
 
