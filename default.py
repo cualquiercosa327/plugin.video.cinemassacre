@@ -1,6 +1,12 @@
 # Copyright 2014 cdwertmann
 
+
+# 2016
+# Updated By esc0rtd3w [http://github.com/esc0rtd3w]
+
+
 import sys
+import xbmc
 import xbmcgui
 import xbmcplugin
 import xbmcaddon
@@ -38,6 +44,7 @@ def video_id(value):
         '(watch\?.*?(?=v=)v=|embed/|v/|.+\?v=)?([^&=%\?]{11})')
 
     youtube_regex_match = re.match(youtube_regex, value)
+	
     if youtube_regex_match:
         return youtube_regex_match.group(6)
 
@@ -65,7 +72,7 @@ def getContent():
     # response.close()
     addon = xbmcaddon.Addon()
     addon_path = addon.getAddonInfo('path')
-    _path = os.path.join(addon_path,'test.xml')
+    _path = os.path.join(addon_path,'site.xml')
     f = open(_path, 'r')
     xml = f.read()
     return xmltodict.parse(xml)['document']
@@ -73,7 +80,7 @@ def getContent():
 def getCategories(content,id):
     items = []
     if id=="":
-        listitem=xbmcgui.ListItem("- All videos sorted by date -", iconImage="DefaultFolder.png")
+        listitem=xbmcgui.ListItem("- All Videos Sorted By Date -", iconImage="DefaultFolder.png")
         url = build_url({'id': "all"})
         items.append((url, listitem, True))
 
@@ -103,10 +110,16 @@ def getCategories(content,id):
 
             if not cat and id!="all": continue
             url = clip['movieURL']
+			
             if not "http" in url:
+                #url = "http://player.screenwavemedia.com/Cinemassacre/smil:"+url+".smil/playlist.m3u8"
                 url = "http://video1.screenwavemedia.com/Cinemassacre/smil:"+url+".smil/playlist.m3u8"
             elif "youtu" in url:
                 url = "plugin://plugin.video.youtube/?action=play_video&videoid="+video_id(url)
+				
+			# New style to parse
+			# <div class="videoarea"><script src="//content.jwplatform.com/players/BdOYILfZ-DKo5ucaI.js">
+				
             date=None
             airdate=None
             if clip['pubDate']:
@@ -128,6 +141,7 @@ def getCategories(content,id):
             items.append((url, listitem, False))
 
     xbmcplugin.addDirectoryItems(addon_handle,items)
+			
 
 
 xbmcplugin.setContent(addon_handle, "episodes")
