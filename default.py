@@ -1,8 +1,43 @@
 # Copyright 2014 cdwertmann
 
 
+# ------------------------------------------------------------------------------
 # 2016
 # Updated By esc0rtd3w [http://github.com/esc0rtd3w]
+# ------------------------------------------------------------------------------
+
+
+# ------------------------------------------------------------------------------
+# Found Video Base URL's
+
+# smil links end in ".smil/playlist.m3u8"
+
+
+# Originals By cdwertmann
+# http://video1.screenwavemedia.com/Cinemassacre/smil:
+# http://cdn.springboard.gorillanation.com/storage/cinemassacre/conversion/
+
+# http://206.217.201.108/Cinemassacre/smil:
+
+# http://video2.screenwavemedia.com/vod/Cinemassacre-
+# http://player.screenwavemedia.com/play/jwplayer/Cinemassacre-
+# http://player.screenwavemedia.com/play/Cinemassacre-
+# http://player.screenwavemedia.com/play/player.php?id=Cinemassacre-
+# http://player.screenwavemedia.com/play/embed.php?id=
+
+# http://blip.tv/play/
+# http://blip.tv/file/get/Cinemassacre-
+# http://j16.video2.blip.tv/
+# http://a.blip.tv/api.swf#
+
+# http://www.youtube.com/embed/
+# http://www.youtube.com/watch?v=
+
+# http://www.gametrailers.com/videos/
+
+# http://media.mtvnservices.com/fb/mgid:arc:video:gametrailers.com:
+# http://media.mtvnservices.com/player/prime/mediaplayerprime.2.5.7.swf?uri=mgid:arc:video:gametrailers.com:
+# ------------------------------------------------------------------------------
 
 
 import sys
