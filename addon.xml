@@ -4,7 +4,7 @@
 <!-- Updated By esc0rtd3w [http://github.com/esc0rtd3w] -->
 
 <!--<addon id="plugin.video.cinemassacre" name="cinemassacre" version="2.0.2" provider-name="cdwertmann">-->
-<addon id="plugin.video.cinemassacre" name="Cinemassacre" version="3.0.0" provider-name="esc0rtd3w">
+<addon id="plugin.video.cinemassacre" name="Cinemassacre" version="3.0.0" provider-name="esc0rtd3w / cdwertmann">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.common.plugin.cache" version="0.9.1"/>
