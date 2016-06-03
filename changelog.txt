@@ -1,3 +1,8 @@
+[B]Version 3.0.0[/B]
+
+- project picked up by esc0rtd3w
+- fixed "xbmcaddon" import issue
+
 [B]Version 2.0.2[/B]
 
 - marked as broken since the video feed has disappeared
