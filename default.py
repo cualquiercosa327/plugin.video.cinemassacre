@@ -8,15 +8,70 @@
 
 
 # ------------------------------------------------------------------------------
+# Notes For Old SMIL Type Parsing
+
+# smil links end in ".smil/playlist.m3u8" and will fail on all videos that used this in the past
+# smil links are replaced with "content.jwplatform.com/manifests/cRG5JPZN.m3u8"
+# cRG5JPZN is the video ID for this example
+# From HTML Source: <div class="videoarea"><script src="//content.jwplatform.com/players/cRG5JPZN-DKo5ucaI.js">
+
+# Example New Parse #1 (From Page): content.jwplatform.com/players/[video_id_new]-[pid].js
+# Example New Parse #2 (From JS): content.jwplatform.com/manifests/[video_id_new].m3u8
+
+# Sample From http://content.jwplatform.com/players/cRG5JPZN-DKo5ucaI.js
+
+# "pid": "DKo5ucaI",
+# "playlist": [
+# {
+# "description": "",
+# "image": "//content.jwplatform.com/thumbs/cRG5JPZN-720.jpg",
+# "legacy_id": "Cinemassacre-245",
+# "link": "//content.jwplatform.com/previews/cRG5JPZN",
+# "mediaid": "cRG5JPZN",
+# "property_name": "Cinemassacre",
+# "pubdate": "Wed, 09 Oct 2013 04:00:00 -0000",
+# "sources": [
+# {
+# "file": "//content.jwplatform.com/manifests/cRG5JPZN.m3u8",
+# "type": "hls"
+# },
+# {
+# "duration": 91,
+# "file": "//content.jwplatform.com/videos/cRG5JPZN-QvH08cwS.mp4",
+# "height": 240,
+# "label": "H.264 320px",
+# "type": "video/mp4",
+# "width": 320
+# },
+# {
+# "duration": 91,
+# "file": "//content.jwplatform.com/videos/cRG5JPZN-TGIpRPjO.m4a",
+# "height": -1,
+# "label": "AAC Audio",
+# "type": "audio/mp4",
+# "width": -1
+# }
+# ],
+# "tags": "",
+# "thumbnail_url": "https://s3.amazonaws.com/SWMVideo/Cinemassacre-245_thumb_640x360.jpg",
+# "title": "Nosferatu (1922) History of Horror",
+# "tracks": [
+# {
+# "file": "//content.jwplatform.com/strips/cRG5JPZN-120.vtt",
+# "kind": "thumbnails"
+# ------------------------------------------------------------------------------
+
+
+# ------------------------------------------------------------------------------
 # Found Video Base URL's
-
-# smil links end in ".smil/playlist.m3u8"
-
 
 # Originals By cdwertmann
 # http://video1.screenwavemedia.com/Cinemassacre/smil:
 # http://cdn.springboard.gorillanation.com/storage/cinemassacre/conversion/
 # http://blip.tv/file/get/Cinemassacre-
+# http://trailers.gametrailers.com/gt_vault/3000/
+# http://www.youtube.com/watch?v=
+# http://www.youtube.com/embed/
 
 # http://206.217.201.108/Cinemassacre/smil:
 
@@ -29,9 +84,6 @@
 # http://blip.tv/play/
 # http://j16.video2.blip.tv/
 # http://a.blip.tv/api.swf#
-
-# http://www.youtube.com/embed/
-# http://www.youtube.com/watch?v=
 
 # http://www.gametrailers.com/videos/
 
@@ -110,6 +162,18 @@
 # </div>
 # ------------------------------------------------------------------------------
 
+
+# ------------------------------------------------------------------------------
+# Find All AVGN Episodes (Manual URLs)
+# Using same returned HTML data to parse as GET and POST methods
+
+# http://cinemassacre.com/category/avgn/avgnepisodes/page/1/
+# http://cinemassacre.com/category/avgn/avgnepisodes/page/2/
+# http://cinemassacre.com/category/avgn/avgnepisodes/page/3/
+# http://cinemassacre.com/category/avgn/avgnepisodes/page/4/
+# http://cinemassacre.com/category/avgn/avgnepisodes/page/5/
+# http://cinemassacre.com/category/avgn/avgnepisodes/page/6/
+# ------------------------------------------------------------------------------
 
 
 # ------------------------------------------------------------------------------
@@ -286,6 +350,19 @@ def video_id(value):
         return youtube_regex_match.group(6)
 
     return youtube_regex_match
+	
+def video_id_jwp(value):
+	jwplayer_regex = (
+		r'(http?://)?(content\.)?'
+		'(jwplatform)\.(com)/'
+		'(players/)?(.*)-(.*)?(\.m3u8)')
+
+	jwplayer_regex_match = re.match(jwplayer_regex, value)
+
+	if jwplayer_regex_match:
+		return jwplayer_regex_match.group(7)
+
+	return jwplayer_regex_match
 
 def get_signature(key, msg):
     return base64.b64encode(hmac.new(key, msg, hashlib.sha1).digest())
@@ -297,6 +374,7 @@ def log(msg):
     xbmc.log(PLUGIN_NAME + ": "+ str(msg), level=xbmc.LOGNOTICE)
 
 def getContent():
+
     # devicetoken=binascii.b2a_hex(os.urandom(32))
     # deviceuid=binascii.b2a_hex(os.urandom(20)).upper()
     # signature=get_signature(os.urandom(20),os.urandom(20))
@@ -307,6 +385,7 @@ def getContent():
     # response = urllib2.urlopen(req)
     # xml=response.read()
     # response.close()
+	
     addon = xbmcaddon.Addon()
     addon_path = addon.getAddonInfo('path')
     _path = os.path.join(addon_path,'site.xml')
@@ -329,6 +408,7 @@ def getCategories(content,id):
     for cat in content['MainCategory']:
         if cat['@parent_id'] == id:
             #if cat['@activeInd'] == "N": continue
+			
             listitem=xbmcgui.ListItem(cat['@name'], iconImage="DefaultFolder.png")
             url = build_url({'id': cat['@id']})
             items.append((url, listitem, True))
@@ -349,19 +429,19 @@ def getCategories(content,id):
             url = clip['movieURL']
 			
             if not "http" in url:
-                #url = "http://player.screenwavemedia.com/Cinemassacre/smil:"+url+".smil/playlist.m3u8"
-                url = "http://video1.screenwavemedia.com/Cinemassacre/smil:"+url+".smil/playlist.m3u8"
-            elif "youtu" in url:
-                url = "plugin://plugin.video.youtube/?action=play_video&videoid="+video_id(url)
+                #url = "http://video1.screenwavemedia.com/Cinemassacre/smil:"+url+".smil/playlist.m3u8"
+                url = "http://content.jwplatform.com/manifests/"+url+".m3u8"
 				
-			# New style to parse
-			# <div class="videoarea"><script src="//content.jwplatform.com/players/BdOYILfZ-DKo5ucaI.js">
+            elif "youtu" in url:
+                #url = "plugin://plugin.video.youtube/?action=play_video&videoid="+video_id(url)
+                url = "plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid="+video_id(url)
 				
             date=None
             airdate=None
             if clip['pubDate']:
                 # python bug http://stackoverflow.com/questions/2609259/converting-string-to-datetime-object-in-python
                 d=clip['pubDate'][:-6]
+				
                 # python bug http://forum.xbmc.org/showthread.php?tid=112916
                 try:
                     d=datetime.strptime(d, '%a, %d %b %Y %H:%M:%S')
@@ -380,6 +460,25 @@ def getCategories(content,id):
     xbmcplugin.addDirectoryItems(addon_handle,items)
 			
 
+def getLinks(page):
+
+	# Original Source: http://kodi.wiki/view/How-to:Write_Python_Scripts
+
+	LinkDescription = []
+	LinkURL = []
+	 
+	socket = urllib.urlopen(page)
+	linkdump = socket.read()
+	socket.close()
+	 
+	urltemp = re.compile('<script src=["]//content.jwplatform.com/players/(*)-(*)[.]m3u8["]>', re.IGNORECASE).findall(linkdump)
+	desctemp = re.compile('<script src=["]//content.jwplatform.com/players/(*)-(*)[.]m3u8["]>(.*)</script>').findall(linkdump)
+	 
+	for urls, desc in zip(urltemp,desctemp):
+		LinkURL.append(urls[9:-2])
+		LinkDescription.append(desc)
+		xbmc.executebuiltin("Notification("+LinkURL+")")
+	
 
 xbmcplugin.setContent(addon_handle, "episodes")
 id = ''.join(args.get('id', ""))

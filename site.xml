@@ -1,7 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document>
+
+ <!-- Default Status Message -->
  <status>401</status>
  <message>Authentication Failed</message>
+ 
+ 
+ <!-- Main Categories -->
+ <MainCategory id="7" activeInd="Y" parent_id="" name="Angry Video Game Nerd"/>
+ <MainCategory id="21" activeInd="N" parent_id="7" name="2004-2006"/>
+ 
+ <MainCategory id="402" activeInd="N" parent_id="7" name="Full list of AVGN Videos"/>
+ 
+ <MainCategory id="1065" activeInd="Y" parent_id="7" name="AVGN Episodes"/>
+ <MainCategory id="1423" activeInd="Y" parent_id="1065" name="2004 - 2006"/>
+ <MainCategory id="20" activeInd="Y" parent_id="1065" name="2007"/>
+ <MainCategory id="19" activeInd="Y" parent_id="1065" name="2008"/>
+ <MainCategory id="18" activeInd="Y" parent_id="1065" name="2009"/>
+ <MainCategory id="224" activeInd="Y" parent_id="1065" name="2010"/>
+ <MainCategory id="470" activeInd="N" parent_id="1065" name="2011"/>
+ <MainCategory id="998" activeInd="N" parent_id="1065" name="2012"/>
+ <MainCategory id="1121" activeInd="Y" parent_id="1065" name="2011 - 2014"/>
+ 
+ <MainCategory id="486" activeInd="N" parent_id="7" name="Fan Stuff"/>
+ <MainCategory id="417" activeInd="N" parent_id="7" name="Other game videos"/>
+ <MainCategory id="225" activeInd="N" parent_id="7" name="Game Collection"/>
+ 
+ <MainCategory id="804" activeInd="Y" parent_id="7" name="AVGN Movie"/>
+ <MainCategory id="226" activeInd="Y" parent_id="7" name="AVGN Related Videos"/>
+ 
+ 
+ 
+ <MainCategory id="1" activeInd="N" parent_id="" name="Blog"/>
+ <MainCategory id="8" activeInd="Y" parent_id="" name="Board James"/>
+ <MainCategory id="4" activeInd="Y" parent_id="" name="Featured"/>
+ <MainCategory id="14" activeInd="Y" parent_id="" name="Films"/>
+ <MainCategory id="412" activeInd="Y" parent_id="" name="Gallery"/>
+ <MainCategory id="413" activeInd="Y" parent_id="14" name="Horror"/>
+ <MainCategory id="478" activeInd="Y" parent_id="" name="Game Videos"/>
+ <MainCategory id="9" activeInd="Y" parent_id="" name="Movie Reviews"/>
+ <MainCategory id="404" activeInd="N" parent_id="416" name="Music Related"/>
+ <MainCategory id="3" activeInd="Y" parent_id="14" name="Other Personal Films"/>
+ <MainCategory id="401" activeInd="N" parent_id="416" name="Other movie stuff"/>
+ <MainCategory id="485" activeInd="N" parent_id="412" name="Photography"/>
+ <MainCategory id="416" activeInd="N" parent_id="9" name="Other Movie Reviews"/>
+ <MainCategory id="481" activeInd="N" parent_id="412" name="Sightseeing"/>
+ <MainCategory id="16" activeInd="Y" parent_id="9" name="TOP TENS"/>
+ <MainCategory id="6" activeInd="Y" parent_id="" name="You Know What's Bullsh!t?"/>
+ <MainCategory id="34" activeInd="N" parent_id="416" name="2007-2008 Movie Reviews"/>
+ <MainCategory id="36" activeInd="N" parent_id="16" name="2007-2008 Top Tens"/>
+ <MainCategory id="28" activeInd="N" parent_id="8" name="2009 Board James"/>
+ <MainCategory id="32" activeInd="N" parent_id="416" name="2009-2010 Movie Reviews"/>
+ <MainCategory id="35" activeInd="N" parent_id="16" name="2009-2010 Top Tens"/>
+ <MainCategory id="230" activeInd="N" parent_id="8" name="2010 Board James"/>
+ <MainCategory id="499" activeInd="N" parent_id="8" name="2011 Board James"/>
+ <MainCategory id="479" activeInd="N" parent_id="416" name="2011-2012 Movie Reviews"/>
+ <MainCategory id="487" activeInd="N" parent_id="16" name="2011-2012 Top Tens"/>
+ <MainCategory id="22" activeInd="Y" parent_id="14" name="48 Hour Films"/>
+ <MainCategory id="23" activeInd="Y" parent_id="14" name="Animation"/>
+ <MainCategory id="482" activeInd="N" parent_id="412" name="Celebrity pics"/>
+ <MainCategory id="483" activeInd="Y" parent_id="412" name="Childhood Comics"/>
+ <MainCategory id="484" activeInd="Y" parent_id="412" name="Childhood Stuff"/>
+ <MainCategory id="24" activeInd="Y" parent_id="14" name="Comedy"/>
+ <MainCategory id="228" activeInd="N" parent_id="486" name="Fan Art"/>
+ <MainCategory id="227" activeInd="N" parent_id="486" name="Fan Games"/>
+ <MainCategory id="480" activeInd="N" parent_id="486" name="Fan photos"/>
+ <MainCategory id="229" activeInd="N" parent_id="486" name="Fan Songs"/>
+ <MainCategory id="25" activeInd="Y" parent_id="14" name="Favorites"/>
+ <MainCategory id="405" activeInd="N" parent_id="14" name="Filmography"/>
+ <MainCategory id="10" activeInd="N" parent_id="9" name="MONSTER MADNESS"/>
+ <MainCategory id="415" activeInd="N" parent_id="10" name="Other Horror reviews"/>
+ <MainCategory id="31" activeInd="Y" parent_id="1062" name="2007 History of Horror"/>
+ <MainCategory id="30" activeInd="Y" parent_id="1062" name="2008 GodzillaThon"/>
+ <MainCategory id="29" activeInd="Y" parent_id="1062" name="2009 Monster Madness Three"/>
+ <MainCategory id="456" activeInd="Y" parent_id="1062" name="2010 Camp Cult"/>
+ <MainCategory id="509" activeInd="Y" parent_id="9" name="Animation Related"/>
+ <MainCategory id="510" activeInd="N" parent_id="416" name="OverAnalyzers"/>
+ <MainCategory id="511" activeInd="Y" parent_id="" name="Interviews"/>
+ <MainCategory id="512" activeInd="Y" parent_id="" name="Location Tours"/>
+ <MainCategory id="513" activeInd="Y" parent_id="1062" name="2011 Sequel-A-Thon"/>
+ <MainCategory id="559" activeInd="Y" parent_id="" name="Trivia Videos"/>
+ <MainCategory id="784" activeInd="Y" parent_id="9" name="Commentaries"/>
+ <MainCategory id="797" activeInd="N" parent_id="9" name="Mike's Movie Reviews"/>
+ <MainCategory id="909" activeInd="N" parent_id="7" name="2012 - 2013"/>
+ <MainCategory id="910" activeInd="Y" parent_id="1062" name="2012 Eighties-A-Thon"/>
+ <MainCategory id="1078" activeInd="Y" parent_id="" name="80's Fun"/>
+ <MainCategory id="1063" activeInd="Y" parent_id="" name="Christmas Videos"/>
+ <MainCategory id="1074" activeInd="Y" parent_id="" name="Compilation Movie Reviews"/>
+ <MainCategory id="1068" activeInd="Y" parent_id="" name="Game Glitches"/>
+ <MainCategory id="1079" activeInd="Y" parent_id="" name="Home-made horror"/>
+ <MainCategory id="1067" activeInd="Y" parent_id="" name="James and Mike Mondays"/>
+ <MainCategory id="1070" activeInd="Y" parent_id="" name="James Gaming Videos"/>
+ <MainCategory id="1069" activeInd="Y" parent_id="" name="Mike's Gaming Videos"/>
+ <MainCategory id="1073" activeInd="Y" parent_id="" name="Movie Reviews A-Z"/>
+ <MainCategory id="1072" activeInd="Y" parent_id="" name="Other Gaming Videos"/>
+ <MainCategory id="1071" activeInd="Y" parent_id="" name="Other Movie Stuff"/>
+ <MainCategory id="1064" activeInd="Y" parent_id="" name="Site"/>
+ <MainCategory id="1081" activeInd="N" parent_id="412" name="Fan Art"/>
+ <MainCategory id="1080" activeInd="N" parent_id="412" name="Fan photos"/>
+ <MainCategory id="1077" activeInd="Y" parent_id="1064" name="Misc videos"/>
+ <MainCategory id="1062" activeInd="Y" parent_id="9" name="Monster Madness"/>
+ <MainCategory id="1082" activeInd="N" parent_id="1064" name="Articles"/>
+ <MainCategory id="1086" activeInd="Y" parent_id="1101" name="Name That Tune"/>
+ <MainCategory id="175" activeInd="Y" parent_id="" name="TMNT"/>
+ <MainCategory id="1102" activeInd="N" parent_id="1101" name="Audio Slaughter"/>
+ <MainCategory id="1101" activeInd="Y" parent_id="" name="Music"/>
+ <MainCategory id="1103" activeInd="Y" parent_id="1101" name="AudioSlaughter"/>
+ <MainCategory id="1148" activeInd="N" parent_id="1101" name="Kyle Justin"/>
+ <MainCategory id="1165" activeInd="Y" parent_id="16" name="Terrible Top Tens"/>
+ <MainCategory id="1329" activeInd="Y" parent_id="9" name="Mike's Movie Reviews"/>
+ <MainCategory id="1340" activeInd="Y" parent_id="" name="AVGN Halloween"/>
+ <MainCategory id="1341" activeInd="Y" parent_id="" name="Board James horror"/>
+ <MainCategory id="1193" activeInd="Y" parent_id="1062" name="2013 Sequel-A-Thon 2"/>
+ <MainCategory id="1355" activeInd="Y" parent_id="" name="Halloween highlights"/>
+ <MainCategory id="1398" activeInd="Y" parent_id="" name="AVGN Christmas"/>
+ <MainCategory id="1397" activeInd="Y" parent_id="" name="Christmas movie reviews"/>
+ <MainCategory id="1441" activeInd="Y" parent_id="1062" name="2014 Monster Madness 8"/>
+ <MainCategory id="1562" activeInd="Y" parent_id="1064" name="Appearances"/>
+ <MainCategory id="1564" activeInd="Y" parent_id="" name="Cinemassacre Horror"/>
+ <MainCategory id="1565" activeInd="Y" parent_id="" name="Monster Madness Highlights"/>
+ 
+ 
+ <!-- Begin ID List -->
  <item id="111" activeInd="Y">
   <title>Halloween party 1991</title>
   <link>http://cinemassacre.com/1991/10/30/halloween-party-1991/</link>
@@ -12074,7 +12194,8 @@
   <link>http://cinemassacre.com/2011/11/16/the-legend-of-zelda-a-link-to-the-past-glitches/</link>
   <pubDate>Wed, 16 Nov 2011 00:01:17 -0500</pubDate>
   <id>12884</id>
-  <movieURL>Cinemassacre-12884</movieURL>
+  <!--<movieURL>Cinemassacre-12884</movieURL>-->
+  <movieURL>BdOYILfZ</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/11/lttp.jpg</smallThumbnail>
   <duration>324</duration>
@@ -21439,110 +21560,7 @@
    <category id="4" activeInd="Y"/>
   </categories>
  </item>
- <MainCategory id="7" activeInd="Y" parent_id="" name="Angry Video Game Nerd"/>
- <MainCategory id="226" activeInd="Y" parent_id="7" name="AVGN Related Videos"/>
- <MainCategory id="1" activeInd="N" parent_id="" name="Blog"/>
- <MainCategory id="8" activeInd="Y" parent_id="" name="Board James"/>
- <MainCategory id="486" activeInd="N" parent_id="7" name="Fan Stuff"/>
- <MainCategory id="4" activeInd="Y" parent_id="" name="Featured"/>
- <MainCategory id="14" activeInd="Y" parent_id="" name="Films"/>
- <MainCategory id="402" activeInd="N" parent_id="7" name="Full list of AVGN Videos"/>
- <MainCategory id="412" activeInd="Y" parent_id="" name="Gallery"/>
- <MainCategory id="225" activeInd="N" parent_id="7" name="Game Collection"/>
- <MainCategory id="413" activeInd="Y" parent_id="14" name="Horror"/>
- <MainCategory id="478" activeInd="Y" parent_id="" name="Game Videos"/>
- <MainCategory id="9" activeInd="Y" parent_id="" name="Movie Reviews"/>
- <MainCategory id="404" activeInd="N" parent_id="416" name="Music Related"/>
- <MainCategory id="3" activeInd="Y" parent_id="14" name="Other Personal Films"/>
- <MainCategory id="417" activeInd="N" parent_id="7" name="Other game videos"/>
- <MainCategory id="401" activeInd="N" parent_id="416" name="Other movie stuff"/>
- <MainCategory id="485" activeInd="N" parent_id="412" name="Photography"/>
- <MainCategory id="416" activeInd="N" parent_id="9" name="Other Movie Reviews"/>
- <MainCategory id="481" activeInd="N" parent_id="412" name="Sightseeing"/>
- <MainCategory id="16" activeInd="Y" parent_id="9" name="TOP TENS"/>
- <MainCategory id="6" activeInd="Y" parent_id="" name="You Know What's Bullsh!t?"/>
- <MainCategory id="21" activeInd="N" parent_id="7" name="2004-2006"/>
- <MainCategory id="20" activeInd="Y" parent_id="1065" name="2007"/>
- <MainCategory id="34" activeInd="N" parent_id="416" name="2007-2008 Movie Reviews"/>
- <MainCategory id="36" activeInd="N" parent_id="16" name="2007-2008 Top Tens"/>
- <MainCategory id="19" activeInd="Y" parent_id="1065" name="2008"/>
- <MainCategory id="18" activeInd="Y" parent_id="1065" name="2009"/>
- <MainCategory id="28" activeInd="N" parent_id="8" name="2009 Board James"/>
- <MainCategory id="32" activeInd="N" parent_id="416" name="2009-2010 Movie Reviews"/>
- <MainCategory id="35" activeInd="N" parent_id="16" name="2009-2010 Top Tens"/>
- <MainCategory id="224" activeInd="Y" parent_id="1065" name="2010"/>
- <MainCategory id="230" activeInd="N" parent_id="8" name="2010 Board James"/>
- <MainCategory id="470" activeInd="N" parent_id="1065" name="2011"/>
- <MainCategory id="499" activeInd="N" parent_id="8" name="2011 Board James"/>
- <MainCategory id="479" activeInd="N" parent_id="416" name="2011-2012 Movie Reviews"/>
- <MainCategory id="487" activeInd="N" parent_id="16" name="2011-2012 Top Tens"/>
- <MainCategory id="22" activeInd="Y" parent_id="14" name="48 Hour Films"/>
- <MainCategory id="23" activeInd="Y" parent_id="14" name="Animation"/>
- <MainCategory id="482" activeInd="N" parent_id="412" name="Celebrity pics"/>
- <MainCategory id="483" activeInd="Y" parent_id="412" name="Childhood Comics"/>
- <MainCategory id="484" activeInd="Y" parent_id="412" name="Childhood Stuff"/>
- <MainCategory id="24" activeInd="Y" parent_id="14" name="Comedy"/>
- <MainCategory id="228" activeInd="N" parent_id="486" name="Fan Art"/>
- <MainCategory id="227" activeInd="N" parent_id="486" name="Fan Games"/>
- <MainCategory id="480" activeInd="N" parent_id="486" name="Fan photos"/>
- <MainCategory id="229" activeInd="N" parent_id="486" name="Fan Songs"/>
- <MainCategory id="25" activeInd="Y" parent_id="14" name="Favorites"/>
- <MainCategory id="405" activeInd="N" parent_id="14" name="Filmography"/>
- <MainCategory id="10" activeInd="N" parent_id="9" name="MONSTER MADNESS"/>
- <MainCategory id="415" activeInd="N" parent_id="10" name="Other Horror reviews"/>
- <MainCategory id="31" activeInd="Y" parent_id="1062" name="2007 History of Horror"/>
- <MainCategory id="30" activeInd="Y" parent_id="1062" name="2008 GodzillaThon"/>
- <MainCategory id="29" activeInd="Y" parent_id="1062" name="2009 Monster Madness Three"/>
- <MainCategory id="456" activeInd="Y" parent_id="1062" name="2010 Camp Cult"/>
- <MainCategory id="509" activeInd="Y" parent_id="9" name="Animation Related"/>
- <MainCategory id="510" activeInd="N" parent_id="416" name="OverAnalyzers"/>
- <MainCategory id="511" activeInd="Y" parent_id="" name="Interviews"/>
- <MainCategory id="512" activeInd="Y" parent_id="" name="Location Tours"/>
- <MainCategory id="513" activeInd="Y" parent_id="1062" name="2011 Sequel-A-Thon"/>
- <MainCategory id="559" activeInd="Y" parent_id="" name="Trivia Videos"/>
- <MainCategory id="784" activeInd="Y" parent_id="9" name="Commentaries"/>
- <MainCategory id="797" activeInd="N" parent_id="9" name="Mike's Movie Reviews"/>
- <MainCategory id="804" activeInd="Y" parent_id="7" name="AVGN Movie"/>
- <MainCategory id="909" activeInd="N" parent_id="7" name="2012 - 2013"/>
- <MainCategory id="910" activeInd="Y" parent_id="1062" name="2012 Eighties-A-Thon"/>
- <MainCategory id="1078" activeInd="Y" parent_id="" name="80's Fun"/>
- <MainCategory id="1065" activeInd="Y" parent_id="7" name="AVGN Episodes"/>
- <MainCategory id="1063" activeInd="Y" parent_id="" name="Christmas Videos"/>
- <MainCategory id="1074" activeInd="Y" parent_id="" name="Compilation Movie Reviews"/>
- <MainCategory id="1068" activeInd="Y" parent_id="" name="Game Glitches"/>
- <MainCategory id="1079" activeInd="Y" parent_id="" name="Home-made horror"/>
- <MainCategory id="1067" activeInd="Y" parent_id="" name="James and Mike Mondays"/>
- <MainCategory id="1070" activeInd="Y" parent_id="" name="James Gaming Videos"/>
- <MainCategory id="1069" activeInd="Y" parent_id="" name="Mike's Gaming Videos"/>
- <MainCategory id="1073" activeInd="Y" parent_id="" name="Movie Reviews A-Z"/>
- <MainCategory id="1072" activeInd="Y" parent_id="" name="Other Gaming Videos"/>
- <MainCategory id="1071" activeInd="Y" parent_id="" name="Other Movie Stuff"/>
- <MainCategory id="1064" activeInd="Y" parent_id="" name="Site"/>
- <MainCategory id="1081" activeInd="N" parent_id="412" name="Fan Art"/>
- <MainCategory id="1080" activeInd="N" parent_id="412" name="Fan photos"/>
- <MainCategory id="1077" activeInd="Y" parent_id="1064" name="Misc videos"/>
- <MainCategory id="1062" activeInd="Y" parent_id="9" name="Monster Madness"/>
- <MainCategory id="1082" activeInd="N" parent_id="1064" name="Articles"/>
- <MainCategory id="1086" activeInd="Y" parent_id="1101" name="Name That Tune"/>
- <MainCategory id="175" activeInd="Y" parent_id="" name="TMNT"/>
- <MainCategory id="1102" activeInd="N" parent_id="1101" name="Audio Slaughter"/>
- <MainCategory id="1101" activeInd="Y" parent_id="" name="Music"/>
- <MainCategory id="1103" activeInd="Y" parent_id="1101" name="AudioSlaughter"/>
- <MainCategory id="1148" activeInd="N" parent_id="1101" name="Kyle Justin"/>
- <MainCategory id="1165" activeInd="Y" parent_id="16" name="Terrible Top Tens"/>
- <MainCategory id="1329" activeInd="Y" parent_id="9" name="Mike's Movie Reviews"/>
- <MainCategory id="1340" activeInd="Y" parent_id="" name="AVGN Halloween"/>
- <MainCategory id="1341" activeInd="Y" parent_id="" name="Board James horror"/>
- <MainCategory id="1193" activeInd="Y" parent_id="1062" name="2013 Sequel-A-Thon 2"/>
- <MainCategory id="1355" activeInd="Y" parent_id="" name="Halloween highlights"/>
- <MainCategory id="1398" activeInd="Y" parent_id="" name="AVGN Christmas"/>
- <MainCategory id="1397" activeInd="Y" parent_id="" name="Christmas movie reviews"/>
- <MainCategory id="1423" activeInd="Y" parent_id="1065" name="2004 - 2006"/>
- <MainCategory id="998" activeInd="N" parent_id="1065" name="2012"/>
- <MainCategory id="1121" activeInd="Y" parent_id="1065" name="2011 - 2014"/>
- <MainCategory id="1441" activeInd="Y" parent_id="1062" name="2014 Monster Madness 8"/>
- <MainCategory id="1562" activeInd="Y" parent_id="1064" name="Appearances"/>
- <MainCategory id="1564" activeInd="Y" parent_id="" name="Cinemassacre Horror"/>
- <MainCategory id="1565" activeInd="Y" parent_id="" name="Monster Madness Highlights"/>
+ 
  <Source sourceID="1" activeInd="Y" sourceName="Cinemassacre" sourceURL="http://Cinemassacre.ScreenwaveMedia.com/AppServer/SWMAppFeed.php?devicetoken=&amp;deviceuid=&amp;lastupdateid=&amp;timestamp=&amp;signature=&amp;appname=&amp;appversion=" sourceParserName="parserParent" lastChecked="Sat, 01 Jan 2000 01:00:00 -0500" lastUpdateID="1413952214"/>
-</document>
+
+ </document>
