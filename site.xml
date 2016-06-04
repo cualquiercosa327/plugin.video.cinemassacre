@@ -312,7 +312,8 @@
   <link>http://cinemassacre.com/2006/09/24/top-gun/</link>
   <pubDate>Sun, 24 Sep 2006 17:28:37 -0400</pubDate>
   <id>768</id>
-  <movieURL>Cinemassacre-768</movieURL>
+  <!-- <movieURL>Cinemassacre-768</movieURL> -->
+  <movieURL>ijhMmGkx</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2006/09/TopGun-207x300.jpg</smallThumbnail>
   <duration>455</duration>
@@ -329,7 +330,8 @@
   <link>http://cinemassacre.com/2006/10/02/double-dragon-3/</link>
   <pubDate>Mon, 02 Oct 2006 17:31:16 -0400</pubDate>
   <id>771</id>
-  <movieURL>Cinemassacre-771</movieURL>
+  <!-- <movieURL>Cinemassacre-771</movieURL> -->
+  <movieURL>fOWEsTIb</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2006/10/DD3.jpg</smallThumbnail>
   <duration>249</duration>
@@ -341,29 +343,13 @@
    <category id="7" activeInd="Y"/>
   </categories>
  </item>
- <item id="525642112a17b" activeInd="Y">
-  <title>Top 10 Most Unfair Gaming Moments</title>
-  <link>http://cinemassacre.com/2013/12/13/top-10-most-unfair-gaming-moments/</link>
-  <pubDate>Fri, 13 Dec 2013 17:43:03 -0500</pubDate>
-  <id>525642112a17b</id>
-  <movieURL>Cinemassacre-525642112a17b</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/11/Unfair.jpg</smallThumbnail>
-  <duration>336</duration>
-  <categories>
-   <category id="1373" activeInd="Y"/>
-   <category id="226" activeInd="Y"/>
-   <category id="263" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
  <item id="781" activeInd="Y">
   <title>AVGN: Friday the 13th</title>
   <link>http://cinemassacre.com/2006/10/13/friday-the-13th-2/</link>
   <pubDate>Fri, 13 Oct 2006 17:35:11 -0400</pubDate>
   <id>781</id>
-  <movieURL>Cinemassacre-781</movieURL>
+  <!-- <movieURL>Cinemassacre-781</movieURL> -->
+  <movieURL>G12qrFHC</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2006/10/Friday-the-13th.jpg</smallThumbnail>
   <duration>742</duration>
@@ -388,7 +374,8 @@
   <link>http://cinemassacre.com/2006/10/31/a-nightmare-on-elm-street-2/</link>
   <pubDate>Tue, 31 Oct 2006 16:36:46 -0500</pubDate>
   <id>787</id>
-  <movieURL>Cinemassacre-787</movieURL>
+  <!-- <movieURL>Cinemassacre-787</movieURL> -->
+  <movieURL>bu1r6wif</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2006/10/NightNes.jpg</smallThumbnail>
   <duration>885</duration>
@@ -407,7 +394,8 @@
   <link>http://cinemassacre.com/2006/11/22/the-power-glove/</link>
   <pubDate>Wed, 22 Nov 2006 16:38:07 -0500</pubDate>
   <id>793</id>
-  <movieURL>Cinemassacre-793</movieURL>
+  <!-- <movieURL>Cinemassacre-793</movieURL> -->
+  <movieURL>8HXYzVRN</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2006/11/PG.jpg</smallThumbnail>
   <duration>748</duration>
@@ -425,7 +413,8 @@
   <link>http://cinemassacre.com/2006/12/07/chronologically-confused-about-bad-movie-and-video-game-sequel-ti</link>
   <pubDate>Thu, 07 Dec 2006 16:39:20 -0500</pubDate>
   <id>800</id>
-  <movieURL>http://blip.tv/file/get/Cinemassacre-015ChronologicallyConfused525.m4v</movieURL>
+  <!-- <movieURL>http://blip.tv/file/get/Cinemassacre-015ChronologicallyConfused525.m4v</movieURL> -->
+  <movieURL>ptx1NEmH</movieURL>
   <description>015 Chronologically Confused</description>
   <smallThumbnail>http://a.images.blip.tv/Cinemassacre-015ChronologicallyConfused582-703-941.jpg</smallThumbnail>
   <duration>48</duration>
@@ -437,28 +426,13 @@
    <category id="7" activeInd="Y"/>
   </categories>
  </item>
- <item id="18912" activeInd="Y">
-  <title>Board James: Shark Attack</title>
-  <link>http://cinemassacre.com/2012/11/19/board-james-shark-attack/</link>
-  <pubDate>Mon, 19 Nov 2012 18:44:12 -0500</pubDate>
-  <id>18912</id>
-  <movieURL>http://cdn.springboard.gorillanation.com/storage/cinemassacre/conversion/560045.mp4</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/09/SA2.jpg</smallThumbnail>
-  <duration>304</duration>
-  <categories>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="8" activeInd="Y"/>
-   <category id="966" activeInd="Y"/>
-  </categories>
- </item>
  <item id="807" activeInd="Y">
   <title>AVGN: Rocky</title>
   <link>http://cinemassacre.com/2006/12/20/rocky/</link>
   <pubDate>Wed, 20 Dec 2006 16:41:24 -0500</pubDate>
   <id>807</id>
-  <movieURL>Cinemassacre-807</movieURL>
+  <!-- <movieURL>Cinemassacre-807</movieURL> -->
+  <movieURL>EjVnWE2F</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2006/12/Rocky.jpg</smallThumbnail>
   <duration>586</duration>
@@ -476,7 +450,8 @@
   <link>http://cinemassacre.com/2006/12/25/bible-games/</link>
   <pubDate>Mon, 25 Dec 2006 16:42:41 -0500</pubDate>
   <id>812</id>
-  <movieURL>Cinemassacre-812</movieURL>
+  <!-- <movieURL>Cinemassacre-812</movieURL> -->
+  <movieURL>5uYzsPtK</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2006/12/biblegames.png</smallThumbnail>
   <duration>1289</duration>
@@ -497,7 +472,8 @@
   <link>http://cinemassacre.com/2007/01/25/tmnt-part-1/</link>
   <pubDate>Thu, 25 Jan 2007 13:07:37 -0500</pubDate>
   <id>613</id>
-  <movieURL>http://cdn.springboard.gorillanation.com/storage/cinemassacre/conversion/476333.mp4</movieURL>
+  <!-- <movieURL>http://cdn.springboard.gorillanation.com/storage/cinemassacre/conversion/476333.mp4</movieURL> -->
+  <movieURL>EWxlxme7</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/12/tmnt3-1.jpg</smallThumbnail>
   <duration>1338</duration>
@@ -510,29 +486,13 @@
    <category id="7" activeInd="Y"/>
   </categories>
  </item>
- <item id="16986" activeInd="Y">
-  <title>Overanalyzers #15: Ghostbusters</title>
-  <link>http://cinemassacre.com/2012/04/21/overanalyzers-5/</link>
-  <pubDate>Sat, 21 Apr 2012 13:00:36 -0400</pubDate>
-  <id>16986</id>
-  <movieURL>http://blip.tv/file/get/CinemassacreCinevore-OAGhostbusters580.m4v</movieURL>
-  <description>OA Ghostbusters</description>
-  <smallThumbnail>http://a.images.blip.tv/CinemassacreCinevore-84149875.png</smallThumbnail>
-  <duration>379</duration>
-  <categories>
-   <category id="1071" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="510" activeInd="N"/>
-   <category id="9" activeInd="N"/>
-  </categories>
- </item>
  <item id="829" activeInd="Y">
   <title>AVGN: Atari 5200</title>
   <link>http://cinemassacre.com/2007/02/13/atari-5200/</link>
   <pubDate>Tue, 13 Feb 2007 16:47:21 -0500</pubDate>
   <id>829</id>
-  <movieURL>Cinemassacre-829</movieURL>
+  <!-- <movieURL>Cinemassacre-829</movieURL> -->
+  <movieURL>slwMITH4</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/02/020-Atari5200.jpg</smallThumbnail>
   <duration>619</duration>
@@ -549,7 +509,8 @@
   <link>http://cinemassacre.com/2007/02/27/ghostbusters/</link>
   <pubDate>Tue, 27 Feb 2007 17:45:12 -0500</pubDate>
   <id>1042</id>
-  <movieURL>Cinemassacre-1042</movieURL>
+  <!-- <movieURL>Cinemassacre-1042</movieURL> -->
+  <movieURL>9NNaxibS</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/02/ghostbusters-210x300.jpg</smallThumbnail>
   <duration>1027</duration>
@@ -568,7 +529,8 @@
   <link>http://cinemassacre.com/2007/03/20/ghostbusters-follow-up/</link>
   <pubDate>Tue, 20 Mar 2007 20:25:00 -0400</pubDate>
   <id>1260</id>
-  <movieURL>Cinemassacre-1260</movieURL>
+  <!-- <movieURL>Cinemassacre-1260</movieURL> -->
+  <movieURL>yVSKC84W</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/03/022-GBfollowup-300x200.jpg</smallThumbnail>
   <duration>675</duration>
@@ -583,27 +545,13 @@
    <category id="989" activeInd="Y"/>
   </categories>
  </item>
- <item id="24238" activeInd="Y">
-  <title>Snix Again (1997)</title>
-  <link>http://cinemassacre.com/2013/04/27/snix-again-1997/</link>
-  <pubDate>Sat, 27 Apr 2013 00:24:34 -0400</pubDate>
-  <id>24238</id>
-  <movieURL>http://blip.tv/file/get/Cinemassacre-SNIXAGAIN1997818.m4v</movieURL>
-  <description>The 3rd Snix movie. Vintage Cinemassacre history</description>
-  <smallThumbnail>http://a.images.blip.tv/Cinemassacre-SNIXAGAIN1997586.jpg</smallThumbnail>
-  <duration>1269</duration>
-  <categories>
-   <category id="14" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="413" activeInd="Y"/>
-  </categories>
- </item>
  <item id="1262" activeInd="Y">
   <title>AVGN: Ghostbusters Conclusion</title>
   <link>http://cinemassacre.com/2007/04/03/ghostbusters-conclusion/</link>
   <pubDate>Tue, 03 Apr 2007 20:30:13 -0400</pubDate>
   <id>1262</id>
-  <movieURL>Cinemassacre-1262</movieURL>
+  <!-- <movieURL>Cinemassacre-1262</movieURL> -->
+  <movieURL>Tda0yJ7k</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/04/023-conclusion-300x200.jpg</smallThumbnail>
   <duration>769</duration>
@@ -621,7 +569,8 @@
   <link>http://cinemassacre.com/2007/04/17/spiderman/</link>
   <pubDate>Tue, 17 Apr 2007 20:30:44 -0400</pubDate>
   <id>1266</id>
-  <movieURL>Cinemassacre-1266</movieURL>
+  <!-- <movieURL>Cinemassacre-1266</movieURL> -->
+  <movieURL>bqgNGupn</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/04/SpiderMan-219x300.jpg</smallThumbnail>
   <duration>620</duration>
@@ -643,7 +592,8 @@
   <link>http://cinemassacre.com/2007/05/02/sega-cd/</link>
   <pubDate>Wed, 02 May 2007 20:33:12 -0400</pubDate>
   <id>1268</id>
-  <movieURL>Cinemassacre-1268</movieURL>
+  <!-- <movieURL>Cinemassacre-1268</movieURL> -->
+  <movieURL>J1bHi9rz</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/05/SegaCD-300x204.jpg</smallThumbnail>
   <duration>793</duration>
@@ -661,7 +611,8 @@
   <link>http://cinemassacre.com/2007/05/15/sega-32x/</link>
   <pubDate>Tue, 15 May 2007 20:43:39 -0400</pubDate>
   <id>1270</id>
-  <movieURL>Cinemassacre-1270</movieURL>
+  <!-- <movieURL>Cinemassacre-1270</movieURL> -->
+  <movieURL>iF6JBh84</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/05/sega32xnew-300x193.jpg</smallThumbnail>
   <duration>535</duration>
@@ -673,32 +624,13 @@
    <category id="7" activeInd="Y"/>
   </categories>
  </item>
- <item id="20160" activeInd="Y">
-  <title>AVGN: Atari Sports</title>
-  <link>http://cinemassacre.com/2012/12/17/avgn-atari-sports/</link>
-  <pubDate>Mon, 17 Dec 2012 13:13:18 -0500</pubDate>
-  <id>20160</id>
-  <movieURL>Cinemassacre-20160</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/12/Sports.jpg</smallThumbnail>
-  <duration>762</duration>
-  <categories>
-   <category id="1058" activeInd="Y"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-   <category id="909" activeInd="N"/>
-   <category id="988" activeInd="Y"/>
-  </categories>
- </item>
  <item id="1273" activeInd="Y">
   <title>AVGN: Silver Surfer</title>
   <link>http://cinemassacre.com/2007/06/05/silver-surfer/</link>
   <pubDate>Tue, 05 Jun 2007 20:51:04 -0400</pubDate>
   <id>1273</id>
-  <movieURL>Cinemassacre-1273</movieURL>
+  <!-- <movieURL>Cinemassacre-1273</movieURL> -->
+  <movieURL>8Hhqg3Zj</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/06/silversurfer-210x300.jpg</smallThumbnail>
   <duration>669</duration>
@@ -714,7 +646,8 @@
   <link>http://cinemassacre.com/2007/06/19/avgn-die-hard/</link>
   <pubDate>Tue, 19 Jun 2007 20:53:31 -0400</pubDate>
   <id>1275</id>
-  <movieURL>Cinemassacre-1275</movieURL>
+  <!-- <movieURL>Cinemassacre-1275</movieURL> -->
+  <movieURL>EijVYgaS</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/06/die-hard-211x300.jpg</smallThumbnail>
   <duration>531</duration>
@@ -731,7 +664,8 @@
   <link>http://cinemassacre.com/2007/07/03/independence-day/</link>
   <pubDate>Tue, 03 Jul 2007 21:14:22 -0400</pubDate>
   <id>1278</id>
-  <movieURL>Cinemassacre-1278</movieURL>
+  <!-- <movieURL>Cinemassacre-1278</movieURL> -->
+  <movieURL>uIQd3139</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/07/Ship.jpg</smallThumbnail>
   <duration>371</duration>
@@ -748,7 +682,8 @@
   <link>http://cinemassacre.com/2007/07/17/avgn-the-simpsons/</link>
   <pubDate>Tue, 17 Jul 2007 21:21:15 -0400</pubDate>
   <id>1281</id>
-  <movieURL>Cinemassacre-1281</movieURL>
+  <!-- <movieURL>Cinemassacre-1281</movieURL> -->
+  <movieURL>RtqCPu8E</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/07/Bart-215x300.jpg</smallThumbnail>
   <duration>789</duration>
@@ -764,7 +699,8 @@
   <link>http://cinemassacre.com/2007/08/07/bugs-bunnys-birthday-blowout/</link>
   <pubDate>Tue, 07 Aug 2007 21:23:30 -0400</pubDate>
   <id>1283</id>
-  <movieURL>Cinemassacre-1283</movieURL>
+  <!-- <movieURL>Cinemassacre-1283</movieURL> -->
+  <movieURL>O1IKeYH0</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/08/bugs.jpg</smallThumbnail>
   <duration>524</duration>
@@ -776,47 +712,13 @@
    <category id="7" activeInd="Y"/>
   </categories>
  </item>
- <item id="25064" activeInd="Y">
-  <title>Super C (NES) with James &amp; Mike</title>
-  <link>http://cinemassacre.com/2013/05/14/james-mike-play-super-c/</link>
-  <pubDate>Tue, 14 May 2013 05:51:42 -0400</pubDate>
-  <id>25064</id>
-  <movieURL>Cinemassacre-25064</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/04/SuperC.jpg</smallThumbnail>
-  <duration>1640</duration>
-  <categories>
-   <category id="1067" activeInd="Y"/>
-   <category id="1143" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="504" activeInd="Y"/>
-   <category id="780" activeInd="Y"/>
-  </categories>
- </item>
- <item id="15374" activeInd="Y">
-  <title>Most Unlikely VS Battles </title>
-  <link>http://cinemassacre.com/2012/02/10/most-unlikely-vs-battles/</link>
-  <pubDate>Fri, 10 Feb 2012 00:01:04 -0500</pubDate>
-  <id>15374</id>
-  <movieURL>Cinemassacre-15374</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/02/MJ.jpg</smallThumbnail>
-  <duration>465</duration>
-  <categories>
-   <category id="1071" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="401" activeInd="N"/>
-   <category id="416" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="9" activeInd="Y"/>
-  </categories>
- </item>
  <item id="1285" activeInd="Y">
   <title>AVGN: Atari Porn</title>
   <link>http://cinemassacre.com/2007/08/22/atari-porn/</link>
   <pubDate>Wed, 22 Aug 2007 21:25:33 -0400</pubDate>
   <id>1285</id>
-  <movieURL>http://cdn.springboard.gorillanation.com/storage/cinemassacre/conversion/474229.mp4</movieURL>
+  <!-- <movieURL>http://cdn.springboard.gorillanation.com/storage/cinemassacre/conversion/474229.mp4</movieURL> -->
+  <movieURL>La9WLQBD</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/08/atariporn-237x300.jpg</smallThumbnail>
   <duration>604</duration>
@@ -833,7 +735,8 @@
   <link>http://cinemassacre.com/2007/09/04/avgn-nintendo-power/</link>
   <pubDate>Tue, 04 Sep 2007 21:28:50 -0400</pubDate>
   <id>1287</id>
-  <movieURL>Cinemassacre-1287</movieURL>
+  <!-- <movieURL>Cinemassacre-1287</movieURL> -->
+  <movieURL>a9x0gJN5</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/09/Nintendo-Power-225x300.jpg</smallThumbnail>
   <duration>885</duration>
@@ -850,7 +753,8 @@
   <link>http://cinemassacre.com/2007/09/18/festers-quest/</link>
   <pubDate>Tue, 18 Sep 2007 21:31:25 -0400</pubDate>
   <id>1290</id>
-  <movieURL>Cinemassacre-1290</movieURL>
+  <!-- <movieURL>Cinemassacre-1290</movieURL> -->
+  <movieURL>P4Ocn5yz</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/09/Fester-211x300.jpg</smallThumbnail>
   <duration>565</duration>
@@ -867,7 +771,8 @@
   <link>http://cinemassacre.com/2007/10/09/texas-chainsaw-massacre-2/</link>
   <pubDate>Tue, 09 Oct 2007 21:33:49 -0400</pubDate>
   <id>1293</id>
-  <movieURL>Cinemassacre-1293</movieURL>
+  <!-- <movieURL>Cinemassacre-1293</movieURL> -->
+  <movieURL>Y1KnfQ2e</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/10/b_TexasChainsawMassacre_front-220x300.jpg</smallThumbnail>
   <duration>766</duration>
@@ -877,20 +782,6 @@
    <category id="20" activeInd="Y"/>
    <category id="422" activeInd="Y"/>
    <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="534f578c035b5" activeInd="Y">
-  <title>Nostalgic Scary Books</title>
-  <link>http://cinemassacre.com/2014/05/09/nostalgic-scary-books/</link>
-  <pubDate>Fri, 09 May 2014 04:34:52 -0400</pubDate>
-  <id>534f578c035b5</id>
-  <movieURL>Cinemassacre-534f578c035b5</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2014/05/01-Nostalgic-Scary-Books.jpg</smallThumbnail>
-  <duration>419</duration>
-  <categories>
-   <category id="1077" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
   </categories>
  </item>
  <item id="1295" activeInd="Y">
@@ -1153,26 +1044,6 @@
    <category id="7" activeInd="Y"/>
   </categories>
  </item>
- <item id="20201" activeInd="Y">
-  <title>What's the best Christmas movie?</title>
-  <link>http://cinemassacre.com/2012/12/22/whats-the-best-christmas-movie/</link>
-  <pubDate>Sat, 22 Dec 2012 23:10:56 -0500</pubDate>
-  <id>20201</id>
-  <movieURL>Cinemassacre-20201</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/12/Best-Christmas-Movie-STILL-FOR-SITE.jpg</smallThumbnail>
-  <duration>694</duration>
-  <categories>
-   <category id="1063" activeInd="Y"/>
-   <category id="1397" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="416" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="468" activeInd="Y"/>
-   <category id="479" activeInd="N"/>
-   <category id="9" activeInd="Y"/>
-  </categories>
- </item>
  <item id="1341" activeInd="Y">
   <title>AVGN: Indiana Jones Trilogy</title>
   <link>http://cinemassacre.com/2008/05/20/indiana-jones-trilogy-2/</link>
@@ -1206,26 +1077,6 @@
    <category id="4" activeInd="N"/>
    <category id="422" activeInd="Y"/>
    <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="25665" activeInd="Y">
-  <title>Frankenstein (1993)</title>
-  <link>http://cinemassacre.com/2013/06/13/frankenstein-1993/</link>
-  <pubDate>Thu, 13 Jun 2013 02:13:56 -0400</pubDate>
-  <id>25665</id>
-  <movieURL>http://blip.tv/file/get/Cinemassacre-TheForgottenFRANKENSTEIN1993168.m4v</movieURL>
-  <description>Cinemassacre takes a look at the made-for-television (TNT) adaptation of Frankenstein from 1993.</description>
-  <smallThumbnail>http://a.images.blip.tv/Cinemassacre-TheForgottenFRANKENSTEIN1993979.jpg</smallThumbnail>
-  <duration>418</duration>
-  <categories>
-   <category id="1032" activeInd="Y"/>
-   <category id="1073" activeInd="Y"/>
-   <category id="115" activeInd="Y"/>
-   <category id="1161" activeInd="Y"/>
-   <category id="14" activeInd="N"/>
-   <category id="4" activeInd="N"/>
-   <category id="452" activeInd="Y"/>
-   <category id="9" activeInd="Y"/>
   </categories>
  </item>
  <item id="1345" activeInd="Y">
@@ -1294,12 +1145,189 @@
    <category id="7" activeInd="Y"/>
   </categories>
  </item>
+ <item id="20160" activeInd="Y">
+  <title>AVGN: Atari Sports</title>
+  <link>http://cinemassacre.com/2012/12/17/avgn-atari-sports/</link>
+  <pubDate>Mon, 17 Dec 2012 13:13:18 -0500</pubDate>
+  <id>20160</id>
+  <!-- <movieURL>Cinemassacre-20160</movieURL> -->
+  <movieURL>MOfieJ6I</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/12/Sports.jpg</smallThumbnail>
+  <duration>762</duration>
+  <categories>
+   <category id="1058" activeInd="Y"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+   <category id="909" activeInd="N"/>
+   <category id="988" activeInd="Y"/>
+  </categories>
+ </item>
  
  
  
  
  
  
+ 
+ 
+ <item id="534f578c035b5" activeInd="Y">
+  <title>Nostalgic Scary Books</title>
+  <link>http://cinemassacre.com/2014/05/09/nostalgic-scary-books/</link>
+  <pubDate>Fri, 09 May 2014 04:34:52 -0400</pubDate>
+  <id>534f578c035b5</id>
+  <movieURL>Cinemassacre-534f578c035b5</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2014/05/01-Nostalgic-Scary-Books.jpg</smallThumbnail>
+  <duration>419</duration>
+  <categories>
+   <category id="1077" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+  </categories>
+ </item>
+ <item id="24238" activeInd="Y">
+  <title>Snix Again (1997)</title>
+  <link>http://cinemassacre.com/2013/04/27/snix-again-1997/</link>
+  <pubDate>Sat, 27 Apr 2013 00:24:34 -0400</pubDate>
+  <id>24238</id>
+  <movieURL>http://blip.tv/file/get/Cinemassacre-SNIXAGAIN1997818.m4v</movieURL>
+  <description>The 3rd Snix movie. Vintage Cinemassacre history</description>
+  <smallThumbnail>http://a.images.blip.tv/Cinemassacre-SNIXAGAIN1997586.jpg</smallThumbnail>
+  <duration>1269</duration>
+  <categories>
+   <category id="14" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="413" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="16986" activeInd="Y">
+  <title>Overanalyzers #15: Ghostbusters</title>
+  <link>http://cinemassacre.com/2012/04/21/overanalyzers-5/</link>
+  <pubDate>Sat, 21 Apr 2012 13:00:36 -0400</pubDate>
+  <id>16986</id>
+  <movieURL>http://blip.tv/file/get/CinemassacreCinevore-OAGhostbusters580.m4v</movieURL>
+  <description>OA Ghostbusters</description>
+  <smallThumbnail>http://a.images.blip.tv/CinemassacreCinevore-84149875.png</smallThumbnail>
+  <duration>379</duration>
+  <categories>
+   <category id="1071" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="510" activeInd="N"/>
+   <category id="9" activeInd="N"/>
+  </categories>
+ </item>
+ <item id="18912" activeInd="Y">
+  <title>Board James: Shark Attack</title>
+  <link>http://cinemassacre.com/2012/11/19/board-james-shark-attack/</link>
+  <pubDate>Mon, 19 Nov 2012 18:44:12 -0500</pubDate>
+  <id>18912</id>
+  <movieURL>http://cdn.springboard.gorillanation.com/storage/cinemassacre/conversion/560045.mp4</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/09/SA2.jpg</smallThumbnail>
+  <duration>304</duration>
+  <categories>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="8" activeInd="Y"/>
+   <category id="966" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="25064" activeInd="Y">
+  <title>Super C (NES) with James &amp; Mike</title>
+  <link>http://cinemassacre.com/2013/05/14/james-mike-play-super-c/</link>
+  <pubDate>Tue, 14 May 2013 05:51:42 -0400</pubDate>
+  <id>25064</id>
+  <movieURL>Cinemassacre-25064</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/04/SuperC.jpg</smallThumbnail>
+  <duration>1640</duration>
+  <categories>
+   <category id="1067" activeInd="Y"/>
+   <category id="1143" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="504" activeInd="Y"/>
+   <category id="780" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="15374" activeInd="Y">
+  <title>Most Unlikely VS Battles </title>
+  <link>http://cinemassacre.com/2012/02/10/most-unlikely-vs-battles/</link>
+  <pubDate>Fri, 10 Feb 2012 00:01:04 -0500</pubDate>
+  <id>15374</id>
+  <movieURL>Cinemassacre-15374</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/02/MJ.jpg</smallThumbnail>
+  <duration>465</duration>
+  <categories>
+   <category id="1071" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="401" activeInd="N"/>
+   <category id="416" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="9" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="525642112a17b" activeInd="Y">
+  <title>Top 10 Most Unfair Gaming Moments</title>
+  <link>http://cinemassacre.com/2013/12/13/top-10-most-unfair-gaming-moments/</link>
+  <pubDate>Fri, 13 Dec 2013 17:43:03 -0500</pubDate>
+  <id>525642112a17b</id>
+  <movieURL>Cinemassacre-525642112a17b</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/11/Unfair.jpg</smallThumbnail>
+  <duration>336</duration>
+  <categories>
+   <category id="1373" activeInd="Y"/>
+   <category id="226" activeInd="Y"/>
+   <category id="263" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="20201" activeInd="Y">
+  <title>What's the best Christmas movie?</title>
+  <link>http://cinemassacre.com/2012/12/22/whats-the-best-christmas-movie/</link>
+  <pubDate>Sat, 22 Dec 2012 23:10:56 -0500</pubDate>
+  <id>20201</id>
+  <movieURL>Cinemassacre-20201</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/12/Best-Christmas-Movie-STILL-FOR-SITE.jpg</smallThumbnail>
+  <duration>694</duration>
+  <categories>
+   <category id="1063" activeInd="Y"/>
+   <category id="1397" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="416" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="468" activeInd="Y"/>
+   <category id="479" activeInd="N"/>
+   <category id="9" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="25665" activeInd="Y">
+  <title>Frankenstein (1993)</title>
+  <link>http://cinemassacre.com/2013/06/13/frankenstein-1993/</link>
+  <pubDate>Thu, 13 Jun 2013 02:13:56 -0400</pubDate>
+  <id>25665</id>
+  <movieURL>http://blip.tv/file/get/Cinemassacre-TheForgottenFRANKENSTEIN1993168.m4v</movieURL>
+  <description>Cinemassacre takes a look at the made-for-television (TNT) adaptation of Frankenstein from 1993.</description>
+  <smallThumbnail>http://a.images.blip.tv/Cinemassacre-TheForgottenFRANKENSTEIN1993979.jpg</smallThumbnail>
+  <duration>418</duration>
+  <categories>
+   <category id="1032" activeInd="Y"/>
+   <category id="1073" activeInd="Y"/>
+   <category id="115" activeInd="Y"/>
+   <category id="1161" activeInd="Y"/>
+   <category id="14" activeInd="N"/>
+   <category id="4" activeInd="N"/>
+   <category id="452" activeInd="Y"/>
+   <category id="9" activeInd="Y"/>
+  </categories>
+ </item>
  <item id="111" activeInd="Y">
   <title>Halloween party 1991</title>
   <link>http://cinemassacre.com/1991/10/30/halloween-party-1991/</link>
