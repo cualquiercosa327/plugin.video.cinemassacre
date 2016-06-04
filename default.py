@@ -350,19 +350,6 @@ def video_id(value):
         return youtube_regex_match.group(6)
 
     return youtube_regex_match
-	
-def video_id_jwp(value):
-	jwplayer_regex = (
-		r'(http?://)?(content\.)?'
-		'(jwplatform)\.(com)/'
-		'(players/)?(.*)-(.*)?(\.m3u8)')
-
-	jwplayer_regex_match = re.match(jwplayer_regex, value)
-
-	if jwplayer_regex_match:
-		return jwplayer_regex_match.group(7)
-
-	return jwplayer_regex_match
 
 def get_signature(key, msg):
     return base64.b64encode(hmac.new(key, msg, hashlib.sha1).digest())
@@ -458,26 +445,6 @@ def getCategories(content,id):
             items.append((url, listitem, False))
 
     xbmcplugin.addDirectoryItems(addon_handle,items)
-			
-
-def getLinks(page):
-
-	# Original Source: http://kodi.wiki/view/How-to:Write_Python_Scripts
-
-	LinkDescription = []
-	LinkURL = []
-	 
-	socket = urllib.urlopen(page)
-	linkdump = socket.read()
-	socket.close()
-	 
-	urltemp = re.compile('<script src=["]//content.jwplatform.com/players/(*)-(*)[.]m3u8["]>', re.IGNORECASE).findall(linkdump)
-	desctemp = re.compile('<script src=["]//content.jwplatform.com/players/(*)-(*)[.]m3u8["]>(.*)</script>').findall(linkdump)
-	 
-	for urls, desc in zip(urltemp,desctemp):
-		LinkURL.append(urls[9:-2])
-		LinkDescription.append(desc)
-		xbmc.executebuiltin("Notification("+LinkURL+")")
 	
 
 xbmcplugin.setContent(addon_handle, "episodes")
@@ -486,5 +453,6 @@ content = cache.cacheFunction(getContent)
 getCategories(content, id)
 
 xbmcplugin.endOfDirectory(addon_handle)
+
 # Media Info View
 xbmc.executebuiltin('Container.SetViewMode(504)')
