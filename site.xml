@@ -2255,7 +2255,7 @@
   </categories>
  </item>
  <item id="528c1b5eed643" activeInd="Y">
-  <title>AVGN: AVGN Games! </title>
+  <title>AVGN: AVGN Games!</title>
   <link>http://cinemassacre.com/2013/11/19/avgn-avgn-games/</link>
   <pubDate>Tue, 19 Nov 2013 21:04:54 -0500</pubDate>
   <id>528c1b5eed643</id>
@@ -2277,7 +2277,7 @@
   </categories>
  </item>
  <item id="52b0adeb9ea41" activeInd="Y">
-  <title>AVGN: Wish List (Part 1) </title>
+  <title>AVGN: Wish List (Part 1)</title>
   <link>http://cinemassacre.com/2013/12/17/avgn-wish-list-part-1/</link>
   <pubDate>Tue, 17 Dec 2013 15:13:02 -0500</pubDate>
   <id>52b0adeb9ea41</id>
@@ -2353,7 +2353,7 @@
   </categories>
  </item>
  <item id="54373b5abafc5" activeInd="Y">
-  <title>E.T. Atari 2600 - Angry Video Game Nerd - Episode 120</title>
+  <title>AVGN: E.T. Atari 2600</title>
   <link>http://cinemassacre.com/2014/10/10/e-t-atari-2600-angry-video-game-nerd-episode-120/</link>
   <pubDate>Fri, 10 Oct 2014 09:52:24 -0400</pubDate>
   <id>54373b5abafc5</id>
@@ -19847,7 +19847,7 @@
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/10/Alien-3-STILL-1.jpg</smallThumbnail>
   <duration>629</duration>
   <categories>
-   <category id="1065" activeInd="Y"/>
+   <!-- <category id="1065" activeInd="Y"/> -->
    <category id="1258" activeInd="Y"/>
    <category id="129" activeInd="Y"/>
    <category id="1353" activeInd="Y"/>
@@ -19865,7 +19865,7 @@
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/10/Alien-3-STILL-1.jpg</smallThumbnail>
   <duration>617</duration>
   <categories>
-   <category id="1065" activeInd="Y"/>
+   <!-- <category id="1065" activeInd="Y"/> -->
    <category id="1258" activeInd="Y"/>
    <category id="129" activeInd="Y"/>
    <category id="1353" activeInd="Y"/>
