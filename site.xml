@@ -789,7 +789,8 @@
   <link>http://cinemassacre.com/2007/10/30/halloween-2/</link>
   <pubDate>Tue, 30 Oct 2007 21:41:21 -0400</pubDate>
   <id>1295</id>
-  <movieURL>Cinemassacre-1295</movieURL>
+  <!-- <movieURL>Cinemassacre-1295</movieURL> -->
+  <movieURL>B1mlp7QY</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/10/b_Halloween_front-221x300.jpg</smallThumbnail>
   <duration>968</duration>
@@ -806,7 +807,8 @@
   <link>http://cinemassacre.com/2007/11/20/dragons-lair/</link>
   <pubDate>Tue, 20 Nov 2007 20:48:07 -0500</pubDate>
   <id>1297</id>
-  <movieURL>Cinemassacre-1297</movieURL>
+  <!-- <movieURL>Cinemassacre-1297</movieURL> -->
+  <movieURL>mpDhgU9b</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/11/DL.jpg</smallThumbnail>
   <duration>563</duration>
@@ -818,36 +820,13 @@
    <category id="7" activeInd="Y"/>
   </categories>
  </item>
- <item id="19911" activeInd="Y">
-  <title>&quot;Angry Video Game Nerd: The Movie&quot; - Trailer</title>
-  <link>http://cinemassacre.com/2012/11/10/avgn-the-movie-trailer/</link>
-  <pubDate>Sat, 10 Nov 2012 17:00:00 -0500</pubDate>
-  <id>19911</id>
-  <movieURL>http://cdn.springboardplatform.com/storage/cinemassacre/conversion/600803.mp4</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/11/WEB_STILL-2.jpg</smallThumbnail>
-  <duration>169</duration>
-  <categories>
-   <category id="1044" activeInd="Y"/>
-   <category id="1045" activeInd="Y"/>
-   <category id="1046" activeInd="Y"/>
-   <category id="14" activeInd="Y"/>
-   <category id="172" activeInd="Y"/>
-   <category id="226" activeInd="Y"/>
-   <category id="25" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-   <category id="804" activeInd="Y"/>
-   <category id="988" activeInd="Y"/>
-  </categories>
- </item>
  <item id="1299" activeInd="Y">
   <title>AVGN: Christmas Carol Part 1 - Home Alone 2</title>
   <link>http://cinemassacre.com/2007/12/18/christmas-carol-part-1-home-alone-2/</link>
   <pubDate>Tue, 18 Dec 2007 20:52:15 -0500</pubDate>
   <id>1299</id>
-  <movieURL>Cinemassacre-1299</movieURL>
+  <!-- <movieURL>Cinemassacre-1299</movieURL> -->
+  <movieURL>edbwOELh</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/12/Home-Alone-2-208x300.jpg</smallThumbnail>
   <duration>354</duration>
@@ -865,7 +844,8 @@
   <link>http://cinemassacre.com/2007/12/24/christmas-carol-part-2-shaq-fu/</link>
   <pubDate>Mon, 24 Dec 2007 20:55:29 -0500</pubDate>
   <id>1302</id>
-  <movieURL>Cinemassacre-1302</movieURL>
+  <!-- <movieURL>Cinemassacre-1302</movieURL> -->
+  <movieURL>rSgkKsW8</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2007/12/Shaqfu-300x220.jpg</smallThumbnail>
   <duration>587</duration>
@@ -883,7 +863,8 @@
   <link>http://cinemassacre.com/2008/01/08/chronologically-confused-about-the-legend-of-zelda-timeline/</link>
   <pubDate>Tue, 08 Jan 2008 20:57:38 -0500</pubDate>
   <id>1304</id>
-  <movieURL>Cinemassacre-1304</movieURL>
+  <!-- <movieURL>Cinemassacre-1304</movieURL> -->
+  <movieURL>QWWNtFDM</movieURL>
   <description></description>
   <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/01/Zelda_SNES.jpg</smallThumbnail>
   <duration>1136</duration>
@@ -893,6 +874,1576 @@
    <category id="20" activeInd="Y"/>
    <category id="4" activeInd="N"/>
    <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1306" activeInd="Y">
+  <title>AVGN: Rambo</title>
+  <link>http://cinemassacre.com/2008/01/22/rambo/</link>
+  <pubDate>Tue, 22 Jan 2008 21:03:57 -0500</pubDate>
+  <id>1306</id>
+  <!-- <movieURL>Cinemassacre-1306</movieURL> -->
+  <movieURL>aT2SculS</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/01/rambo-207x300.jpg</smallThumbnail>
+  <duration>793</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="N"/>
+   <category id="20" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1309" activeInd="Y">
+  <title>AVGN: Virtual Boy</title>
+  <link>http://cinemassacre.com/2008/02/19/virtual-boy/</link>
+  <pubDate>Tue, 19 Feb 2008 21:22:41 -0500</pubDate>
+  <id>1309</id>
+  <!-- <movieURL>Cinemassacre-1309</movieURL> -->
+  <movieURL>5Z9y3dNs</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/02/Virtual-Boy-300x225.jpg</smallThumbnail>
+  <duration>906</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1311" activeInd="Y">
+  <title>AVGN: Wizard of Oz</title>
+  <link>http://cinemassacre.com/2008/03/04/wizard-of-oz/</link>
+  <pubDate>Tue, 04 Mar 2008 21:27:24 -0500</pubDate>
+  <id>1311</id>
+  <!-- <movieURL>Cinemassacre-1311</movieURL> -->
+  <movieURL>euO2eiA3</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/03/WizardSnesBox-300x215.jpg</smallThumbnail>
+  <duration>693</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1331" activeInd="Y">
+  <title>AVGN: Doublevision Part 1 - Intellivision</title>
+  <link>http://cinemassacre.com/2008/03/25/doublevision-part-1-intellivision/</link>
+  <pubDate>Tue, 25 Mar 2008 11:55:17 -0400</pubDate>
+  <id>1331</id>
+  <!-- <movieURL>Cinemassacre-1331</movieURL> -->
+  <movieURL>aMOY0Mip</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/03/044-45-DoubleVision-300x200.jpg</smallThumbnail>
+  <duration>603</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1335" activeInd="Y">
+  <title>AVGN: Doublevision Part 2 - Colecovision</title>
+  <link>http://cinemassacre.com/2008/04/08/doublevision-part-2-colecovision/</link>
+  <pubDate>Tue, 08 Apr 2008 11:58:18 -0400</pubDate>
+  <id>1335</id>
+  <!-- <movieURL>Cinemassacre-1335</movieURL> -->
+  <movieURL>p90COAhL</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/04/044-45-DoubleVision-300x200.jpg</smallThumbnail>
+  <duration>504</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1337" activeInd="Y">
+  <title>AVGN: The Wizard and Super Mario Bros 3</title>
+  <link>http://cinemassacre.com/2008/04/22/the-wizard-and-super-mario-bros-3/</link>
+  <pubDate>Tue, 22 Apr 2008 12:00:30 -0400</pubDate>
+  <id>1337</id>
+  <!-- <movieURL>http://www.youtube.com/embed/7TWQz8TMsc0</movieURL> -->
+  <movieURL>mDvW7KCQ</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/04/super-mario-bros-3-box-211x300.jpg</smallThumbnail>
+  <duration>1039</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1339" activeInd="Y">
+  <title>AVGN: Nes Accessories</title>
+  <link>http://cinemassacre.com/2008/05/14/nes-accessories/</link>
+  <pubDate>Wed, 14 May 2008 12:02:56 -0400</pubDate>
+  <id>1339</id>
+  <!-- <movieURL>Cinemassacre-1339</movieURL> -->
+  <movieURL>2ItMYyHs</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/05/avgn_nes-accessories.jpg</smallThumbnail>
+  <duration>831</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1341" activeInd="Y">
+  <title>AVGN: Indiana Jones Trilogy</title>
+  <link>http://cinemassacre.com/2008/05/20/indiana-jones-trilogy-2/</link>
+  <pubDate>Tue, 20 May 2008 12:05:06 -0400</pubDate>
+  <id>1341</id>
+  <!-- <movieURL>Cinemassacre-1341</movieURL> -->
+  <movieURL>szNfoCcb</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/05/048-AVGN-Indiana-Jones-Trilogy.jpg</smallThumbnail>
+  <duration>1047</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1074" activeInd="N"/>
+   <category id="19" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1343" activeInd="Y">
+  <title>AVGN: Star Trek</title>
+  <link>http://cinemassacre.com/2008/06/11/avgn-star-trek-2/</link>
+  <pubDate>Wed, 11 Jun 2008 12:07:53 -0400</pubDate>
+  <id>1343</id>
+  <!-- <movieURL>Cinemassacre-1343</movieURL> -->
+  <movieURL>w4xAqfdz</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/06/TrekNES.jpg</smallThumbnail>
+  <duration>646</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1345" activeInd="Y">
+  <title>AVGN: Superman</title>
+  <link>http://cinemassacre.com/2008/06/26/avgn-superman-2/</link>
+  <pubDate>Thu, 26 Jun 2008 12:10:54 -0400</pubDate>
+  <id>1345</id>
+  <!-- <movieURL>Cinemassacre-1345</movieURL> -->
+  <movieURL>muh3KF13</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/06/050-superman.jpg</smallThumbnail>
+  <duration>706</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1347" activeInd="Y">
+  <title>AVGN: Superman 64</title>
+  <link>http://cinemassacre.com/2008/07/08/avgn-superman-64-2/</link>
+  <pubDate>Tue, 08 Jul 2008 12:13:53 -0400</pubDate>
+  <id>1347</id>
+  <!-- <movieURL>Cinemassacre-1347</movieURL> -->
+  <movieURL>AlkutvII</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/07/051-Superman64.jpg</smallThumbnail>
+  <duration>637</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1349" activeInd="Y">
+  <title>AVGN: Batman Part 1</title>
+  <link>http://cinemassacre.com/2008/07/22/batman-part-1/</link>
+  <pubDate>Tue, 22 Jul 2008 12:16:13 -0400</pubDate>
+  <id>1349</id>
+  <!-- <movieURL>Cinemassacre-1349</movieURL> -->
+  <movieURL>WgMcNttt</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/07/052_Batman.jpg</smallThumbnail>
+  <duration>705</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1351" activeInd="Y">
+  <title>AVGN: Batman Part 2</title>
+  <link>http://cinemassacre.com/2008/08/10/batman-part-2/</link>
+  <pubDate>Sun, 10 Aug 2008 12:18:39 -0400</pubDate>
+  <id>1351</id>
+  <!-- <movieURL>Cinemassacre-1351</movieURL> -->
+  <movieURL>w7JVjQoJ</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/08/img316.jpg</smallThumbnail>
+  <duration>583</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1353" activeInd="Y">
+  <title>AVGN: Deadly Towers</title>
+  <link>http://cinemassacre.com/2008/08/19/deadly-towers/</link>
+  <pubDate>Tue, 19 Aug 2008 12:20:10 -0400</pubDate>
+  <id>1353</id>
+  <!-- <movieURL>Cinemassacre-1353</movieURL> -->
+  <movieURL>1ELaxkJ4</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/08/054-Deadly-Towers.jpg</smallThumbnail>
+  <duration>501</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1355" activeInd="Y">
+  <title>AVGN: Battletoads</title>
+  <link>http://cinemassacre.com/2008/09/03/battletoads/</link>
+  <pubDate>Wed, 03 Sep 2008 12:21:53 -0400</pubDate>
+  <id>1355</id>
+  <!-- <movieURL>Cinemassacre-1355</movieURL> -->
+  <movieURL>b0v3uI21</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/09/055-Battletoads.jpg</smallThumbnail>
+  <duration>472</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1357" activeInd="Y">
+  <title>AVGN: Dick Tracy</title>
+  <link>http://cinemassacre.com/2008/09/16/dick-tracy/</link>
+  <pubDate>Tue, 16 Sep 2008 12:24:19 -0400</pubDate>
+  <id>1357</id>
+  <!-- <movieURL>Cinemassacre-1357</movieURL> -->
+  <movieURL>FcDhf4J5</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/09/056-DickTracy.jpg</smallThumbnail>
+  <duration>845</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1360" activeInd="Y">
+  <title>AVGN: Dracula</title>
+  <link>http://cinemassacre.com/2008/10/14/avgn-dracula-2/</link>
+  <pubDate>Tue, 14 Oct 2008 12:27:32 -0400</pubDate>
+  <id>1360</id>
+  <!-- <movieURL>Cinemassacre-1360</movieURL> -->
+  <movieURL>U3vDmRaT</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/10/057-Dracula.jpg</smallThumbnail>
+  <duration>718</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1340" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1362" activeInd="Y">
+  <title>AVGN: Frankenstein</title>
+  <link>http://cinemassacre.com/2008/10/29/avgn-frankenstein/</link>
+  <pubDate>Wed, 29 Oct 2008 12:29:35 -0400</pubDate>
+  <id>1362</id>
+  <!-- <movieURL>Cinemassacre-1362</movieURL> -->
+  <movieURL>tORTJPDw</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/10/058-Frankenstein.jpg</smallThumbnail>
+  <duration>849</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1340" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1364" activeInd="Y">
+  <title>AVGN: CD-I Part 1 - Hotel Mario</title>
+  <link>http://cinemassacre.com/2008/11/12/avgn-cd-i-part-1/</link>
+  <pubDate>Wed, 12 Nov 2008 11:31:21 -0500</pubDate>
+  <id>1364</id>
+  <!-- <movieURL>Cinemassacre-1364</movieURL> -->
+  <movieURL>GN2K0pgI</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/11/059-CDI-part1.jpg</smallThumbnail>
+  <duration>478</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1366" activeInd="Y">
+  <title>AVGN: CD-I Part 2 - Zelda Wand of Gamelon</title>
+  <link>http://cinemassacre.com/2008/11/25/avgn-cd-i-part-2/</link>
+  <pubDate>Tue, 25 Nov 2008 11:33:14 -0500</pubDate>
+  <id>1366</id>
+  <!-- <movieURL>Cinemassacre-1366</movieURL> -->
+  <movieURL>Ul2RVtG6</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/11/060-CDI-pt2.jpg</smallThumbnail>
+  <duration>756</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1368" activeInd="Y">
+  <title>AVGN: CD-I Part 3 - Link The Faces of Evil</title>
+  <link>http://cinemassacre.com/2008/12/09/avgn-cd-i-part-3/</link>
+  <pubDate>Tue, 09 Dec 2008 11:34:23 -0500</pubDate>
+  <id>1368</id>
+  <!-- <movieURL>Cinemassacre-1368</movieURL> -->
+  <movieURL>aVkntu6W</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/12/061-CDI-pt3.jpg</smallThumbnail>
+  <duration>856</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1370" activeInd="Y">
+  <title>AVGN: Bible Games 2</title>
+  <link>http://cinemassacre.com/2008/12/23/bible-games-2/</link>
+  <pubDate>Tue, 23 Dec 2008 11:36:04 -0500</pubDate>
+  <id>1370</id>
+  <!-- <movieURL>Cinemassacre-1370</movieURL> -->
+  <movieURL>ieCOo5Yn</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/12/062-Bible-Games2.jpg</smallThumbnail>
+  <duration>1021</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1398" activeInd="Y"/>
+   <category id="19" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1373" activeInd="Y">
+  <title>AVGN: Michael Jackson's Moonwalker</title>
+  <link>http://cinemassacre.com/2009/01/07/michael-jacksons-moonwalker/</link>
+  <pubDate>Wed, 07 Jan 2009 11:38:21 -0500</pubDate>
+  <id>1373</id>
+  <!-- <movieURL>Cinemassacre-1373</movieURL> -->
+  <movieURL>6hvaouqZ</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/01/michael-jacksons-moonwalker-genesis-box-artwork.jpg</smallThumbnail>
+  <duration>605</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="N"/>
+   <category id="19" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1375" activeInd="Y">
+  <title>AVGN: Milon's Secret Castle</title>
+  <link>http://cinemassacre.com/2009/01/27/milons-secret-castle-2/</link>
+  <pubDate>Tue, 27 Jan 2009 11:40:18 -0500</pubDate>
+  <id>1375</id>
+  <!-- <movieURL>http://blip.tv/file/get/Cinemassacre-MilonsSecretCastle566.m4v</movieURL> -->
+  <movieURL>yPll14q5</movieURL>
+  <description>Milon's Secret Castle (Math Corrected)</description>
+  <smallThumbnail>http://a.images.blip.tv/Cinemassacre-42733487.png</smallThumbnail>
+  <duration>693</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="N"/>
+   <category id="19" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1377" activeInd="Y">
+  <title>AVGN: Atari Jaguar Part 1</title>
+  <link>http://cinemassacre.com/2009/03/16/atari-jaguar-part-1/</link>
+  <pubDate>Mon, 16 Mar 2009 12:41:57 -0400</pubDate>
+  <id>1377</id>
+  <!-- <movieURL>Cinemassacre-1377</movieURL> -->
+  <movieURL>K9o9pyJt</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/03/065-Jaguar.jpg</smallThumbnail>
+  <duration>504</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1379" activeInd="Y">
+  <title>AVGN: Atari Jaguar Part 2</title>
+  <link>http://cinemassacre.com/2009/03/25/atari-jaguar-part-2/</link>
+  <pubDate>Wed, 25 Mar 2009 12:43:24 -0400</pubDate>
+  <id>1379</id>
+  <!-- <movieURL>Cinemassacre-1379</movieURL> -->
+  <movieURL>5EQzs4zS</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/03/066-Jaguar-Part2.jpg</smallThumbnail>
+  <duration>862</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1381" activeInd="Y">
+  <title>AVGN: Metal Gear</title>
+  <link>http://cinemassacre.com/2009/04/08/metal-gear/</link>
+  <pubDate>Wed, 08 Apr 2009 12:45:15 -0400</pubDate>
+  <id>1381</id>
+  <!-- <movieURL>Cinemassacre-1381</movieURL> -->
+  <movieURL>nFrd6fY0</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/04/067-Metal-Gear.jpg</smallThumbnail>
+  <duration>797</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1383" activeInd="Y">
+  <title>AVGN: The Odyssey</title>
+  <link>http://cinemassacre.com/2009/04/21/the-odyssey/</link>
+  <pubDate>Tue, 21 Apr 2009 12:47:34 -0400</pubDate>
+  <id>1383</id>
+  <!-- <movieURL>Cinemassacre-1383</movieURL> -->
+  <movieURL>3WVb4Pf5</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/04/068-Odyssey.jpg</smallThumbnail>
+  <duration>658</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1385" activeInd="Y">
+  <title>AVGN: X-Men</title>
+  <link>http://cinemassacre.com/2009/05/06/x-men/</link>
+  <pubDate>Wed, 06 May 2009 12:49:36 -0400</pubDate>
+  <id>1385</id>
+  <!-- <movieURL>Cinemassacre-1385</movieURL> -->
+  <movieURL>jhX8OXrB</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/05/069-Xmen-TItle-Card.jpg</smallThumbnail>
+  <duration>851</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1387" activeInd="Y">
+  <title>AVGN: The Terminator</title>
+  <link>http://cinemassacre.com/2009/05/19/the-terminator-2/</link>
+  <pubDate>Tue, 19 May 2009 12:51:11 -0400</pubDate>
+  <id>1387</id>
+  <!-- <movieURL>Cinemassacre-1387</movieURL> -->
+  <movieURL>gUtmw4NA</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/05/070-Terminator.jpg</smallThumbnail>
+  <duration>895</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1390" activeInd="Y">
+  <title>AVGN: Terminator 2</title>
+  <link>http://cinemassacre.com/2009/06/02/terminator-2-2/</link>
+  <pubDate>Tue, 02 Jun 2009 12:53:17 -0400</pubDate>
+  <id>1390</id>
+  <!-- <movieURL>Cinemassacre-1390</movieURL> -->
+  <movieURL>VhA0CmsV</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/06/071-Terminator-2.jpg</smallThumbnail>
+  <duration>806</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1392" activeInd="Y">
+  <title>AVGN: Transformers</title>
+  <link>http://cinemassacre.com/2009/06/17/transformers/</link>
+  <pubDate>Wed, 17 Jun 2009 12:55:44 -0400</pubDate>
+  <id>1392</id>
+  <!-- <movieURL>Cinemassacre-1392</movieURL> -->
+  <movieURL>2NsS1EPl</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/06/072-Transformers.jpg</smallThumbnail>
+  <duration>764</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1394" activeInd="Y">
+  <title>AVGN: Mario is Missing</title>
+  <link>http://cinemassacre.com/2009/07/01/mario-is-missing/</link>
+  <pubDate>Wed, 01 Jul 2009 13:00:55 -0400</pubDate>
+  <id>1394</id>
+  <!-- <movieURL>Cinemassacre-1394</movieURL> -->
+  <movieURL>88IvHgZL</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/07/073-MarioIsMissing.jpg</smallThumbnail>
+  <duration>571</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1396" activeInd="Y">
+  <title>AVGN: Plumbers Don't Wear Ties</title>
+  <link>http://cinemassacre.com/2009/07/21/plumbers-dont-wear-ties/</link>
+  <pubDate>Tue, 21 Jul 2009 13:02:59 -0400</pubDate>
+  <id>1396</id>
+  <!-- <movieURL>Cinemassacre-1396</movieURL> -->
+  <movieURL>uLdQO3k2</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/07/269_3DO_Plumbers-H.264-800Kbps.jpg</smallThumbnail>
+  <duration>1239</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="519" activeInd="Y"/>
+   <category id="520" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1398" activeInd="Y">
+  <title>AVGN: Bugs Bunny's Crazy Castle</title>
+  <link>http://cinemassacre.com/2009/08/05/bugs-bunnys-crazy-castle/</link>
+  <pubDate>Wed, 05 Aug 2009 13:05:09 -0400</pubDate>
+  <id>1398</id>
+  <!-- <movieURL>Cinemassacre-1398</movieURL> -->
+  <movieURL>caIdG3q0</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/08/075-Crazy-Castle.jpg</smallThumbnail>
+  <duration>1019</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1400" activeInd="Y">
+  <title>AVGN: Super Pitfall</title>
+  <link>http://cinemassacre.com/2009/08/20/super-pitfall/</link>
+  <pubDate>Thu, 20 Aug 2009 13:07:00 -0400</pubDate>
+  <id>1400</id>
+  <!-- <movieURL>Cinemassacre-1400</movieURL> -->
+  <movieURL>mcGCkwUX</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/08/076-Super-Pitfall.jpg</smallThumbnail>
+  <duration>667</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1402" activeInd="Y">
+  <title>AVGN: Godzilla</title>
+  <link>http://cinemassacre.com/2009/09/04/avgn-godzilla/</link>
+  <pubDate>Fri, 04 Sep 2009 13:09:21 -0400</pubDate>
+  <id>1402</id>
+  <!-- <movieURL>Cinemassacre-1402</movieURL> -->
+  <movieURL>69vzXzSI</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/09/077-Godzilla.jpg</smallThumbnail>
+  <duration>947</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1404" activeInd="Y">
+  <title>AVGN: Wayne's World</title>
+  <link>http://cinemassacre.com/2009/09/24/avgn-waynes-world/</link>
+  <pubDate>Thu, 24 Sep 2009 13:10:55 -0400</pubDate>
+  <id>1404</id>
+  <!-- <movieURL>Cinemassacre-1404</movieURL> -->
+  <movieURL>sL6D69xn</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/09/078-Waynes-World.jpg</smallThumbnail>
+  <duration>736</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1406" activeInd="Y">
+  <title>AVGN: Castlevania Part 1</title>
+  <link>http://cinemassacre.com/2009/10/08/castlevania-part-1/</link>
+  <pubDate>Thu, 08 Oct 2009 13:12:31 -0400</pubDate>
+  <id>1406</id>
+  <!-- <movieURL>Cinemassacre-1406</movieURL> -->
+  <movieURL>f8BYg7so</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/10/079-CastleVania-Part-1.jpg</smallThumbnail>
+  <duration>609</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1340" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1408" activeInd="Y">
+  <title>AVGN: Castlevania Part 2</title>
+  <link>http://cinemassacre.com/2009/10/21/castlevania-part-2/</link>
+  <pubDate>Wed, 21 Oct 2009 13:14:14 -0400</pubDate>
+  <id>1408</id>
+  <!-- <movieURL>Cinemassacre-1408</movieURL> -->
+  <movieURL>R6pt3N2q</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/10/080-CastleVania-Part2-.jpg</smallThumbnail>
+  <duration>768</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1340" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1410" activeInd="Y">
+  <title>AVGN: Castlevania Part 3</title>
+  <link>http://cinemassacre.com/2009/11/05/castlevania-part-3/</link>
+  <pubDate>Thu, 05 Nov 2009 12:15:32 -0500</pubDate>
+  <id>1410</id>
+  <!-- <movieURL>Cinemassacre-1410</movieURL> -->
+  <movieURL>5oPIT7zG</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/11/081-CastleVania-Part-31.jpg</smallThumbnail>
+  <duration>773</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1340" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1412" activeInd="Y">
+  <title>AVGN: Castlevania Part 4</title>
+  <link>http://cinemassacre.com/2009/11/19/castlevania-part-4/</link>
+  <pubDate>Thu, 19 Nov 2009 12:16:42 -0500</pubDate>
+  <id>1412</id>
+  <!-- <movieURL>Cinemassacre-1412</movieURL> -->
+  <movieURL>ft1Y4cMl</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/11/082-CastleVaniaPart4.jpg</smallThumbnail>
+  <duration>589</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1340" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="1414" activeInd="Y">
+  <title>AVGN: Little Red Hood</title>
+  <link>http://cinemassacre.com/2009/12/03/little-red-hood/</link>
+  <pubDate>Thu, 03 Dec 2009 12:18:54 -0500</pubDate>
+  <id>1414</id>
+  <!-- <movieURL>Cinemassacre-1414</movieURL> -->
+  <movieURL>sRoSqmT6</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/12/083-LittleRedHood.jpg</smallThumbnail>
+  <duration>895</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="3151" activeInd="Y">
+  <title>AVGN: Winter Games</title>
+  <link>http://cinemassacre.com/2009/12/25/winter-games/</link>
+  <pubDate>Fri, 25 Dec 2009 17:39:34 -0500</pubDate>
+  <id>3151</id>
+  <!-- <movieURL>Cinemassacre-3151</movieURL> -->
+  <movieURL>nPzoD4XB</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/12/WinterGames-209x300.jpg</smallThumbnail>
+  <duration>629</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1398" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="3153" activeInd="Y">
+  <title>AVGN: Street Fighter 2010</title>
+  <link>http://cinemassacre.com/2010/01/06/street-fighter-2010/</link>
+  <pubDate>Wed, 06 Jan 2010 17:40:38 -0500</pubDate>
+  <id>3153</id>
+  <!-- <movieURL>Cinemassacre-3153</movieURL> -->
+  <movieURL>irHRD7o3</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/01/085-StreetFighter2010.jpg</smallThumbnail>
+  <duration>1077</duration>
+  <categories>
+   <category id="1" activeInd="N"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="N"/>
+   <category id="224" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="3155" activeInd="Y">
+  <title>AVGN: Hydlide</title>
+  <link>http://cinemassacre.com/2010/01/20/avgn-hydlide-2/</link>
+  <pubDate>Wed, 20 Jan 2010 17:41:49 -0500</pubDate>
+  <id>3155</id>
+  <!-- <movieURL>Cinemassacre-3155</movieURL> -->
+  <movieURL>5byVSjAv</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/01/Hydlide1-218x300.jpg</smallThumbnail>
+  <duration>509</duration>
+  <categories>
+   <category id="1" activeInd="N"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="N"/>
+   <category id="224" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="3157" activeInd="Y">
+  <title>AVGN: Ninja Gaiden</title>
+  <link>http://cinemassacre.com/2010/02/04/avgn-ninja-gaiden/</link>
+  <pubDate>Thu, 04 Feb 2010 17:42:37 -0500</pubDate>
+  <id>3157</id>
+  <!-- <movieURL>Cinemassacre-3157</movieURL> -->
+  <movieURL>3tXdrW3j</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/02/Ninja_gaiden_nes-210x300.jpg</smallThumbnail>
+  <duration>941</duration>
+  <categories>
+   <category id="1" activeInd="N"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="N"/>
+   <category id="224" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="3159" activeInd="Y">
+  <title>AVGN: Swordquest</title>
+  <link>http://cinemassacre.com/2010/02/18/avgn-swordquest/</link>
+  <pubDate>Thu, 18 Feb 2010 17:43:36 -0500</pubDate>
+  <id>3159</id>
+  <!-- <movieURL>Cinemassacre-3159</movieURL> -->
+  <movieURL>jqCrbfmB</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/02/088-swordquest.jpg</smallThumbnail>
+  <duration>552</duration>
+  <categories>
+   <category id="1" activeInd="N"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="Y"/>
+   <category id="224" activeInd="N"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="3193" activeInd="Y">
+  <title>AVGN: Pong Consoles</title>
+  <link>http://cinemassacre.com/2010/03/06/avgn-pong-consoles/</link>
+  <pubDate>Sat, 06 Mar 2010 03:18:16 -0500</pubDate>
+  <id>3193</id>
+  <!-- <movieURL>Cinemassacre-3193</movieURL> -->
+  <movieURL>WwfFdz3l</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/03/089-PongConsoles.jpg</smallThumbnail>
+  <duration>721</duration>
+  <categories>
+   <category id="1" activeInd="N"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="18" activeInd="N"/>
+   <category id="224" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="6057" activeInd="Y">
+  <title>AVGN: Action 52</title>
+  <link>http://cinemassacre.com/2010/04/30/avgn-episode-90-action-52/</link>
+  <pubDate>Fri, 30 Apr 2010 13:16:16 -0400</pubDate>
+  <id>6057</id>
+  <!-- <movieURL>Cinemassacre-6057</movieURL> -->
+  <movieURL>xCPK3viY</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/04/Action52.jpg</smallThumbnail>
+  <duration>1611</duration>
+  <categories>
+   <category id="1" activeInd="N"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="224" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="421" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="6268" activeInd="Y">
+  <title>AVGN: Cheetahmen</title>
+  <link>http://cinemassacre.com/2010/06/09/avgn-cheetahmen/</link>
+  <pubDate>Thu, 10 Jun 2010 00:26:02 -0400</pubDate>
+  <id>6268</id>
+  <!-- <movieURL>Cinemassacre-6268</movieURL> -->
+  <movieURL>joSA8jRl</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/06/CH2.jpg</smallThumbnail>
+  <duration>1226</duration>
+  <categories>
+   <category id="1" activeInd="N"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="224" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="6442" activeInd="Y">
+  <title>AVGN: Game Glitches</title>
+  <link>http://cinemassacre.com/2010/07/07/avgn-game-glitches/</link>
+  <pubDate>Thu, 08 Jul 2010 00:06:31 -0400</pubDate>
+  <id>6442</id>
+  <!-- <movieURL>Cinemassacre-6442</movieURL> -->
+  <movieURL>hqydVTjY</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/07/GameGlitchesImage.jpg</smallThumbnail>
+  <duration>968</duration>
+  <categories>
+   <category id="1" activeInd="N"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="224" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="6753" activeInd="Y">
+  <title>AVGN: Zelda 2 The Adventure of Link</title>
+  <link>http://cinemassacre.com/2010/08/04/avgn-zelda-2-the-adventure-of-link/</link>
+  <pubDate>Thu, 05 Aug 2010 00:04:18 -0400</pubDate>
+  <id>6753</id>
+  <!-- <movieURL>Cinemassacre-6753</movieURL> -->
+  <movieURL>0MVIdLaC</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/08/Zelda2.jpg</smallThumbnail>
+  <duration>907</duration>
+  <categories>
+   <category id="1" activeInd="N"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="224" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="6951" activeInd="Y">
+  <title>AVGN: Back to the Future Trilogy</title>
+  <link>http://cinemassacre.com/2010/09/03/angry-video-game-nerd-episode-94/</link>
+  <pubDate>Fri, 03 Sep 2010 15:00:04 -0400</pubDate>
+  <id>6951</id>
+  <!-- <movieURL>Cinemassacre-6951</movieURL> -->
+  <movieURL>jNymxqrU</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/08/BTTFimage.jpg</smallThumbnail>
+  <duration>1384</duration>
+  <categories>
+   <category id="1" activeInd="N"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="175" activeInd="Y"/>
+   <category id="224" activeInd="Y"/>
+   <category id="346" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="531" activeInd="Y"/>
+   <category id="532" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="8066" activeInd="Y">
+  <title>AVGN: Dr. Jekyll and Mr. Hyde Re-Revisited</title>
+  <link>http://cinemassacre.com/2010/10/07/avgn-dr-jekyll-mr-hyde-revisited/</link>
+  <pubDate>Thu, 07 Oct 2010 08:00:55 -0400</pubDate>
+  <id>8066</id>
+  <!-- <movieURL>Cinemassacre-8066</movieURL> -->
+  <movieURL>uTOjmk0W</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/10/hydebox1.jpg</smallThumbnail>
+  <duration>1001</duration>
+  <categories>
+   <category id="1" activeInd="N"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="1340" activeInd="Y"/>
+   <category id="224" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="8267" activeInd="Y">
+  <title>AVGN: Lester the Unlikely</title>
+  <link>http://cinemassacre.com/2010/11/03/avgn-lester-the-unlikely/</link>
+  <pubDate>Thu, 04 Nov 2010 00:10:33 -0400</pubDate>
+  <id>8267</id>
+  <!-- <movieURL>Cinemassacre-8267</movieURL> -->
+  <movieURL>iHD4Tdg4</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/11/lester.jpg</smallThumbnail>
+  <duration>645</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="224" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="533" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="8521" activeInd="Y">
+  <title>AVGN: How the Nerd Stole Christmas</title>
+  <link>http://cinemassacre.com/2010/12/06/avgn-episode-97-christmas-special-2010/</link>
+  <pubDate>Mon, 06 Dec 2010 14:46:00 -0500</pubDate>
+  <id>8521</id>
+  <!-- <movieURL>http://blip.tv/file/get/Cinemassacre-HowTheNerdStoleChristmas111.m4v</movieURL> -->
+  <movieURL>q6ysKg5R</movieURL>
+  <description>How the Nerd Stole Christmas</description>
+  <smallThumbnail>http://a.images.blip.tv/Cinemassacre-95195978.png</smallThumbnail>
+  <duration>726</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1398" activeInd="Y"/>
+   <category id="224" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="8709" activeInd="Y">
+  <title>AVGN: Day Dreamin' Davey</title>
+  <link>http://cinemassacre.com/2011/01/05/avgn-episode-98-day-dreamin-davey/</link>
+  <pubDate>Wed, 05 Jan 2011 02:02:13 -0500</pubDate>
+  <id>8709</id>
+  <!-- <movieURL>Cinemassacre-8709</movieURL> -->
+  <movieURL>8S5MYtHR</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/01/head.jpg</smallThumbnail>
+  <duration>841</duration>
+  <categories>
+   <category id="1" activeInd="N"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="224" activeInd="Y"/>
+   <category id="422" activeInd="Y"/>
+   <category id="470" activeInd="N"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="8930" activeInd="Y">
+  <title>AVGN: Star Wars</title>
+  <link>http://cinemassacre.com/2011/02/03/avgn-star-wars/</link>
+  <pubDate>Thu, 03 Feb 2011 00:12:34 -0500</pubDate>
+  <id>8930</id>
+  <!-- <movieURL>http://www.youtube.com/embed/F2bKVEVUOPg</movieURL> -->
+  <movieURL>2T9YYQUd</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/02/Star-WarsCine.jpg</smallThumbnail>
+  <duration>1349</duration>
+  <categories>
+   <category id="1" activeInd="N"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="224" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="470" activeInd="N"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="9356" activeInd="Y">
+  <title>AVGN: ROB the Robot </title>
+  <link>http://cinemassacre.com/2011/03/03/avgn-rob-the-robot/</link>
+  <pubDate>Thu, 03 Mar 2011 00:06:03 -0500</pubDate>
+  <id>9356</id>
+  <!-- <movieURL>Cinemassacre-9356</movieURL> -->
+  <movieURL>tCVGIR6X</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/03/Image1.jpg</smallThumbnail>
+  <duration>1134</duration>
+  <categories>
+   <category id="1" activeInd="N"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="224" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="470" activeInd="N"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="9842" activeInd="Y">
+  <title>AVGN: Spielberg Games</title>
+  <link>http://cinemassacre.com/2011/04/06/avgn-spielberg-games/</link>
+  <pubDate>Thu, 07 Apr 2011 00:10:50 -0400</pubDate>
+  <id>9842</id>
+  <!-- <movieURL>Cinemassacre-9842</movieURL> -->
+  <movieURL>1ZBH9hlU</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/04/ETGoCome.jpg</smallThumbnail>
+  <duration>1279</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="224" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="470" activeInd="N"/>
+   <category id="610" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="11887" activeInd="Y">
+  <title>AVGN: The Making of The Angry Video Game Nerd</title>
+  <link>http://cinemassacre.com/2011/07/06/the-making-of-the-angry-video-game-nerd/</link>
+  <pubDate>Thu, 07 Jul 2011 00:06:59 -0400</pubDate>
+  <id>11887</id>
+  <!-- <movieURL>Cinemassacre-11887</movieURL> -->
+  <movieURL>GY2DBdP4</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/07/Barbie11.jpg</smallThumbnail>
+  <duration>1760</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="470" activeInd="N"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="12805" activeInd="Y">
+  <title>AVGN: Kid Kool</title>
+  <link>http://cinemassacre.com/2011/08/03/avgn-kid-kool/</link>
+  <pubDate>Thu, 04 Aug 2011 00:08:17 -0400</pubDate>
+  <id>12805</id>
+  <!-- <movieURL>http://cdn.springboard.gorillanation.com/storage/cinemassacre/conversion/484219.mp4</movieURL> -->
+  <movieURL>t2ydfAbw</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/08/KidKoolImage.jpg</smallThumbnail>
+  <duration>494</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="470" activeInd="N"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="12974" activeInd="Y">
+  <title>AVGN: Nintendo World Championships</title>
+  <link>http://cinemassacre.com/2011/08/26/avgn-nintendo-world-championships/</link>
+  <pubDate>Fri, 26 Aug 2011 15:59:15 -0400</pubDate>
+  <id>12974</id>
+  <!-- <movieURL>Cinemassacre-12974</movieURL> -->
+  <movieURL>RO0sV8hm</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/08/gold.jpg</smallThumbnail>
+  <duration>1023</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="470" activeInd="N"/>
+   <category id="541" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="13354" activeInd="Y">
+  <title>AVGN: Dark Castle</title>
+  <link>http://cinemassacre.com/2011/10/06/avgn-episode-105-dark-castle/</link>
+  <pubDate>Thu, 06 Oct 2011 01:40:27 -0400</pubDate>
+  <id>13354</id>
+  <!-- <movieURL>Cinemassacre-13354</movieURL> -->
+  <movieURL>O6vzSnO8</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/10/AVGN_Dark-Castle.jpg</smallThumbnail>
+  <duration>728</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="1340" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="470" activeInd="N"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="14880" activeInd="Y">
+  <title>AVGN: Bible Games 3</title>
+  <link>http://cinemassacre.com/2011/12/07/avgn-bible-games-3/</link>
+  <pubDate>Wed, 07 Dec 2011 00:01:14 -0500</pubDate>
+  <id>14880</id>
+  <!-- <movieURL>Cinemassacre-14880</movieURL> -->
+  <movieURL>IQh64ICZ</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/12/BibleGames3.jpg</smallThumbnail>
+  <duration>855</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="1398" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="470" activeInd="N"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="17828" activeInd="Y">
+  <title>AVGN: Schwarzenegger Games</title>
+  <link>http://cinemassacre.com/2012/07/23/avgn-schwarzenegger-games/</link>
+  <pubDate>Mon, 23 Jul 2012 11:00:43 -0400</pubDate>
+  <id>17828</id>
+  <!-- <movieURL>http://www.youtube.com/embed/0Ta-4H92CkA</movieURL> -->
+  <movieURL>4kvF79i7</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/07/04.jpg</smallThumbnail>
+  <duration>1346</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+   <category id="909" activeInd="N"/>
+   <category id="911" activeInd="Y"/>
+   <category id="912" activeInd="Y"/>
+   <category id="913" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="19445" activeInd="Y">
+  <title>AVGN: Ghosts N' Goblins</title>
+  <link>http://cinemassacre.com/2012/10/24/avgn-ghosts-n-goblins/</link>
+  <pubDate>Wed, 24 Oct 2012 01:05:01 -0400</pubDate>
+  <id>19445</id>
+  <!-- <movieURL>http://cdn.springboard.gorillanation.com/storage/cinemassacre/conversion/583749.mp4</movieURL> -->
+  <movieURL>DgFtshsj</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/10/GhostsSm.jpg</smallThumbnail>
+  <duration>1024</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="1340" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="560" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+   <category id="909" activeInd="N"/>
+   <category id="999" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="20160" activeInd="Y">
+  <title>AVGN: Atari Sports</title>
+  <link>http://cinemassacre.com/2012/12/17/avgn-atari-sports/</link>
+  <pubDate>Mon, 17 Dec 2012 13:13:18 -0500</pubDate>
+  <id>20160</id>
+  <!-- <movieURL>Cinemassacre-20160</movieURL> -->
+  <movieURL>MOfieJ6I</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/12/Sports.jpg</smallThumbnail>
+  <duration>762</duration>
+  <categories>
+   <category id="1058" activeInd="Y"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+   <category id="909" activeInd="N"/>
+   <category id="988" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="24611" activeInd="Y">
+  <title>AVGN: Ikari Warriors</title>
+  <link>http://cinemassacre.com/2013/03/06/avgn-ikari-warriors/</link>
+  <pubDate>Wed, 06 Mar 2013 11:39:22 -0500</pubDate>
+  <id>24611</id>
+  <!-- <movieURL>http://www.youtube.com/embed/bByE7n2AJj4</movieURL> -->
+  <movieURL>agQ6cjXH</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/03/IkariW.jpg</smallThumbnail>
+  <duration>1239</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="1124" activeInd="Y"/>
+   <category id="1126" activeInd="Y"/>
+   <category id="1127" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="584" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="24997" activeInd="Y">
+  <title>AVGN: Toxic Crusaders</title>
+  <link>http://cinemassacre.com/2013/04/30/avgn-toxic-crusaders/</link>
+  <pubDate>Tue, 30 Apr 2013 22:00:00 -0400</pubDate>
+  <id>24997</id>
+  <!-- <movieURL>Cinemassacre-24997</movieURL> -->
+  <movieURL>NZVlTwjJ</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/05/Toxic-Crusaders-STILL.jpg</smallThumbnail>
+  <duration>882</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1092" activeInd="Y"/>
+   <category id="1094" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="1136" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="25823" activeInd="Y">
+  <title>AVGN: Bill &amp; Ted's Excellent Adventure</title>
+  <link>http://cinemassacre.com/2013/07/01/avgn-bill-teds-excellent-adventure/</link>
+  <pubDate>Mon, 01 Jul 2013 00:01:21 -0400</pubDate>
+  <id>25823</id>
+  <!-- <movieURL>Cinemassacre-25823</movieURL> -->
+  <movieURL>SXmfIXI4</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/06/Cinemassacre-AVGNBillTedsExcellentAdventureNES644.jpg</smallThumbnail>
+  <duration>1071</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="1163" activeInd="Y"/>
+   <category id="1164" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="426" activeInd="Y"/>
+   <category id="504" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="52273484b87b2" activeInd="Y">
+  <title>AVGN: Tiger Electronic Games</title>
+  <link>http://cinemassacre.com/2013/09/06/avgn-tiger-electronic/</link>
+  <pubDate>Fri, 06 Sep 2013 09:19:55 -0400</pubDate>
+  <id>52273484b87b2</id>
+  <!-- <movieURL>Cinemassacre-52273484b87b2</movieURL> -->
+  <movieURL>oyhYIkjA</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/09/Tiger_games_Nerd_combined.jpg</smallThumbnail>
+  <duration>1119</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="1331" activeInd="Y"/>
+   <category id="1332" activeInd="Y"/>
+   <category id="1333" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="5265c3fb9873f" activeInd="Y">
+  <title>AVGN: Alien 3</title>
+  <link>http://cinemassacre.com/2013/10/22/alien-3-angry-video-game-nerd/</link>
+  <pubDate>Tue, 22 Oct 2013 12:00:24 -0400</pubDate>
+  <id>5265c3fb9873f</id>
+  <!-- <movieURL>Cinemassacre-5265c3fb9873f</movieURL> -->
+  <movieURL>qnywJliD</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/10/Alien-3-STILL-1.jpg</smallThumbnail>
+  <duration>617</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="1258" activeInd="Y"/>
+   <category id="129" activeInd="Y"/>
+   <category id="1340" activeInd="Y"/>
+   <category id="1353" activeInd="Y"/>
+   <category id="1354" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="528c1b5eed643" activeInd="Y">
+  <title>AVGN: AVGN Games! </title>
+  <link>http://cinemassacre.com/2013/11/19/avgn-avgn-games/</link>
+  <pubDate>Tue, 19 Nov 2013 21:04:54 -0500</pubDate>
+  <id>528c1b5eed643</id>
+  <!-- <movieURL>Cinemassacre-528c1b5eed643</movieURL> -->
+  <movieURL>JIuceeAy</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/12/AVGN-GAMES-STILL.jpg</smallThumbnail>
+  <duration>1315</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="1323" activeInd="Y"/>
+   <category id="1388" activeInd="Y"/>
+   <category id="1389" activeInd="Y"/>
+   <category id="1390" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="7" activeInd="Y"/>
+   <category id="830" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="52b0adeb9ea41" activeInd="Y">
+  <title>AVGN: Wish List (Part 1) </title>
+  <link>http://cinemassacre.com/2013/12/17/avgn-wish-list-part-1/</link>
+  <pubDate>Tue, 17 Dec 2013 15:13:02 -0500</pubDate>
+  <id>52b0adeb9ea41</id>
+  <!-- <movieURL>Cinemassacre-52b0adeb9ea41</movieURL> -->
+  <movieURL>X2w7CsMB</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/12/wishbook-still-01.jpg</smallThumbnail>
+  <duration>906</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="1398" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="52b376f669a3d" activeInd="Y">
+  <title>AVGN: Wish List (Part 2)</title>
+  <link>http://cinemassacre.com/2013/12/19/avgn-wish-list-part-2/</link>
+  <pubDate>Thu, 19 Dec 2013 16:00:58 -0500</pubDate>
+  <id>52b376f669a3d</id>
+  <!-- <movieURL>Cinemassacre-52b376f669a3d</movieURL> -->
+  <movieURL>atr4Zcs6</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/12/wishbook-still-02.jpg</smallThumbnail>
+  <duration>927</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="1398" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="53100fa8e149f" activeInd="Y">
+  <title>AVGN: Big Rigs Over the Road Racing</title>
+  <link>http://cinemassacre.com/2014/03/19/avgn-big-rigs-over-the-road-racing/</link>
+  <pubDate>Wed, 19 Mar 2014 00:01:11 -0400</pubDate>
+  <id>53100fa8e149f</id>
+  <!-- <movieURL>Cinemassacre-53100fa8e149f</movieURL> -->
+  <movieURL>U5zjKSFT</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2014/02/AVGN_BIG-RIGS_STILL.jpg</smallThumbnail>
+  <duration>945</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="1409" activeInd="Y"/>
+   <category id="1410" activeInd="Y"/>
+   <category id="1411" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="537f50ecdff28" activeInd="Y">
+  <title>AVGN: Desert Bus</title>
+  <link>http://cinemassacre.com/2014/05/28/avgn-desert-bus/</link>
+  <pubDate>Wed, 28 May 2014 07:32:31 -0400</pubDate>
+  <id>537f50ecdff28</id>
+  <!-- <movieURL>Cinemassacre-537f50ecdff28</movieURL> -->
+  <movieURL>0I6xK6Fy</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2014/05/Desert-Bus-STILL.jpg</smallThumbnail>
+  <duration>929</duration>
+  <categories>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="1434" activeInd="Y"/>
+   <category id="1435" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="562" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="54373b5abafc5" activeInd="Y">
+  <title>E.T. Atari 2600 - Angry Video Game Nerd - Episode 120</title>
+  <link>http://cinemassacre.com/2014/10/10/e-t-atari-2600-angry-video-game-nerd-episode-120/</link>
+  <pubDate>Fri, 10 Oct 2014 09:52:24 -0400</pubDate>
+  <id>54373b5abafc5</id>
+  <!-- <movieURL>Cinemassacre-54373b5abafc5</movieURL> -->
+  <movieURL>StMOetNi</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2014/10/ET.jpg</smallThumbnail>
+  <duration>421</duration>
+  <categories>
+   <category id="1044" activeInd="Y"/>
+   <category id="1065" activeInd="Y"/>
+   <category id="1121" activeInd="Y"/>
+   <category id="1568" activeInd="Y"/>
+   <category id="1569" activeInd="Y"/>
+   <category id="4" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+   <category id="988" activeInd="Y"/>
+   <category id="994" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="539d8137b3016" activeInd="Y">
+  <title>AVGN: Beetlejuice - Episode 121</title>
+  <link>http://cinemassacre.com/2014/10/15/avgn-beetlejuice-episode-121/</link>
+  <pubDate>Wed, 15 Oct 2014 03:01:51 -0400</pubDate>
+  <id>539d8137b3016</id>
+  <!-- <movieURL>Cinemassacre-539d8137b3016</movieURL> -->
+  <movieURL>q8be1I0P</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2014/10/STILL-03.jpg</smallThumbnail>
+  <duration>834</duration>
+  <categories>
+   <category id="1121" activeInd="Y"/>
+   <category id="1340" activeInd="Y"/>
+   <category id="1567" activeInd="Y"/>
+   <category id="4" activeInd="Y"/>
+   <category id="426" activeInd="Y"/>
+   <category id="504" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ 
+ 
+ <!-- Not Sorted Yet -->
+ 
+ <item id="8518" activeInd="Y">
+  <title>AVGN: Holiday Memories</title>
+  <link>http://cinemassacre.com/2010/12/08/avgn-holiday-memories/</link>
+  <pubDate>Wed, 08 Dec 2010 13:53:22 -0500</pubDate>
+  <id>8518</id>
+  <!-- <movieURL>http://www.youtube.com/watch?v=iMINBv_Dqvs</movieURL> -->
+  <movieURL>00000000</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/12/HolidayMemories_SITE9.jpg</smallThumbnail>
+  <duration>810</duration>
+  <categories>
+   <category id="1398" activeInd="Y"/>
+   <category id="226" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="13699" activeInd="Y">
+  <title>AVGN: Bugs Bunny Commentary</title>
+  <link>http://cinemassacre.com/2012/02/08/avgn-bugs-bunny-commentary/</link>
+  <pubDate>Wed, 08 Feb 2012 00:01:06 -0500</pubDate>
+  <id>13699</id>
+  <!-- <movieURL>Cinemassacre-13699</movieURL> -->
+  <movieURL>00000000</movieURL>
+  <description></description>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/02/BugsCommentary.png</smallThumbnail>
+  <duration>460</duration>
+  <categories>
+   <category id="226" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
+   <category id="422" activeInd="Y"/>
+   <category id="579" activeInd="Y"/>
+   <category id="7" activeInd="Y"/>
+  </categories>
+ </item>
+ <item id="13028" activeInd="Y">
+  <title>AVGN: Nintendo World Championships Premiere at PAX 2011</title>
+  <link>http://cinemassacre.com/2011/08/31/avgn-nintendo-world-championships-premiere-at-pax-2011/</link>
+  <pubDate>Wed, 31 Aug 2011 13:45:04 -0400</pubDate>
+  <id>13028</id>
+  <movieURL>http://blip.tv/file/get/CinemassacreCinevore-AVGNNintendoWorldChampionshipsPremiereAtPAX2011232.m4v</movieURL>
+  <description>James from Cinemassacre shows the new AVGN video at PAX gaming convention 2011. Also with Pat the NES Punk</description>
+  <smallThumbnail>http://a.images.blip.tv/CinemassacreCinevore-AVGNNintendoWorldChampionshipsPremiereAtPAX2011750.jpg</smallThumbnail>
+  <duration>298</duration>
+  <categories>
+   <category id="226" activeInd="Y"/>
+   <category id="4" activeInd="N"/>
    <category id="7" activeInd="Y"/>
   </categories>
  </item>
@@ -928,252 +2479,30 @@
    <category id="7" activeInd="Y"/>
   </categories>
  </item>
- <item id="1306" activeInd="Y">
-  <title>AVGN: Rambo</title>
-  <link>http://cinemassacre.com/2008/01/22/rambo/</link>
-  <pubDate>Tue, 22 Jan 2008 21:03:57 -0500</pubDate>
-  <id>1306</id>
-  <movieURL>Cinemassacre-1306</movieURL>
+ <item id="19911" activeInd="Y">
+  <title>&quot;Angry Video Game Nerd: The Movie&quot; - Trailer</title>
+  <link>http://cinemassacre.com/2012/11/10/avgn-the-movie-trailer/</link>
+  <pubDate>Sat, 10 Nov 2012 17:00:00 -0500</pubDate>
+  <id>19911</id>
+  <movieURL>http://cdn.springboardplatform.com/storage/cinemassacre/conversion/600803.mp4</movieURL>
   <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/01/rambo-207x300.jpg</smallThumbnail>
-  <duration>793</duration>
+  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/11/WEB_STILL-2.jpg</smallThumbnail>
+  <duration>169</duration>
   <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="N"/>
-   <category id="20" activeInd="Y"/>
+   <category id="1044" activeInd="Y"/>
+   <category id="1045" activeInd="Y"/>
+   <category id="1046" activeInd="Y"/>
+   <category id="14" activeInd="Y"/>
+   <category id="172" activeInd="Y"/>
+   <category id="226" activeInd="Y"/>
+   <category id="25" activeInd="Y"/>
    <category id="4" activeInd="N"/>
    <category id="422" activeInd="Y"/>
    <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1309" activeInd="Y">
-  <title>AVGN: Virtual Boy</title>
-  <link>http://cinemassacre.com/2008/02/19/virtual-boy/</link>
-  <pubDate>Tue, 19 Feb 2008 21:22:41 -0500</pubDate>
-  <id>1309</id>
-  <movieURL>Cinemassacre-1309</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/02/Virtual-Boy-300x225.jpg</smallThumbnail>
-  <duration>906</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1311" activeInd="Y">
-  <title>AVGN: Wizard of Oz</title>
-  <link>http://cinemassacre.com/2008/03/04/wizard-of-oz/</link>
-  <pubDate>Tue, 04 Mar 2008 21:27:24 -0500</pubDate>
-  <id>1311</id>
-  <movieURL>Cinemassacre-1311</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/03/WizardSnesBox-300x215.jpg</smallThumbnail>
-  <duration>693</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1331" activeInd="Y">
-  <title>AVGN: Doublevision Part 1 - Intellivision</title>
-  <link>http://cinemassacre.com/2008/03/25/doublevision-part-1-intellivision/</link>
-  <pubDate>Tue, 25 Mar 2008 11:55:17 -0400</pubDate>
-  <id>1331</id>
-  <movieURL>Cinemassacre-1331</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/03/044-45-DoubleVision-300x200.jpg</smallThumbnail>
-  <duration>603</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1335" activeInd="Y">
-  <title>AVGN: Doublevision Part 2 - Colecovision</title>
-  <link>http://cinemassacre.com/2008/04/08/doublevision-part-2-colecovision/</link>
-  <pubDate>Tue, 08 Apr 2008 11:58:18 -0400</pubDate>
-  <id>1335</id>
-  <movieURL>Cinemassacre-1335</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/04/044-45-DoubleVision-300x200.jpg</smallThumbnail>
-  <duration>504</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1337" activeInd="Y">
-  <title>AVGN: The Wizard and Super Mario Bros 3</title>
-  <link>http://cinemassacre.com/2008/04/22/the-wizard-and-super-mario-bros-3/</link>
-  <pubDate>Tue, 22 Apr 2008 12:00:30 -0400</pubDate>
-  <id>1337</id>
-  <movieURL>http://www.youtube.com/embed/7TWQz8TMsc0</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/04/super-mario-bros-3-box-211x300.jpg</smallThumbnail>
-  <duration>1039</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1339" activeInd="Y">
-  <title>AVGN: Nes Accessories</title>
-  <link>http://cinemassacre.com/2008/05/14/nes-accessories/</link>
-  <pubDate>Wed, 14 May 2008 12:02:56 -0400</pubDate>
-  <id>1339</id>
-  <movieURL>Cinemassacre-1339</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/05/avgn_nes-accessories.jpg</smallThumbnail>
-  <duration>831</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1341" activeInd="Y">
-  <title>AVGN: Indiana Jones Trilogy</title>
-  <link>http://cinemassacre.com/2008/05/20/indiana-jones-trilogy-2/</link>
-  <pubDate>Tue, 20 May 2008 12:05:06 -0400</pubDate>
-  <id>1341</id>
-  <movieURL>Cinemassacre-1341</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/05/048-AVGN-Indiana-Jones-Trilogy.jpg</smallThumbnail>
-  <duration>1047</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1074" activeInd="N"/>
-   <category id="19" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1343" activeInd="Y">
-  <title>AVGN: Star Trek</title>
-  <link>http://cinemassacre.com/2008/06/11/avgn-star-trek-2/</link>
-  <pubDate>Wed, 11 Jun 2008 12:07:53 -0400</pubDate>
-  <id>1343</id>
-  <movieURL>Cinemassacre-1343</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/06/TrekNES.jpg</smallThumbnail>
-  <duration>646</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1345" activeInd="Y">
-  <title>AVGN: Superman</title>
-  <link>http://cinemassacre.com/2008/06/26/avgn-superman-2/</link>
-  <pubDate>Thu, 26 Jun 2008 12:10:54 -0400</pubDate>
-  <id>1345</id>
-  <movieURL>Cinemassacre-1345</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/06/050-superman.jpg</smallThumbnail>
-  <duration>706</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1347" activeInd="Y">
-  <title>AVGN: Superman 64</title>
-  <link>http://cinemassacre.com/2008/07/08/avgn-superman-64-2/</link>
-  <pubDate>Tue, 08 Jul 2008 12:13:53 -0400</pubDate>
-  <id>1347</id>
-  <movieURL>Cinemassacre-1347</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/07/051-Superman64.jpg</smallThumbnail>
-  <duration>637</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1349" activeInd="Y">
-  <title>AVGN: Batman Part 1</title>
-  <link>http://cinemassacre.com/2008/07/22/batman-part-1/</link>
-  <pubDate>Tue, 22 Jul 2008 12:16:13 -0400</pubDate>
-  <id>1349</id>
-  <movieURL>Cinemassacre-1349</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/07/052_Batman.jpg</smallThumbnail>
-  <duration>705</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1351" activeInd="Y">
-  <title>AVGN: Batman Part 2</title>
-  <link>http://cinemassacre.com/2008/08/10/batman-part-2/</link>
-  <pubDate>Sun, 10 Aug 2008 12:18:39 -0400</pubDate>
-  <id>1351</id>
-  <movieURL>Cinemassacre-1351</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/08/img316.jpg</smallThumbnail>
-  <duration>583</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="20160" activeInd="Y">
-  <title>AVGN: Atari Sports</title>
-  <link>http://cinemassacre.com/2012/12/17/avgn-atari-sports/</link>
-  <pubDate>Mon, 17 Dec 2012 13:13:18 -0500</pubDate>
-  <id>20160</id>
-  <!-- <movieURL>Cinemassacre-20160</movieURL> -->
-  <movieURL>MOfieJ6I</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/12/Sports.jpg</smallThumbnail>
-  <duration>762</duration>
-  <categories>
-   <category id="1058" activeInd="Y"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-   <category id="909" activeInd="N"/>
+   <category id="804" activeInd="Y"/>
    <category id="988" activeInd="Y"/>
   </categories>
  </item>
- 
- 
- 
- 
- 
- 
- 
- 
  <item id="534f578c035b5" activeInd="Y">
   <title>Nostalgic Scary Books</title>
   <link>http://cinemassacre.com/2014/05/09/nostalgic-scary-books/</link>
@@ -8565,191 +9894,6 @@
    <category id="561" activeInd="Y"/>
   </categories>
  </item>
- <item id="1353" activeInd="Y">
-  <title>AVGN: Deadly Towers</title>
-  <link>http://cinemassacre.com/2008/08/19/deadly-towers/</link>
-  <pubDate>Tue, 19 Aug 2008 12:20:10 -0400</pubDate>
-  <id>1353</id>
-  <movieURL>Cinemassacre-1353</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/08/054-Deadly-Towers.jpg</smallThumbnail>
-  <duration>501</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1355" activeInd="Y">
-  <title>AVGN: Battletoads</title>
-  <link>http://cinemassacre.com/2008/09/03/battletoads/</link>
-  <pubDate>Wed, 03 Sep 2008 12:21:53 -0400</pubDate>
-  <id>1355</id>
-  <movieURL>Cinemassacre-1355</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/09/055-Battletoads.jpg</smallThumbnail>
-  <duration>472</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1357" activeInd="Y">
-  <title>AVGN: Dick Tracy</title>
-  <link>http://cinemassacre.com/2008/09/16/dick-tracy/</link>
-  <pubDate>Tue, 16 Sep 2008 12:24:19 -0400</pubDate>
-  <id>1357</id>
-  <movieURL>Cinemassacre-1357</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/09/056-DickTracy.jpg</smallThumbnail>
-  <duration>845</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1360" activeInd="Y">
-  <title>AVGN: Dracula</title>
-  <link>http://cinemassacre.com/2008/10/14/avgn-dracula-2/</link>
-  <pubDate>Tue, 14 Oct 2008 12:27:32 -0400</pubDate>
-  <id>1360</id>
-  <movieURL>Cinemassacre-1360</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/10/057-Dracula.jpg</smallThumbnail>
-  <duration>718</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1340" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1362" activeInd="Y">
-  <title>AVGN: Frankenstein</title>
-  <link>http://cinemassacre.com/2008/10/29/avgn-frankenstein/</link>
-  <pubDate>Wed, 29 Oct 2008 12:29:35 -0400</pubDate>
-  <id>1362</id>
-  <movieURL>Cinemassacre-1362</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/10/058-Frankenstein.jpg</smallThumbnail>
-  <duration>849</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1340" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1364" activeInd="Y">
-  <title>AVGN: CD-I Part 1 - Hotel Mario</title>
-  <link>http://cinemassacre.com/2008/11/12/avgn-cd-i-part-1/</link>
-  <pubDate>Wed, 12 Nov 2008 11:31:21 -0500</pubDate>
-  <id>1364</id>
-  <movieURL>Cinemassacre-1364</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/11/059-CDI-part1.jpg</smallThumbnail>
-  <duration>478</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1366" activeInd="Y">
-  <title>AVGN: CD-I Part 2 - Zelda Wand of Gamelon</title>
-  <link>http://cinemassacre.com/2008/11/25/avgn-cd-i-part-2/</link>
-  <pubDate>Tue, 25 Nov 2008 11:33:14 -0500</pubDate>
-  <id>1366</id>
-  <movieURL>Cinemassacre-1366</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/11/060-CDI-pt2.jpg</smallThumbnail>
-  <duration>756</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1368" activeInd="Y">
-  <title>AVGN: CD-I Part 3 - Link The Faces of Evil</title>
-  <link>http://cinemassacre.com/2008/12/09/avgn-cd-i-part-3/</link>
-  <pubDate>Tue, 09 Dec 2008 11:34:23 -0500</pubDate>
-  <id>1368</id>
-  <movieURL>Cinemassacre-1368</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/12/061-CDI-pt3.jpg</smallThumbnail>
-  <duration>856</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1370" activeInd="Y">
-  <title>AVGN: Bible Games 2</title>
-  <link>http://cinemassacre.com/2008/12/23/bible-games-2/</link>
-  <pubDate>Tue, 23 Dec 2008 11:36:04 -0500</pubDate>
-  <id>1370</id>
-  <movieURL>Cinemassacre-1370</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2008/12/062-Bible-Games2.jpg</smallThumbnail>
-  <duration>1021</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1398" activeInd="Y"/>
-   <category id="19" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1373" activeInd="Y">
-  <title>AVGN: Michael Jackson's Moonwalker</title>
-  <link>http://cinemassacre.com/2009/01/07/michael-jacksons-moonwalker/</link>
-  <pubDate>Wed, 07 Jan 2009 11:38:21 -0500</pubDate>
-  <id>1373</id>
-  <movieURL>Cinemassacre-1373</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/01/michael-jacksons-moonwalker-genesis-box-artwork.jpg</smallThumbnail>
-  <duration>605</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="N"/>
-   <category id="19" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1375" activeInd="Y">
-  <title>AVGN: Milon's Secret Castle</title>
-  <link>http://cinemassacre.com/2009/01/27/milons-secret-castle-2/</link>
-  <pubDate>Tue, 27 Jan 2009 11:40:18 -0500</pubDate>
-  <id>1375</id>
-  <movieURL>http://blip.tv/file/get/Cinemassacre-MilonsSecretCastle566.m4v</movieURL>
-  <description>Milon's Secret Castle (Math Corrected)</description>
-  <smallThumbnail>http://a.images.blip.tv/Cinemassacre-42733487.png</smallThumbnail>
-  <duration>693</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="N"/>
-   <category id="19" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
  <item id="20132" activeInd="Y">
   <title>Super Mario 4 Rambo (NES) with James &amp; Mike</title>
   <link>http://cinemassacre.com/2012/12/13/super-mario-4-rambo/</link>
@@ -8789,22 +9933,6 @@
    <category id="9" activeInd="Y"/>
   </categories>
  </item>
- <item id="1377" activeInd="Y">
-  <title>AVGN: Atari Jaguar Part 1</title>
-  <link>http://cinemassacre.com/2009/03/16/atari-jaguar-part-1/</link>
-  <pubDate>Mon, 16 Mar 2009 12:41:57 -0400</pubDate>
-  <id>1377</id>
-  <movieURL>Cinemassacre-1377</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/03/065-Jaguar.jpg</smallThumbnail>
-  <duration>504</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
  <item id="525651cd5ecc0" activeInd="Y">
   <title>Top 10 Worst NES Games</title>
   <link>http://cinemassacre.com/2013/11/07/top-10-worst-nes-games/</link>
@@ -8821,105 +9949,6 @@
    <category id="263" activeInd="Y"/>
    <category id="4" activeInd="N"/>
    <category id="504" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1379" activeInd="Y">
-  <title>AVGN: Atari Jaguar Part 2</title>
-  <link>http://cinemassacre.com/2009/03/25/atari-jaguar-part-2/</link>
-  <pubDate>Wed, 25 Mar 2009 12:43:24 -0400</pubDate>
-  <id>1379</id>
-  <movieURL>Cinemassacre-1379</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/03/066-Jaguar-Part2.jpg</smallThumbnail>
-  <duration>862</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1381" activeInd="Y">
-  <title>AVGN: Metal Gear</title>
-  <link>http://cinemassacre.com/2009/04/08/metal-gear/</link>
-  <pubDate>Wed, 08 Apr 2009 12:45:15 -0400</pubDate>
-  <id>1381</id>
-  <movieURL>Cinemassacre-1381</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/04/067-Metal-Gear.jpg</smallThumbnail>
-  <duration>797</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1383" activeInd="Y">
-  <title>AVGN: The Odyssey</title>
-  <link>http://cinemassacre.com/2009/04/21/the-odyssey/</link>
-  <pubDate>Tue, 21 Apr 2009 12:47:34 -0400</pubDate>
-  <id>1383</id>
-  <!-- <movieURL>Cinemassacre-1383</movieURL> -->
-  <movieURL>3WVb4Pf5</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/04/068-Odyssey.jpg</smallThumbnail>
-  <duration>658</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1385" activeInd="Y">
-  <title>AVGN: X-Men</title>
-  <link>http://cinemassacre.com/2009/05/06/x-men/</link>
-  <pubDate>Wed, 06 May 2009 12:49:36 -0400</pubDate>
-  <id>1385</id>
-  <!-- <movieURL>Cinemassacre-1385</movieURL> -->
-  <movieURL>Cinemassacre-1385</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/05/069-Xmen-TItle-Card.jpg</smallThumbnail>
-  <duration>851</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1387" activeInd="Y">
-  <title>AVGN: The Terminator</title>
-  <link>http://cinemassacre.com/2009/05/19/the-terminator-2/</link>
-  <pubDate>Tue, 19 May 2009 12:51:11 -0400</pubDate>
-  <id>1387</id>
-  <movieURL>Cinemassacre-1387</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/05/070-Terminator.jpg</smallThumbnail>
-  <duration>895</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1390" activeInd="Y">
-  <title>AVGN: Terminator 2</title>
-  <link>http://cinemassacre.com/2009/06/02/terminator-2-2/</link>
-  <pubDate>Tue, 02 Jun 2009 12:53:17 -0400</pubDate>
-  <id>1390</id>
-  <movieURL>Cinemassacre-1390</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/06/071-Terminator-2.jpg</smallThumbnail>
-  <duration>806</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
    <category id="7" activeInd="Y"/>
   </categories>
  </item>
@@ -8975,123 +10004,6 @@
    <category id="621" activeInd="Y"/>
   </categories>
  </item>
- <item id="1392" activeInd="Y">
-  <title>AVGN: Transformers</title>
-  <link>http://cinemassacre.com/2009/06/17/transformers/</link>
-  <pubDate>Wed, 17 Jun 2009 12:55:44 -0400</pubDate>
-  <id>1392</id>
-  <movieURL>Cinemassacre-1392</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/06/072-Transformers.jpg</smallThumbnail>
-  <duration>764</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1394" activeInd="Y">
-  <title>AVGN: Mario is Missing</title>
-  <link>http://cinemassacre.com/2009/07/01/mario-is-missing/</link>
-  <pubDate>Wed, 01 Jul 2009 13:00:55 -0400</pubDate>
-  <id>1394</id>
-  <movieURL>Cinemassacre-1394</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/07/073-MarioIsMissing.jpg</smallThumbnail>
-  <duration>571</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1396" activeInd="Y">
-  <title>AVGN: Plumbers Don't Wear Ties</title>
-  <link>http://cinemassacre.com/2009/07/21/plumbers-dont-wear-ties/</link>
-  <pubDate>Tue, 21 Jul 2009 13:02:59 -0400</pubDate>
-  <id>1396</id>
-  <movieURL>Cinemassacre-1396</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/07/269_3DO_Plumbers-H.264-800Kbps.jpg</smallThumbnail>
-  <duration>1239</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="519" activeInd="Y"/>
-   <category id="520" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1398" activeInd="Y">
-  <title>AVGN: Bugs Bunny's Crazy Castle</title>
-  <link>http://cinemassacre.com/2009/08/05/bugs-bunnys-crazy-castle/</link>
-  <pubDate>Wed, 05 Aug 2009 13:05:09 -0400</pubDate>
-  <id>1398</id>
-  <movieURL>Cinemassacre-1398</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/08/075-Crazy-Castle.jpg</smallThumbnail>
-  <duration>1019</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1400" activeInd="Y">
-  <title>AVGN: Super Pitfall</title>
-  <link>http://cinemassacre.com/2009/08/20/super-pitfall/</link>
-  <pubDate>Thu, 20 Aug 2009 13:07:00 -0400</pubDate>
-  <id>1400</id>
-  <movieURL>Cinemassacre-1400</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/08/076-Super-Pitfall.jpg</smallThumbnail>
-  <duration>667</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1402" activeInd="Y">
-  <title>AVGN: Godzilla</title>
-  <link>http://cinemassacre.com/2009/09/04/avgn-godzilla/</link>
-  <pubDate>Fri, 04 Sep 2009 13:09:21 -0400</pubDate>
-  <id>1402</id>
-  <movieURL>Cinemassacre-1402</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/09/077-Godzilla.jpg</smallThumbnail>
-  <duration>947</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1404" activeInd="Y">
-  <title>AVGN: Wayne's World</title>
-  <link>http://cinemassacre.com/2009/09/24/avgn-waynes-world/</link>
-  <pubDate>Thu, 24 Sep 2009 13:10:55 -0400</pubDate>
-  <id>1404</id>
-  <movieURL>Cinemassacre-1404</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/09/078-Waynes-World.jpg</smallThumbnail>
-  <duration>736</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
  <item id="52adfe82eb60c" activeInd="Y">
   <title>Bio Force Ape (NES) James &amp; Mike Mondays</title>
   <link>http://cinemassacre.com/2014/01/13/bio-force-ape-nes-james-mike-mondays/</link>
@@ -9106,93 +10018,6 @@
    <category id="4" activeInd="N"/>
   </categories>
  </item>
- <item id="1406" activeInd="Y">
-  <title>AVGN: Castlevania Part 1</title>
-  <link>http://cinemassacre.com/2009/10/08/castlevania-part-1/</link>
-  <pubDate>Thu, 08 Oct 2009 13:12:31 -0400</pubDate>
-  <id>1406</id>
-  <movieURL>Cinemassacre-1406</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/10/079-CastleVania-Part-1.jpg</smallThumbnail>
-  <duration>609</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1340" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1408" activeInd="Y">
-  <title>AVGN: Castlevania Part 2</title>
-  <link>http://cinemassacre.com/2009/10/21/castlevania-part-2/</link>
-  <pubDate>Wed, 21 Oct 2009 13:14:14 -0400</pubDate>
-  <id>1408</id>
-  <movieURL>Cinemassacre-1408</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/10/080-CastleVania-Part2-.jpg</smallThumbnail>
-  <duration>768</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1340" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1410" activeInd="Y">
-  <title>AVGN: Castlevania Part 3</title>
-  <link>http://cinemassacre.com/2009/11/05/castlevania-part-3/</link>
-  <pubDate>Thu, 05 Nov 2009 12:15:32 -0500</pubDate>
-  <id>1410</id>
-  <movieURL>Cinemassacre-1410</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/11/081-CastleVania-Part-31.jpg</smallThumbnail>
-  <duration>773</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1340" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="24997" activeInd="Y">
-  <title>AVGN: Toxic Crusaders</title>
-  <link>http://cinemassacre.com/2013/04/30/avgn-toxic-crusaders/</link>
-  <pubDate>Tue, 30 Apr 2013 22:00:00 -0400</pubDate>
-  <id>24997</id>
-  <movieURL>Cinemassacre-24997</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/05/Toxic-Crusaders-STILL.jpg</smallThumbnail>
-  <duration>882</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1092" activeInd="Y"/>
-   <category id="1094" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="1136" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1412" activeInd="Y">
-  <title>AVGN: Castlevania Part 4</title>
-  <link>http://cinemassacre.com/2009/11/19/castlevania-part-4/</link>
-  <pubDate>Thu, 19 Nov 2009 12:16:42 -0500</pubDate>
-  <id>1412</id>
-  <movieURL>Cinemassacre-1412</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/11/082-CastleVaniaPart4.jpg</smallThumbnail>
-  <duration>589</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1340" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
  <item id="5817" activeInd="Y">
   <title>Planning a review of TMNT cartoon series</title>
   <link>http://cinemassacre.com/2010/04/17/planning-a-review-of-tmnt-cartoon-series/</link>
@@ -9205,40 +10030,6 @@
   <categories>
    <category id="1" activeInd="Y"/>
    <category id="175" activeInd="Y"/>
-  </categories>
- </item>
- <item id="1414" activeInd="Y">
-  <title>AVGN: Little Red Hood</title>
-  <link>http://cinemassacre.com/2009/12/03/little-red-hood/</link>
-  <pubDate>Thu, 03 Dec 2009 12:18:54 -0500</pubDate>
-  <id>1414</id>
-  <movieURL>Cinemassacre-1414</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.comwp-content/uploads/2009/12/083-LittleRedHood.jpg</smallThumbnail>
-  <duration>895</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="3151" activeInd="Y">
-  <title>AVGN: Winter Games</title>
-  <link>http://cinemassacre.com/2009/12/25/winter-games/</link>
-  <pubDate>Fri, 25 Dec 2009 17:39:34 -0500</pubDate>
-  <id>3151</id>
-  <movieURL>Cinemassacre-3151</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2009/12/WinterGames-209x300.jpg</smallThumbnail>
-  <duration>629</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1398" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
   </categories>
  </item>
  <item id="9556" activeInd="Y">
@@ -9500,42 +10291,6 @@
    <category id="9" activeInd="Y"/>
   </categories>
  </item>
- <item id="3153" activeInd="Y">
-  <title>AVGN: Street Fighter 2010</title>
-  <link>http://cinemassacre.com/2010/01/06/street-fighter-2010/</link>
-  <pubDate>Wed, 06 Jan 2010 17:40:38 -0500</pubDate>
-  <id>3153</id>
-  <movieURL>Cinemassacre-3153</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/01/085-StreetFighter2010.jpg</smallThumbnail>
-  <duration>1077</duration>
-  <categories>
-   <category id="1" activeInd="N"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="N"/>
-   <category id="224" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="3155" activeInd="Y">
-  <title>AVGN: Hydlide</title>
-  <link>http://cinemassacre.com/2010/01/20/avgn-hydlide-2/</link>
-  <pubDate>Wed, 20 Jan 2010 17:41:49 -0500</pubDate>
-  <id>3155</id>
-  <movieURL>Cinemassacre-3155</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/01/Hydlide1-218x300.jpg</smallThumbnail>
-  <duration>509</duration>
-  <categories>
-   <category id="1" activeInd="N"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="N"/>
-   <category id="224" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
  <item id="20207" activeInd="Y">
   <title>Dark Souls (Xbox 360) First Impressions</title>
   <link>http://cinemassacre.com/2013/01/07/dark-souls-xbox-360-first-impressions/</link>
@@ -9554,134 +10309,6 @@
    <category id="478" activeInd="Y"/>
   </categories>
  </item>
- <item id="3157" activeInd="Y">
-  <title>AVGN: Ninja Gaiden</title>
-  <link>http://cinemassacre.com/2010/02/04/avgn-ninja-gaiden/</link>
-  <pubDate>Thu, 04 Feb 2010 17:42:37 -0500</pubDate>
-  <id>3157</id>
-  <movieURL>Cinemassacre-3157</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/02/Ninja_gaiden_nes-210x300.jpg</smallThumbnail>
-  <duration>941</duration>
-  <categories>
-   <category id="1" activeInd="N"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="N"/>
-   <category id="224" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="3159" activeInd="Y">
-  <title>AVGN: Swordquest</title>
-  <link>http://cinemassacre.com/2010/02/18/avgn-swordquest/</link>
-  <pubDate>Thu, 18 Feb 2010 17:43:36 -0500</pubDate>
-  <id>3159</id>
-  <movieURL>Cinemassacre-3159</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/02/088-swordquest.jpg</smallThumbnail>
-  <duration>552</duration>
-  <categories>
-   <category id="1" activeInd="N"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="Y"/>
-   <category id="224" activeInd="N"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="3193" activeInd="Y">
-  <title>AVGN: Pong Consoles</title>
-  <link>http://cinemassacre.com/2010/03/06/avgn-pong-consoles/</link>
-  <pubDate>Sat, 06 Mar 2010 03:18:16 -0500</pubDate>
-  <id>3193</id>
-  <movieURL>Cinemassacre-3193</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/03/089-PongConsoles.jpg</smallThumbnail>
-  <duration>721</duration>
-  <categories>
-   <category id="1" activeInd="N"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="18" activeInd="N"/>
-   <category id="224" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="6057" activeInd="Y">
-  <title>AVGN: Action 52</title>
-  <link>http://cinemassacre.com/2010/04/30/avgn-episode-90-action-52/</link>
-  <pubDate>Fri, 30 Apr 2010 13:16:16 -0400</pubDate>
-  <id>6057</id>
-  <movieURL>Cinemassacre-6057</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/04/Action52.jpg</smallThumbnail>
-  <duration>1611</duration>
-  <categories>
-   <category id="1" activeInd="N"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="224" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="421" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="6268" activeInd="Y">
-  <title>AVGN: Cheetahmen</title>
-  <link>http://cinemassacre.com/2010/06/09/avgn-cheetahmen/</link>
-  <pubDate>Thu, 10 Jun 2010 00:26:02 -0400</pubDate>
-  <id>6268</id>
-  <movieURL>Cinemassacre-6268</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/06/CH2.jpg</smallThumbnail>
-  <duration>1226</duration>
-  <categories>
-   <category id="1" activeInd="N"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="224" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="6442" activeInd="Y">
-  <title>AVGN: Game Glitches</title>
-  <link>http://cinemassacre.com/2010/07/07/avgn-game-glitches/</link>
-  <pubDate>Thu, 08 Jul 2010 00:06:31 -0400</pubDate>
-  <id>6442</id>
-  <movieURL>Cinemassacre-6442</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/07/GameGlitchesImage.jpg</smallThumbnail>
-  <duration>968</duration>
-  <categories>
-   <category id="1" activeInd="N"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="224" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="6753" activeInd="Y">
-  <title>AVGN: Zelda 2 The Adventure of Link</title>
-  <link>http://cinemassacre.com/2010/08/04/avgn-zelda-2-the-adventure-of-link/</link>
-  <pubDate>Thu, 05 Aug 2010 00:04:18 -0400</pubDate>
-  <id>6753</id>
-  <movieURL>Cinemassacre-6753</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/08/Zelda2.jpg</smallThumbnail>
-  <duration>907</duration>
-  <categories>
-   <category id="1" activeInd="N"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="224" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
  <item id="24241" activeInd="Y">
   <title>The Rotten Corpse of Snix (1998)</title>
   <link>http://cinemassacre.com/2013/05/04/the-rotten-corpse-of-snix-1998/</link>
@@ -9695,64 +10322,6 @@
    <category id="14" activeInd="Y"/>
    <category id="4" activeInd="N"/>
    <category id="413" activeInd="Y"/>
-  </categories>
- </item>
- <item id="6951" activeInd="Y">
-  <title>AVGN: Back to the Future Trilogy</title>
-  <link>http://cinemassacre.com/2010/09/03/angry-video-game-nerd-episode-94/</link>
-  <pubDate>Fri, 03 Sep 2010 15:00:04 -0400</pubDate>
-  <id>6951</id>
-  <movieURL>Cinemassacre-6951</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/08/BTTFimage.jpg</smallThumbnail>
-  <duration>1384</duration>
-  <categories>
-   <category id="1" activeInd="N"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="175" activeInd="Y"/>
-   <category id="224" activeInd="Y"/>
-   <category id="346" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="531" activeInd="Y"/>
-   <category id="532" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="8066" activeInd="Y">
-  <title>AVGN: Dr. Jekyll and Mr. Hyde Re-Revisited</title>
-  <link>http://cinemassacre.com/2010/10/07/avgn-dr-jekyll-mr-hyde-revisited/</link>
-  <pubDate>Thu, 07 Oct 2010 08:00:55 -0400</pubDate>
-  <id>8066</id>
-  <movieURL>Cinemassacre-8066</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/10/hydebox1.jpg</smallThumbnail>
-  <duration>1001</duration>
-  <categories>
-   <category id="1" activeInd="N"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="1340" activeInd="Y"/>
-   <category id="224" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="8267" activeInd="Y">
-  <title>AVGN: Lester the Unlikely</title>
-  <link>http://cinemassacre.com/2010/11/03/avgn-lester-the-unlikely/</link>
-  <pubDate>Thu, 04 Nov 2010 00:10:33 -0400</pubDate>
-  <id>8267</id>
-  <movieURL>Cinemassacre-8267</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/11/lester.jpg</smallThumbnail>
-  <duration>645</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="224" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="533" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
   </categories>
  </item>
  <item id="25426" activeInd="Y">
@@ -9771,24 +10340,6 @@
    <category id="365" activeInd="Y"/>
    <category id="4" activeInd="N"/>
    <category id="942" activeInd="Y"/>
-  </categories>
- </item>
- <item id="8709" activeInd="Y">
-  <title>AVGN: Day Dreamin' Davey</title>
-  <link>http://cinemassacre.com/2011/01/05/avgn-episode-98-day-dreamin-davey/</link>
-  <pubDate>Wed, 05 Jan 2011 02:02:13 -0500</pubDate>
-  <id>8709</id>
-  <movieURL>Cinemassacre-8709</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/01/head.jpg</smallThumbnail>
-  <duration>841</duration>
-  <categories>
-   <category id="1" activeInd="N"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="224" activeInd="Y"/>
-   <category id="422" activeInd="Y"/>
-   <category id="470" activeInd="N"/>
-   <category id="7" activeInd="Y"/>
   </categories>
  </item>
  <item id="9255" activeInd="Y">
@@ -9911,25 +10462,6 @@
    <category id="7" activeInd="N"/>
   </categories>
  </item>
- <item id="8930" activeInd="Y">
-  <title>AVGN: Star Wars</title>
-  <link>http://cinemassacre.com/2011/02/03/avgn-star-wars/</link>
-  <pubDate>Thu, 03 Feb 2011 00:12:34 -0500</pubDate>
-  <id>8930</id>
-  <movieURL>http://www.youtube.com/embed/F2bKVEVUOPg</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/02/Star-WarsCine.jpg</smallThumbnail>
-  <duration>1349</duration>
-  <categories>
-   <category id="1" activeInd="N"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="224" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="470" activeInd="N"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
  <item id="10990" activeInd="Y">
   <title>OverAnalyzers #6: TMNT Money</title>
   <link>http://cinemassacre.com/2011/06/07/overanalyzers-6-tmnt-turtle-money/</link>
@@ -10034,25 +10566,6 @@
    <category id="422" activeInd="Y"/>
    <category id="478" activeInd="Y"/>
    <category id="7" activeInd="N"/>
-  </categories>
- </item>
- <item id="53100fa8e149f" activeInd="Y">
-  <title>AVGN: Big Rigs Over the Road Racing</title>
-  <link>http://cinemassacre.com/2014/03/19/avgn-big-rigs-over-the-road-racing/</link>
-  <pubDate>Wed, 19 Mar 2014 00:01:11 -0400</pubDate>
-  <id>53100fa8e149f</id>
-  <movieURL>Cinemassacre-53100fa8e149f</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2014/02/AVGN_BIG-RIGS_STILL.jpg</smallThumbnail>
-  <duration>945</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="1409" activeInd="Y"/>
-   <category id="1410" activeInd="Y"/>
-   <category id="1411" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="7" activeInd="Y"/>
   </categories>
  </item>
  <item id="9998" activeInd="Y">
@@ -10211,25 +10724,6 @@
    <category id="401" activeInd="N"/>
    <category id="509" activeInd="Y"/>
    <category id="9" activeInd="Y"/>
-  </categories>
- </item>
- <item id="9356" activeInd="Y">
-  <title>AVGN: ROB the Robot </title>
-  <link>http://cinemassacre.com/2011/03/03/avgn-rob-the-robot/</link>
-  <pubDate>Thu, 03 Mar 2011 00:06:03 -0500</pubDate>
-  <id>9356</id>
-  <movieURL>Cinemassacre-9356</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/03/Image1.jpg</smallThumbnail>
-  <duration>1134</duration>
-  <categories>
-   <category id="1" activeInd="N"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="224" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="470" activeInd="N"/>
-   <category id="7" activeInd="Y"/>
   </categories>
  </item>
  <item id="9755" activeInd="Y">
@@ -10640,25 +11134,6 @@
    <category id="9" activeInd="N"/>
   </categories>
  </item>
- <item id="9842" activeInd="Y">
-  <title>AVGN: Spielberg Games</title>
-  <link>http://cinemassacre.com/2011/04/06/avgn-spielberg-games/</link>
-  <pubDate>Thu, 07 Apr 2011 00:10:50 -0400</pubDate>
-  <id>9842</id>
-  <movieURL>Cinemassacre-9842</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/04/ETGoCome.jpg</smallThumbnail>
-  <duration>1279</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="224" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="470" activeInd="N"/>
-   <category id="610" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
  <item id="52c92d7e61172" activeInd="Y">
   <title>Universal Studios Theme Park Adventure (Part 1)</title>
   <link>http://cinemassacre.com/2014/02/17/universal-studios-theme-parks-adventure-part-1/</link>
@@ -10706,24 +11181,6 @@
    <category id="499" activeInd="N"/>
    <category id="538" activeInd="Y"/>
    <category id="8" activeInd="Y"/>
-  </categories>
- </item>
- <item id="12805" activeInd="Y">
-  <title>AVGN: Kid Kool</title>
-  <link>http://cinemassacre.com/2011/08/03/avgn-kid-kool/</link>
-  <pubDate>Thu, 04 Aug 2011 00:08:17 -0400</pubDate>
-  <id>12805</id>
-  <movieURL>http://cdn.springboard.gorillanation.com/storage/cinemassacre/conversion/484219.mp4</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/08/KidKoolImage.jpg</smallThumbnail>
-  <duration>494</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="470" activeInd="N"/>
-   <category id="7" activeInd="Y"/>
   </categories>
  </item>
  <item id="525711487c2c5" activeInd="Y">
@@ -10815,25 +11272,6 @@
    <category id="9" activeInd="Y"/>
   </categories>
  </item>
- <item id="12974" activeInd="Y">
-  <title>AVGN: Nintendo World Championships</title>
-  <link>http://cinemassacre.com/2011/08/26/avgn-nintendo-world-championships/</link>
-  <pubDate>Fri, 26 Aug 2011 15:59:15 -0400</pubDate>
-  <id>12974</id>
-  <movieURL>Cinemassacre-12974</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/08/gold.jpg</smallThumbnail>
-  <duration>1023</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="470" activeInd="N"/>
-   <category id="541" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
  <item id="16871" activeInd="Y">
   <title>Borrower, The (1991)</title>
   <link>http://cinemassacre.com/2012/04/19/the-borrower-1991/</link>
@@ -10862,21 +11300,6 @@
   <duration>225</duration>
   <categories>
    <category id="1" activeInd="Y"/>
-  </categories>
- </item>
- <item id="13028" activeInd="Y">
-  <title>AVGN: Nintendo World Championships Premiere at PAX 2011</title>
-  <link>http://cinemassacre.com/2011/08/31/avgn-nintendo-world-championships-premiere-at-pax-2011/</link>
-  <pubDate>Wed, 31 Aug 2011 13:45:04 -0400</pubDate>
-  <id>13028</id>
-  <movieURL>http://blip.tv/file/get/CinemassacreCinevore-AVGNNintendoWorldChampionshipsPremiereAtPAX2011232.m4v</movieURL>
-  <description>James from Cinemassacre shows the new AVGN video at PAX gaming convention 2011. Also with Pat the NES Punk</description>
-  <smallThumbnail>http://a.images.blip.tv/CinemassacreCinevore-AVGNNintendoWorldChampionshipsPremiereAtPAX2011750.jpg</smallThumbnail>
-  <duration>298</duration>
-  <categories>
-   <category id="226" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="7" activeInd="Y"/>
   </categories>
  </item>
  <item id="9338" activeInd="Y">
@@ -11097,21 +11520,6 @@
    <category id="1" activeInd="N"/>
   </categories>
  </item>
- <item id="8518" activeInd="Y">
-  <title>AVGN: Holiday Memories</title>
-  <link>http://cinemassacre.com/2010/12/08/avgn-holiday-memories/</link>
-  <pubDate>Wed, 08 Dec 2010 13:53:22 -0500</pubDate>
-  <id>8518</id>
-  <movieURL>http://www.youtube.com/watch?v=iMINBv_Dqvs</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2010/12/HolidayMemories_SITE9.jpg</smallThumbnail>
-  <duration>810</duration>
-  <categories>
-   <category id="1398" activeInd="Y"/>
-   <category id="226" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
  <item id="12303" activeInd="Y">
   <title>Monster Madness Sequel-A-Thon - Coming October 1st </title>
   <link>http://cinemassacre.com/2011/09/19/monster-madness-2011-promo/</link>
@@ -11329,42 +11737,6 @@
    <category id="513" activeInd="Y"/>
    <category id="752" activeInd="Y"/>
    <category id="9" activeInd="Y"/>
-  </categories>
- </item>
- <item id="13354" activeInd="Y">
-  <title>AVGN: Dark Castle</title>
-  <link>http://cinemassacre.com/2011/10/06/avgn-episode-105-dark-castle/</link>
-  <pubDate>Thu, 06 Oct 2011 01:40:27 -0400</pubDate>
-  <id>13354</id>
-  <movieURL>Cinemassacre-13354</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/10/AVGN_Dark-Castle.jpg</smallThumbnail>
-  <duration>728</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="1340" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="470" activeInd="N"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="13699" activeInd="Y">
-  <title>AVGN: Bugs Bunny Commentary</title>
-  <link>http://cinemassacre.com/2012/02/08/avgn-bugs-bunny-commentary/</link>
-  <pubDate>Wed, 08 Feb 2012 00:01:06 -0500</pubDate>
-  <id>13699</id>
-  <movieURL>Cinemassacre-13699</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/02/BugsCommentary.png</smallThumbnail>
-  <duration>460</duration>
-  <categories>
-   <category id="226" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="579" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
   </categories>
  </item>
  <item id="11420" activeInd="Y">
@@ -12518,24 +12890,6 @@
    <category id="7" activeInd="N"/>
   </categories>
  </item>
- <item id="11887" activeInd="Y">
-  <title>AVGN: The Making of The Angry Video Game Nerd</title>
-  <link>http://cinemassacre.com/2011/07/06/the-making-of-the-angry-video-game-nerd/</link>
-  <pubDate>Thu, 07 Jul 2011 00:06:59 -0400</pubDate>
-  <id>11887</id>
-  <movieURL>Cinemassacre-11887</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/07/Barbie11.jpg</smallThumbnail>
-  <duration>1760</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="470" activeInd="N"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
  <item id="4464" activeInd="Y">
   <title>The Head Incident (all 5 parts)</title>
   <link>http://cinemassacre.com/2009/09/08/the-head-incident-full-version/</link>
@@ -12560,25 +12914,6 @@
   <duration>1184</duration>
   <categories>
    <category id="226" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="14880" activeInd="Y">
-  <title>AVGN: Bible Games 3</title>
-  <link>http://cinemassacre.com/2011/12/07/avgn-bible-games-3/</link>
-  <pubDate>Wed, 07 Dec 2011 00:01:14 -0500</pubDate>
-  <id>14880</id>
-  <movieURL>Cinemassacre-14880</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2011/12/BibleGames3.jpg</smallThumbnail>
-  <duration>855</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="1398" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="470" activeInd="N"/>
    <category id="7" activeInd="Y"/>
   </categories>
  </item>
@@ -14983,27 +15318,6 @@
    <category id="4" activeInd="N"/>
   </categories>
  </item>
- <item id="17828" activeInd="Y">
-  <title>AVGN: Schwarzenegger Games</title>
-  <link>http://cinemassacre.com/2012/07/23/avgn-schwarzenegger-games/</link>
-  <pubDate>Mon, 23 Jul 2012 11:00:43 -0400</pubDate>
-  <id>17828</id>
-  <movieURL>http://www.youtube.com/embed/0Ta-4H92CkA</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/07/04.jpg</smallThumbnail>
-  <duration>1346</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-   <category id="909" activeInd="N"/>
-   <category id="911" activeInd="Y"/>
-   <category id="912" activeInd="Y"/>
-   <category id="913" activeInd="Y"/>
-  </categories>
- </item>
  <item id="52569eeb7384c" activeInd="Y">
   <title>Top 10 Epic Nerd Moments</title>
   <link>http://cinemassacre.com/2013/11/10/top-10-epic-nerd-moments/</link>
@@ -16212,27 +16526,6 @@
    <category id="925" activeInd="Y"/>
   </categories>
  </item>
- <item id="19445" activeInd="Y">
-  <title>AVGN: Ghosts N' Goblins</title>
-  <link>http://cinemassacre.com/2012/10/24/avgn-ghosts-n-goblins/</link>
-  <pubDate>Wed, 24 Oct 2012 01:05:01 -0400</pubDate>
-  <id>19445</id>
-  <movieURL>http://cdn.springboard.gorillanation.com/storage/cinemassacre/conversion/583749.mp4</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2012/10/GhostsSm.jpg</smallThumbnail>
-  <duration>1024</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="1340" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="560" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-   <category id="909" activeInd="N"/>
-   <category id="999" activeInd="Y"/>
-  </categories>
- </item>
  <item id="18096" activeInd="Y">
   <title>80's Rerun: &quot;Inhumanoids&quot;</title>
   <link>http://cinemassacre.com/2012/10/24/80s-rerun-inhumanoids/</link>
@@ -16461,42 +16754,6 @@
   <duration>5842</duration>
   <categories>
    <category id="1" activeInd="Y"/>
-  </categories>
- </item>
- <item id="52b376f669a3d" activeInd="Y">
-  <title>AVGN: Wish List (Part 2)</title>
-  <link>http://cinemassacre.com/2013/12/19/avgn-wish-list-part-2/</link>
-  <pubDate>Thu, 19 Dec 2013 16:00:58 -0500</pubDate>
-  <id>52b376f669a3d</id>
-  <movieURL>Cinemassacre-52b376f669a3d</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/12/wishbook-still-02.jpg</smallThumbnail>
-  <duration>927</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="1398" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="537f50ecdff28" activeInd="Y">
-  <title>AVGN: Desert Bus</title>
-  <link>http://cinemassacre.com/2014/05/28/avgn-desert-bus/</link>
-  <pubDate>Wed, 28 May 2014 07:32:31 -0400</pubDate>
-  <id>537f50ecdff28</id>
-  <movieURL>Cinemassacre-537f50ecdff28</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2014/05/Desert-Bus-STILL.jpg</smallThumbnail>
-  <duration>929</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="1434" activeInd="Y"/>
-   <category id="1435" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="562" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
   </categories>
  </item>
  <item id="5366c132932b1" activeInd="Y">
@@ -17219,24 +17476,6 @@
    <category id="1" activeInd="Y"/>
   </categories>
  </item>
- <item id="8521" activeInd="Y">
-  <title>AVGN: How the Nerd Stole Christmas</title>
-  <link>http://cinemassacre.com/2010/12/06/avgn-episode-97-christmas-special-2010/</link>
-  <pubDate>Mon, 06 Dec 2010 14:46:00 -0500</pubDate>
-  <id>8521</id>
-  <movieURL>http://blip.tv/file/get/Cinemassacre-HowTheNerdStoleChristmas111.m4v</movieURL>
-  <description>How the Nerd Stole Christmas</description>
-  <smallThumbnail>http://a.images.blip.tv/Cinemassacre-95195978.png</smallThumbnail>
-  <duration>726</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1398" activeInd="Y"/>
-   <category id="224" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="422" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
  <item id="8585" activeInd="Y">
   <title>Angry Video Game Nerd Volume 4 DVD</title>
   <link>http://cinemassacre.com/2010/12/15/angry-video-game-nerd-volume-4-dvd/</link>
@@ -17637,23 +17876,6 @@
    <category id="4" activeInd="N"/>
   </categories>
  </item>
- <item id="52b0adeb9ea41" activeInd="Y">
-  <title>AVGN: Wish List (Part 1) </title>
-  <link>http://cinemassacre.com/2013/12/17/avgn-wish-list-part-1/</link>
-  <pubDate>Tue, 17 Dec 2013 15:13:02 -0500</pubDate>
-  <id>52b0adeb9ea41</id>
-  <movieURL>Cinemassacre-52b0adeb9ea41</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/12/wishbook-still-01.jpg</smallThumbnail>
-  <duration>906</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="1398" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
  <item id="529c0e67c65b2" activeInd="Y">
   <title>Sonic '06 - James &amp; Mike Mondays</title>
   <link>http://cinemassacre.com/2013/12/16/sonic-06-james-mike-mondays/</link>
@@ -18038,26 +18260,6 @@
    <category id="7" activeInd="Y"/>
   </categories>
  </item>
- <item id="24611" activeInd="Y">
-  <title>AVGN: Ikari Warriors</title>
-  <link>http://cinemassacre.com/2013/03/06/avgn-ikari-warriors/</link>
-  <pubDate>Wed, 06 Mar 2013 11:39:22 -0500</pubDate>
-  <id>24611</id>
-  <movieURL>http://www.youtube.com/embed/bByE7n2AJj4</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/03/IkariW.jpg</smallThumbnail>
-  <duration>1239</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="1124" activeInd="Y"/>
-   <category id="1126" activeInd="Y"/>
-   <category id="1127" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="584" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
  <item id="5346263167b6a" activeInd="Y">
   <title>Anticipation (NES) James &amp; Mike Mondays</title>
   <link>http://cinemassacre.com/2014/04/14/anticipation-nes-james-mike-mondays/</link>
@@ -18118,27 +18320,6 @@
    <category id="1369" activeInd="Y"/>
    <category id="226" activeInd="Y"/>
    <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="528c1b5eed643" activeInd="Y">
-  <title>AVGN: AVGN Games! </title>
-  <link>http://cinemassacre.com/2013/11/19/avgn-avgn-games/</link>
-  <pubDate>Tue, 19 Nov 2013 21:04:54 -0500</pubDate>
-  <id>528c1b5eed643</id>
-  <movieURL>Cinemassacre-528c1b5eed643</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/12/AVGN-GAMES-STILL.jpg</smallThumbnail>
-  <duration>1315</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="1323" activeInd="Y"/>
-   <category id="1388" activeInd="Y"/>
-   <category id="1389" activeInd="Y"/>
-   <category id="1390" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="7" activeInd="Y"/>
-   <category id="830" activeInd="Y"/>
   </categories>
  </item>
  <item id="24461" activeInd="Y">
@@ -18582,26 +18763,6 @@
    <category id="504" activeInd="Y"/>
   </categories>
  </item>
- <item id="25823" activeInd="Y">
-  <title>AVGN: Bill &amp; Ted's Excellent Adventure</title>
-  <link>http://cinemassacre.com/2013/07/01/avgn-bill-teds-excellent-adventure/</link>
-  <pubDate>Mon, 01 Jul 2013 00:01:21 -0400</pubDate>
-  <id>25823</id>
-  <movieURL>Cinemassacre-25823</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/06/Cinemassacre-AVGNBillTedsExcellentAdventureNES644.jpg</smallThumbnail>
-  <duration>1071</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="1163" activeInd="Y"/>
-   <category id="1164" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="426" activeInd="Y"/>
-   <category id="504" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
  <item id="25798" activeInd="Y">
   <title>Pilotwings 64 (N64) with James &amp; Mike</title>
   <link>http://cinemassacre.com/2013/07/16/james-mike-play-pilotwings-64/</link>
@@ -18947,25 +19108,6 @@
    <category id="504" activeInd="Y"/>
    <category id="515" activeInd="Y"/>
    <category id="561" activeInd="Y"/>
-  </categories>
- </item>
- <item id="52273484b87b2" activeInd="Y">
-  <title>AVGN: Tiger Electronic Games</title>
-  <link>http://cinemassacre.com/2013/09/06/avgn-tiger-electronic/</link>
-  <pubDate>Fri, 06 Sep 2013 09:19:55 -0400</pubDate>
-  <id>52273484b87b2</id>
-  <movieURL>Cinemassacre-52273484b87b2</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/09/Tiger_games_Nerd_combined.jpg</smallThumbnail>
-  <duration>1119</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="1331" activeInd="Y"/>
-   <category id="1332" activeInd="Y"/>
-   <category id="1333" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
-   <category id="7" activeInd="Y"/>
   </categories>
  </item>
  <item id="522bcc31ac035" activeInd="Y">
@@ -19728,27 +19870,6 @@
    <category id="129" activeInd="Y"/>
    <category id="1353" activeInd="Y"/>
    <category id="1354" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-  </categories>
- </item>
- <item id="5265c3fb9873f" activeInd="Y">
-  <title>AVGN: Alien 3</title>
-  <link>http://cinemassacre.com/2013/10/22/alien-3-angry-video-game-nerd/</link>
-  <pubDate>Tue, 22 Oct 2013 12:00:24 -0400</pubDate>
-  <id>5265c3fb9873f</id>
-  <movieURL>Cinemassacre-5265c3fb9873f</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2013/10/Alien-3-STILL-1.jpg</smallThumbnail>
-  <duration>617</duration>
-  <categories>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="1258" activeInd="Y"/>
-   <category id="129" activeInd="Y"/>
-   <category id="1340" activeInd="Y"/>
-   <category id="1353" activeInd="Y"/>
-   <category id="1354" activeInd="Y"/>
-   <category id="4" activeInd="N"/>
    <category id="7" activeInd="Y"/>
   </categories>
  </item>
@@ -21345,27 +21466,6 @@
    <category id="567" activeInd="Y"/>
   </categories>
  </item>
- <item id="54373b5abafc5" activeInd="Y">
-  <title>E.T. Atari 2600 - Angry Video Game Nerd - Episode 120</title>
-  <link>http://cinemassacre.com/2014/10/10/e-t-atari-2600-angry-video-game-nerd-episode-120/</link>
-  <pubDate>Fri, 10 Oct 2014 09:52:24 -0400</pubDate>
-  <id>54373b5abafc5</id>
-  <movieURL>Cinemassacre-54373b5abafc5</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2014/10/ET.jpg</smallThumbnail>
-  <duration>421</duration>
-  <categories>
-   <category id="1044" activeInd="Y"/>
-   <category id="1065" activeInd="Y"/>
-   <category id="1121" activeInd="Y"/>
-   <category id="1568" activeInd="Y"/>
-   <category id="1569" activeInd="Y"/>
-   <category id="4" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
-   <category id="988" activeInd="Y"/>
-   <category id="994" activeInd="Y"/>
-  </categories>
- </item>
  <item id="53f56b1e3254c" activeInd="Y">
   <title>The Exorcist III (1990) </title>
   <link>http://cinemassacre.com/2014/10/11/the-exorcist-iii-1990/</link>
@@ -21459,25 +21559,6 @@
    <category id="1499" activeInd="Y"/>
    <category id="1500" activeInd="Y"/>
    <category id="4" activeInd="Y"/>
-  </categories>
- </item>
- <item id="539d8137b3016" activeInd="Y">
-  <title>AVGN: Beetlejuice - Episode 121</title>
-  <link>http://cinemassacre.com/2014/10/15/avgn-beetlejuice-episode-121/</link>
-  <pubDate>Wed, 15 Oct 2014 03:01:51 -0400</pubDate>
-  <id>539d8137b3016</id>
-  <movieURL>Cinemassacre-539d8137b3016</movieURL>
-  <description></description>
-  <smallThumbnail>http://cinemassacre.com/wp-content/uploads/2014/10/STILL-03.jpg</smallThumbnail>
-  <duration>834</duration>
-  <categories>
-   <category id="1121" activeInd="Y"/>
-   <category id="1340" activeInd="Y"/>
-   <category id="1567" activeInd="Y"/>
-   <category id="4" activeInd="Y"/>
-   <category id="426" activeInd="Y"/>
-   <category id="504" activeInd="Y"/>
-   <category id="7" activeInd="Y"/>
   </categories>
  </item>
  <item id="53f5764b20156" activeInd="Y">
