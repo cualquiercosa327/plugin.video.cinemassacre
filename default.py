@@ -40,6 +40,208 @@
 # ------------------------------------------------------------------------------
 
 
+# ------------------------------------------------------------------------------
+# POST Submission: Request All AVGN Episodes
+
+# http://cinemassacre.com/category/avgn/avgnepisodes/
+# Use "page_no=1" from "action" in header to change pages (1-6 are valid)
+# __cfduid and PHPSESSID may also need changed for different request sessions
+
+# POST /wp-admin/admin-ajax.php HTTP/1.1
+# Host: cinemassacre.com
+# User-Agent: XBMC/Kodi (plugin.video.cinemassacre/3.0.0)
+# Accept: */*
+# Accept-Language: en-US,en;q=0.5
+# Accept-Encoding: gzip, deflate
+# Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+# X-Requested-With: XMLHttpRequest
+# Referer: http://cinemassacre.com/category/avgn/avgnepisodes/
+# Content-Length: 56
+# Cookie: __cfduid=dcaa673b3d717e0aadcfdac53e94ba7d21462682306; PHPSESSID=kg4703g2mdptsussbo408vvau5
+# Connection: keep-alive
+# action=infinite_scroll&page_no=1&cat=1065&loop_file=loop
+
+
+# Returns HTML In The Following Format (The 1st link is the newest episode)
+
+# <div class="archiveitem">
+# 	<a href="http://cinemassacre.com/2016/05/26/avgn-paperboy/" rel="bookmark" title="Permanent Link to Paperboy (NES) Angry Video Game Nerd">
+# 	<img width="190" height="140" src="http://cinemassacre.com/wp-content/uploads/2016/04/Paperboy-STILL-FINAL-190x140.jpg" class="mediumthumb wp-post-image" alt="Paperboy-STILL-FINAL" srcset="http://cinemassacre.com/wp-content/uploads/2016/04/Paperboy-STILL-FINAL-190x140.jpg 190w, http://cinemassacre.com/wp-content/uploads/2016/04/Paperboy-STILL-FINAL-90x66.jpg 90w" sizes="(max-width: 190px) 100vw, 190px" />			<div>Paperboy (NES) Angry Video Game Nerd</div></a>
+# </div>
+		
+# <div class="archiveitem">
+# 	<a href="http://cinemassacre.com/2016/04/06/mega-man-games-angry-video-game-nerd/" rel="bookmark" title="Permanent Link to MEGA MAN Games &#8211; Angry Video Game Nerd: Episode 139">
+# 	<img width="190" height="140" src="http://cinemassacre.com/wp-content/uploads/2016/04/Mega-Man-title-card-190x140.jpg" class="mediumthumb wp-post-image" alt="Mega Man title card" srcset="http://cinemassacre.com/wp-content/uploads/2016/04/Mega-Man-title-card-190x140.jpg 190w, http://cinemassacre.com/wp-content/uploads/2016/04/Mega-Man-title-card-90x66.jpg 90w" sizes="(max-width: 190px) 100vw, 190px" />			<div>MEGA MAN Games &#8211; Angry Video Game Nerd: Episode 139</div></a>
+# </div>
+
+# <div class="archiveitem">
+# 	<a href="http://cinemassacre.com/2015/12/22/mortal-kombat-mythologies-sub-zero-n64-angry-video-game-nerd/" rel="bookmark" title="Permanent Link to AVGN: Mortal Kombat Mythologies: Sub-Zero (N64)">
+# 	<img width="190" height="140" src="http://cinemassacre.com/wp-content/uploads/2015/12/AVGN-MK-190x140.jpg" class="mediumthumb wp-post-image" alt="AVGN-MK" srcset="http://cinemassacre.com/wp-content/uploads/2015/12/AVGN-MK-190x140.jpg 190w, http://cinemassacre.com/wp-content/uploads/2015/12/AVGN-MK-90x66.jpg 90w" sizes="(max-width: 190px) 100vw, 190px" />			<div>AVGN: Mortal Kombat Mythologies: Sub-Zero (N64)</div></a>
+# </div>
+# ------------------------------------------------------------------------------
+
+
+# ------------------------------------------------------------------------------
+# GET Request: AVGN Episodes 2015-2016
+
+# GET /category/avgn/avgnepisodes/2015/ HTTP/1.1
+# Host: cinemassacre.com
+# User-Agent: XBMC/Kodi (plugin.video.cinemassacre/3.0.0)
+# Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+# Accept-Language: en-US,en;q=0.5
+# Accept-Encoding: gzip, deflate
+# Referer: http://cinemassacre.com/category/avgn/
+# Cookie: __cfduid=dcaa673b3d717e0aadcfdac53e94ba7d21462682306; PHPSESSID=kg4703g2mdptsussbo408vvau5
+# Connection: keep-alive
+
+
+# Returns HTML In The Following Format (The 1st link is the newest episode)
+
+# <div id="featuredImg">
+# 	<a href="http://cinemassacre.com/2016/05/26/avgn-paperboy/" rel="bookmark" title="Permanent Link to Paperboy (NES) Angry Video Game Nerd">
+# 	<img width="470" height="260" src="http://cinemassacre.com/wp-content/uploads/2016/04/Paperboy-STILL-FINAL-470x260.jpg" class="largethumb wp-post-image" alt="Paperboy-STILL-FINAL" srcset="http://cinemassacre.com/wp-content/uploads/2016/04/Paperboy-STILL-FINAL-470x260.jpg 470w, http://cinemassacre.com/wp-content/uploads/2016/04/Paperboy-STILL-FINAL-150x84.jpg 150w" sizes="(max-width: 470px) 100vw, 470px" />            </a>
+# 	<span id="archiveCaption"><a href="http://cinemassacre.com/2016/05/26/avgn-paperboy/" rel="bookmark" title="Permanent Link to Paperboy (NES) Angry Video Game Nerd">Paperboy (NES) Angry Video Game Nerd</a></span>
+# </div>
+
+# <div class="archiveitem">
+# 	<a href="http://cinemassacre.com/2016/04/06/mega-man-games-angry-video-game-nerd/" rel="bookmark" title="Permanent Link to MEGA MAN Games &#8211; Angry Video Game Nerd: Episode 139">
+# 	<img width="190" height="140" src="http://cinemassacre.com/wp-content/uploads/2016/04/Mega-Man-title-card-190x140.jpg" class="mediumthumb wp-post-image" alt="Mega Man title card" srcset="http://cinemassacre.com/wp-content/uploads/2016/04/Mega-Man-title-card-190x140.jpg 190w, http://cinemassacre.com/wp-content/uploads/2016/04/Mega-Man-title-card-90x66.jpg 90w" sizes="(max-width: 190px) 100vw, 190px" />            
+# 	<div>MEGA MAN Games &#8211; Angry Video Game Nerd: Episode 139</div></a>
+# </div>
+# ------------------------------------------------------------------------------
+
+
+
+# ------------------------------------------------------------------------------
+# All Page Link URL References (Site Map)
+
+# SHOWS
+
+#   ANGRY VIDEO GAME NERD
+#   http://cinemassacre.com/category/avgn/
+
+#     AVGN EPISODES
+#     http://cinemassacre.com/category/avgn/avgnepisodes/
+
+#       2004 - 2006
+#       http://cinemassacre.com/category/avgn/avgnepisodes/2004-2006
+
+#       2007
+#       http://cinemassacre.com/category/avgn/avgnepisodes/avgn-2007
+
+#       2008
+#       http://cinemassacre.com/category/avgn/avgnepisodes/avgn-2008
+
+#       2009
+#       http://cinemassacre.com/category/avgn/avgnepisodes/avgn-2009
+
+#       2010
+#       http://cinemassacre.com/category/avgn/avgnepisodes/avgn-2010
+
+#       2011-2014
+#       http://cinemassacre.com/category/avgn/avgnepisodes/2013
+
+#       2015-2016
+#       http://cinemassacre.com/category/avgn/avgnepisodes/2015
+
+#     AVGN MOVIE
+#     http://cinemassacre.com/category/avgn/avgn-movie-avgn/
+
+#     AVGN Related Videos
+#     http://cinemassacre.com/category/avgn/avgn-related/
+
+# GAMES
+
+#   MIKES GAMING VIDEOS
+#   http://cinemassacre.com/category/mikevideos/
+
+#   BOOTSY BEATS
+#   http://cinemassacre.com/category/gamevideos/bootsy-beats/
+
+#   JAMES GAMING VIDEOS
+#   http://cinemassacre.com/category/jamesgamingvideos/
+
+#   OTHER GAMING VIDEOS
+#   http://cinemassacre.com/category/othergaming-videos/
+
+#   GAME COLLECTION
+#   http://cinemassacre.com/2007/03/22/game-collection/
+
+# MOVIES
+
+#   MOVIE REVIEWS A-Z
+#   http://cinemassacre.com/category/moviereviewsatoz/
+
+#     COMPILATION MOVIE REVIEWS
+#     http://cinemassacre.com/category/compilationmoviereviews/
+
+#   TOP 10S
+#   http://cinemassacre.com/category/moviereviews/top-tens/
+
+#   ANIMATION RELATED
+#   http://cinemassacre.com/category/moviereviews/animation-moviereviews/
+
+#   COMMENTARIES
+#   http://cinemassacre.com/category/moviereviews/commentaries/
+
+#   INTERVIEWS
+#   http://cinemassacre.com/category/interviews/
+
+#   LOCATION TOURS
+#   http://cinemassacre.com/category/location-tours/
+
+#   MONSTER MADNESS
+#   http://cinemassacre.com/category/moviereviews/monstermadness/
+
+#     2007 HISTORY OF HORROR
+#     http://cinemassacre.com/category/moviereviews/monstermadness/monster-madness-2007/
+
+#     2008 GODZILLATHON
+#     http://cinemassacre.com/category/moviereviews/monstermadness/monster-madness-2008/
+
+#     2009 MONSTER MADNESS THREE
+#     http://cinemassacre.com/category/moviereviews/monstermadness/monster-madness-2009/
+
+#     2010 CAMP CULT
+#     http://cinemassacre.com/category/moviereviews/monstermadness/monster-madness-2010/
+
+#     2011 SEQUEL-A-THON
+#     http://cinemassacre.com/category/moviereviews/monstermadness/2011-monstermadness/
+
+#     2012 80S-A-THON
+#     http://cinemassacre.com/category/moviereviews/monstermadness/eighties-a-thon/
+
+#     2013 SEQUEL-A-THON 2
+#     http://cinemassacre.com/category/moviereviews/monstermadness/sequel-a-thon-2/
+
+#     2014 MONSTER MADNESS 8
+#     http://cinemassacre.com/category/moviereviews/monstermadness/2014-monster-madness-8/
+
+#     2015 MONSTER MADNESS 9
+#     http://cinemassacre.com/category/moviereviews/monstermadness/monstermadness9/
+
+#   TRIVIA VIDEOS
+#   http://cinemassacre.com/category/trivia-videos/
+
+#   OTHER MOVIE STUFF
+#   http://cinemassacre.com/category/othermovierelatedvideos/
+
+# ORIGINAL FILMS
+
+#   SUB1
+
+# MUSIC
+
+#   SUB1
+
+# SITE
+
+#   SUB1
+
+# ------------------------------------------------------------------------------
+
+
+
 import sys
 import xbmc
 import xbmcgui
