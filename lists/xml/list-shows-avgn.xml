@@ -1,7 +1,8 @@
-<item id="235" activeInd="Y">
+<item id="1" activeInd="Y">
 <title>AVGN - Wish List (PART 1)</title>
 <link>http:http://cinemassacre.com/2013/12/17/avgn-wish-list-part-1/</link>
-<id>235</id>
+<pubDate>Tue, 17 Dec 2013 05:00:00 -0000</pubDate>
+<id>1</id>
 <movieURL>X2w7CsMB</movieURL>
 <description>AVGN - Wish List (PART 1)</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/X2w7CsMB-720.jpg</smallThumbnail>
@@ -12,10 +13,11 @@
 </categories>
 </item>
 
-<item id="236" activeInd="Y">
+<item id="2" activeInd="Y">
 <title>AVGN: Wish List (Part 2)</title>
 <link>http:http://cinemassacre.com/2013/12/19/avgn-wish-list-part-2/</link>
-<id>236</id>
+<pubDate>Thu, 19 Dec 2013 05:00:00 -0000</pubDate>
+<id>2</id>
 <movieURL>atr4Zcs6</movieURL>
 <description>AVGN: Wish List (Part 2)</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/atr4Zcs6-720.jpg</smallThumbnail>
@@ -26,10 +28,11 @@
 </categories>
 </item>
 
-<item id="237" activeInd="Y">
+<item id="3" activeInd="Y">
 <title>AVGN: Big Rigs: Over the Road Racing</title>
 <link>http:http://cinemassacre.com/2014/03/19/avgn-big-rigs-over-the-road-racing/</link>
-<id>237</id>
+<pubDate>Thu, 27 Feb 2014 05:00:00 -0000</pubDate>
+<id>3</id>
 <movieURL>U5zjKSFT</movieURL>
 <description>AVGN: Big Rigs: Over the Road Racing</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/U5zjKSFT-720.jpg</smallThumbnail>
@@ -40,10 +43,11 @@
 </categories>
 </item>
 
-<item id="238" activeInd="Y">
+<item id="4" activeInd="Y">
 <title>AVGN Desert Bus Episode 119</title>
 <link>http:http://cinemassacre.com/2014/05/28/avgn-desert-bus/</link>
-<id>238</id>
+<pubDate>Fri, 23 May 2014 04:00:00 -0000</pubDate>
+<id>4</id>
 <movieURL>0I6xK6Fy</movieURL>
 <description>AVGN Desert Bus Episode 119</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/0I6xK6Fy-720.jpg</smallThumbnail>
@@ -54,10 +58,11 @@
 </categories>
 </item>
 
-<item id="239" activeInd="Y">
+<item id="5" activeInd="Y">
 <title>E.T. Atari 2600 - AVGN - Episode 120</title>
 <link>http:http://cinemassacre.com/2014/10/10/e-t-atari-2600-angry-video-game-nerd-episode-120/</link>
-<id>239</id>
+<pubDate>Thu, 09 Oct 2014 04:00:00 -0000</pubDate>
+<id>5</id>
 <movieURL>StMOetNi</movieURL>
 <description>E.T. Atari 2600 - AVGN - Episode 120</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/StMOetNi-720.jpg</smallThumbnail>
@@ -68,10 +73,11 @@
 </categories>
 </item>
 
-<item id="240" activeInd="Y">
+<item id="6" activeInd="Y">
 <title>AVGN: Beetlejuice - Episode 121</title>
 <link>http:http://cinemassacre.com/2014/10/15/avgn-beetlejuice-episode-121/</link>
-<id>240</id>
+<pubDate>Sun, 15 Jun 2014 04:00:00 -0000</pubDate>
+<id>6</id>
 <movieURL>q8be1I0P</movieURL>
 <description>AVGN: Beetlejuice - Episode 121</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/q8be1I0P-720.jpg</smallThumbnail>
@@ -82,10 +88,11 @@
 </categories>
 </item>
 
-<item id="241" activeInd="Y">
+<item id="7" activeInd="Y">
 <title>Tagin' Dragon - Angry Video Game Nerd - Episode 12</title>
 <link>http:http://cinemassacre.com/2014/12/11/tagin-dragon-angry-video-game-nerd/</link>
-<id>241</id>
+<pubDate>Tue, 09 Dec 2014 05:00:00 -0000</pubDate>
+<id>7</id>
 <movieURL>6Udxa40b</movieURL>
 <description>Tagin' Dragon - Angry Video Game Nerd - Episode 12</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/6Udxa40b-720.jpg</smallThumbnail>
@@ -96,10 +103,11 @@
 </categories>
 </item>
 
-<item id="242" activeInd="Y">
+<item id="8" activeInd="Y">
 <title>ALF - Angry Video Game Nerd - Episode 123</title>
 <link>http:http://cinemassacre.com/2014/12/12/alf-angry-video-game-nerd/</link>
-<id>242</id>
+<pubDate>Tue, 09 Dec 2014 05:00:00 -0000</pubDate>
+<id>8</id>
 <movieURL>dJChcZDd</movieURL>
 <description>ALF - Angry Video Game Nerd - Episode 123</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/dJChcZDd-720.jpg</smallThumbnail>
@@ -110,10 +118,11 @@
 </categories>
 </item>
 
-<item id="243" activeInd="Y">
+<item id="9" activeInd="Y">
 <title>CrazyBus - Angry Video Game Nerd - Episode 124</title>
 <link>http:http://cinemassacre.com/2014/12/13/crazy-bus-angry-video-game-nerd/</link>
-<id>243</id>
+<pubDate>Tue, 09 Dec 2014 05:00:00 -0000</pubDate>
+<id>9</id>
 <movieURL>XQq0JirJ</movieURL>
 <description>CrazyBus - Angry Video Game Nerd - Episode 124</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/XQq0JirJ-720.jpg</smallThumbnail>
@@ -124,10 +133,11 @@
 </categories>
 </item>
 
-<item id="244" activeInd="Y">
+<item id="10" activeInd="Y">
 <title>AVGN Ren &amp; Stimpy Fire Dogs - ReUpload</title>
 <link>http:http://cinemassacre.com/2014/12/14/ren-stimpy-fire-dogs-angry-video-game-nerd/</link>
-<id>244</id>
+<pubDate>Thu, 11 Dec 2014 05:00:00 -0000</pubDate>
+<id>10</id>
 <movieURL>A8yKkigh</movieURL>
 <description>AVGN Ren &amp; Stimpy Fire Dogs - ReUpload</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/A8yKkigh-720.jpg</smallThumbnail>
@@ -138,10 +148,11 @@
 </categories>
 </item>
 
-<item id="245" activeInd="Y">
+<item id="11" activeInd="Y">
 <title>Rocky and Bullwinkle - Angry Video Game Nerd - Epi</title>
 <link>http:http://cinemassacre.com/2014/12/15/rocky-and-bullwinkle-angry-video-game-nerd/</link>
-<id>245</id>
+<pubDate>Wed, 10 Dec 2014 05:00:00 -0000</pubDate>
+<id>11</id>
 <movieURL>134KOmsy</movieURL>
 <description>Rocky and Bullwinkle - Angry Video Game Nerd - Epi</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/134KOmsy-720.jpg</smallThumbnail>
@@ -152,10 +163,11 @@
 </categories>
 </item>
 
-<item id="246" activeInd="Y">
+<item id="12" activeInd="Y">
 <title>Mary-Kate and Ashley \</title>
 <link>http:http://cinemassacre.com/2014/12/16/mary-kate-and-ashley-get-a-clue-angry-video-game-nerd/</link>
-<id>246</id>
+<pubDate>Wed, 10 Dec 2014 05:00:00 -0000</pubDate>
+<id>12</id>
 <movieURL>sb1UBfGU</movieURL>
 <description>Mary-Kate and Ashley \</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/sb1UBfGU-720.jpg</smallThumbnail>
@@ -166,10 +178,11 @@
 </categories>
 </item>
 
-<item id="247" activeInd="Y">
+<item id="13" activeInd="Y">
 <title>Pamela Anderson VIP - Angry Video Game Nerd - Epis</title>
 <link>http:http://cinemassacre.com/2014/12/17/avgn-v-i-p-starring-pamela-anderson/</link>
-<id>247</id>
+<pubDate>Wed, 10 Dec 2014 05:00:00 -0000</pubDate>
+<id>13</id>
 <movieURL>qbv36kyM</movieURL>
 <description>Pamela Anderson VIP - Angry Video Game Nerd - Epis</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/qbv36kyM-720.jpg</smallThumbnail>
@@ -180,10 +193,11 @@
 </categories>
 </item>
 
-<item id="248" activeInd="Y">
+<item id="14" activeInd="Y">
 <title>Lethal Weapon - Angry Video Game Nerd - Episode 12</title>
 <link>http:http://cinemassacre.com/2014/12/18/avgn-lethal-weapon/</link>
-<id>248</id>
+<pubDate>Wed, 10 Dec 2014 05:00:00 -0000</pubDate>
+<id>14</id>
 <movieURL>BaEU7AvT</movieURL>
 <description>Lethal Weapon - Angry Video Game Nerd - Episode 12</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/BaEU7AvT-720.jpg</smallThumbnail>
@@ -194,10 +208,11 @@
 </categories>
 </item>
 
-<item id="249" activeInd="Y">
+<item id="15" activeInd="Y">
 <title>Porky's - Angry Video Game Nerd - Episode 130</title>
 <link>http:http://cinemassacre.com/2014/12/19/avgn-porkys/</link>
-<id>249</id>
+<pubDate>Wed, 10 Dec 2014 05:00:00 -0000</pubDate>
+<id>15</id>
 <movieURL>XFK3Z0Gl</movieURL>
 <description>Porky's - Angry Video Game Nerd - Episode 130</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/XFK3Z0Gl-720.jpg</smallThumbnail>
@@ -208,10 +223,11 @@
 </categories>
 </item>
 
-<item id="250" activeInd="Y">
+<item id="16" activeInd="Y">
 <title>HyperScan - Angry Video Game Nerd - Episode 131</title>
 <link>http:http://cinemassacre.com/2014/12/20/avgn-hyperscan/</link>
-<id>250</id>
+<pubDate>Thu, 11 Dec 2014 05:00:00 -0000</pubDate>
+<id>16</id>
 <movieURL>GPaojEMY</movieURL>
 <description>HyperScan - Angry Video Game Nerd - Episode 131</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/GPaojEMY-720.jpg</smallThumbnail>
@@ -222,10 +238,11 @@
 </categories>
 </item>
 
-<item id="251" activeInd="Y">
+<item id="17" activeInd="Y">
 <title>Universal Studios Theme Parks Adventure - Angry Vi</title>
 <link>http:http://cinemassacre.com/2014/12/21/avgn-universal-studios-theme-parks-adventure/</link>
-<id>251</id>
+<pubDate>Thu, 11 Dec 2014 05:00:00 -0000</pubDate>
+<id>17</id>
 <movieURL>XoxgQiX5</movieURL>
 <description>Universal Studios Theme Parks Adventure - Angry Vi</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/XoxgQiX5-720.jpg</smallThumbnail>
@@ -236,10 +253,11 @@
 </categories>
 </item>
 
-<item id="252" activeInd="Y">
+<item id="18" activeInd="Y">
 <title>Video Art - Angry Video Game Nerd - Episode 133</title>
 <link>http:http://cinemassacre.com/2014/12/22/avgn-ljn-video-art/</link>
-<id>252</id>
+<pubDate>Thu, 11 Dec 2014 05:00:00 -0000</pubDate>
+<id>18</id>
 <movieURL>72aPvBnz</movieURL>
 <description>Video Art - Angry Video Game Nerd - Episode 133</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/72aPvBnz-720.jpg</smallThumbnail>
@@ -250,10 +268,11 @@
 </categories>
 </item>
 
-<item id="253" activeInd="Y">
+<item id="19" activeInd="Y">
 <title>AVGN Hong Kong 97 Episode 134</title>
 <link>http:http://cinemassacre.com/2015/03/26/hong-kong-97-super-famicom-angry-video-game-nerd/</link>
-<id>253</id>
+<pubDate>Thu, 26 Mar 2015 04:00:00 -0000</pubDate>
+<id>19</id>
 <movieURL>GQ36aasp</movieURL>
 <description>AVGN Hong Kong 97 Episode 134</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/GQ36aasp-720.jpg</smallThumbnail>
@@ -264,10 +283,11 @@
 </categories>
 </item>
 
-<item id="254" activeInd="Y">
+<item id="20" activeInd="Y">
 <title>AVGN Darkwing Duck</title>
 <link>http:http://cinemassacre.com/2015/05/13/darkwing-duck-angry-video-game-nerd/</link>
-<id>254</id>
+<pubDate>Thu, 30 Apr 2015 04:00:00 -0000</pubDate>
+<id>20</id>
 <movieURL>xtATVrON</movieURL>
 <description>AVGN Darkwing Duck</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/xtATVrON-720.jpg</smallThumbnail>
@@ -278,10 +298,11 @@
 </categories>
 </item>
 
-<item id="255" activeInd="Y">
+<item id="21" activeInd="Y">
 <title>Seaman AVGN Episode 136</title>
 <link>http:http://cinemassacre.com/2015/07/28/avgn-seaman-for-dreamcast/</link>
-<id>255</id>
+<pubDate>Fri, 24 Jul 2015 04:00:00 -0000</pubDate>
+<id>21</id>
 <movieURL>okcDH3ua</movieURL>
 <description>Seaman AVGN Episode 136</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/okcDH3ua-720.jpg</smallThumbnail>
@@ -292,10 +313,11 @@
 </categories>
 </item>
 
-<item id="256" activeInd="Y">
+<item id="22" activeInd="Y">
 <title>The Crow (Sega Saturn) - Angry Video Game Nerd - Episode 137.mp4</title>
 <link>http:http://cinemassacre.com/2015/10/30/the-crow-angry-video-game-nerd/</link>
-<id>256</id>
+<pubDate>Wed, 11 May 2016 22:06:15 -0000</pubDate>
+<id>22</id>
 <movieURL>EOKBHv4V</movieURL>
 <description>The Crow (Sega Saturn) - Angry Video Game Nerd - Episode 137.mp4</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/EOKBHv4V-720.jpg</smallThumbnail>
@@ -306,10 +328,11 @@
 </categories>
 </item>
 
-<item id="257" activeInd="Y">
+<item id="23" activeInd="Y">
 <title>Mortal Kombat Mythologies- Sub-Zero (N64) Angry Video Game Nerd - Episode 138.mp4</title>
 <link>http:http://cinemassacre.com/2015/12/22/mortal-kombat-mythologies-sub-zero-n64-angry-video-game-nerd/</link>
-<id>257</id>
+<pubDate>Sat, 07 May 2016 07:40:48 -0000</pubDate>
+<id>23</id>
 <movieURL>QBuE6osl</movieURL>
 <description>Mortal Kombat Mythologies- Sub-Zero (N64) Angry Video Game Nerd - Episode 138.mp4</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/QBuE6osl-720.jpg</smallThumbnail>
@@ -320,10 +343,11 @@
 </categories>
 </item>
 
-<item id="258" activeInd="Y">
+<item id="24" activeInd="Y">
 <title>MEGA MAN Games (DOS, PS1, PS2) Angry Video Game Nerd- Episode 139.mp4</title>
 <link>http:http://cinemassacre.com/2016/04/06/mega-man-games-angry-video-game-nerd/</link>
-<id>258</id>
+<pubDate>Tue, 03 May 2016 00:48:00 -0000</pubDate>
+<id>24</id>
 <movieURL>XMma2ld5</movieURL>
 <description>MEGA MAN Games (DOS, PS1, PS2) Angry Video Game Nerd- Episode 139.mp4</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/XMma2ld5-720.jpg</smallThumbnail>
@@ -334,10 +358,11 @@
 </categories>
 </item>
 
-<item id="259" activeInd="Y">
+<item id="25" activeInd="Y">
 <title>AVGN Paperboy Episode 140</title>
 <link>http:http://cinemassacre.com/2016/05/26/avgn-paperboy/</link>
-<id>259</id>
+<pubDate>Tue, 03 May 2016 02:12:20 -0000</pubDate>
+<id>25</id>
 <movieURL>WXjhuCeQ</movieURL>
 <description>AVGN Paperboy Episode 140</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/WXjhuCeQ-720.jpg</smallThumbnail>
@@ -348,10 +373,11 @@
 </categories>
 </item>
 
-<item id="260" activeInd="Y">
+<item id="26" activeInd="Y">
 <title>AVGN: Cheetahmen</title>
 <link>http:http://cinemassacre.com/2010/06/09/avgn-cheetahmen/</link>
-<id>260</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>26</id>
 <movieURL>joSA8jRl</movieURL>
 <description>AVGN: Cheetahmen</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/joSA8jRl-720.jpg</smallThumbnail>
@@ -362,10 +388,11 @@
 </categories>
 </item>
 
-<item id="261" activeInd="Y">
+<item id="27" activeInd="Y">
 <title>AVGN: Game Glitches</title>
 <link>http:http://cinemassacre.com/2010/07/07/avgn-game-glitches/</link>
-<id>261</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>27</id>
 <movieURL>hqydVTjY</movieURL>
 <description>AVGN: Game Glitches</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/hqydVTjY-720.jpg</smallThumbnail>
@@ -376,10 +403,11 @@
 </categories>
 </item>
 
-<item id="262" activeInd="Y">
+<item id="28" activeInd="Y">
 <title>AVGN: Zelda 2 The Adventure of Link</title>
 <link>http:http://cinemassacre.com/2010/08/04/avgn-zelda-2-the-adventure-of-link/</link>
-<id>262</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>28</id>
 <movieURL>0MVIdLaC</movieURL>
 <description>AVGN: Zelda 2 The Adventure of Link</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/0MVIdLaC-720.jpg</smallThumbnail>
@@ -390,10 +418,11 @@
 </categories>
 </item>
 
-<item id="263" activeInd="Y">
+<item id="29" activeInd="Y">
 <title>AVGN: Back to the Future Trilogy</title>
 <link>http:http://cinemassacre.com/2010/09/03/angry-video-game-nerd-episode-94/</link>
-<id>263</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>29</id>
 <movieURL>jNymxqrU</movieURL>
 <description>AVGN: Back to the Future Trilogy</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/jNymxqrU-720.jpg</smallThumbnail>
@@ -404,10 +433,11 @@
 </categories>
 </item>
 
-<item id="264" activeInd="Y">
+<item id="30" activeInd="Y">
 <title>AVGN: Dr. Jekyll and Mr. Hyde Re-Revisited</title>
 <link>http:http://cinemassacre.com/2010/10/07/avgn-dr-jekyll-mr-hyde-revisited/</link>
-<id>264</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>30</id>
 <movieURL>uTOjmk0W</movieURL>
 <description>AVGN: Dr. Jekyll and Mr. Hyde Re-Revisited</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/uTOjmk0W-720.jpg</smallThumbnail>
@@ -418,10 +448,11 @@
 </categories>
 </item>
 
-<item id="265" activeInd="Y">
+<item id="31" activeInd="Y">
 <title>AVGN: Lester the Unlikely</title>
 <link>http:http://cinemassacre.com/2010/11/03/avgn-lester-the-unlikely/</link>
-<id>265</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>31</id>
 <movieURL>iHD4Tdg4</movieURL>
 <description>AVGN: Lester the Unlikely</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/iHD4Tdg4-720.jpg</smallThumbnail>
@@ -432,10 +463,11 @@
 </categories>
 </item>
 
-<item id="266" activeInd="Y">
+<item id="32" activeInd="Y">
 <title>AVGN: How the Nerd Stole Christmas</title>
 <link>http:http://cinemassacre.com/2010/12/06/avgn-episode-97-christmas-special-2010/</link>
-<id>266</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>32</id>
 <movieURL>q6ysKg5R</movieURL>
 <description>AVGN: How the Nerd Stole Christmas</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/q6ysKg5R-720.jpg</smallThumbnail>
@@ -446,10 +478,11 @@
 </categories>
 </item>
 
-<item id="267" activeInd="Y">
+<item id="33" activeInd="Y">
 <title>AVGN: Day Dreamin' Davey</title>
 <link>http:http://cinemassacre.com/2011/01/05/avgn-episode-98-day-dreamin-davey/</link>
-<id>267</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>33</id>
 <movieURL>8S5MYtHR</movieURL>
 <description>AVGN: Day Dreamin' Davey</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/8S5MYtHR-720.jpg</smallThumbnail>
@@ -460,10 +493,11 @@
 </categories>
 </item>
 
-<item id="268" activeInd="Y">
+<item id="34" activeInd="Y">
 <title>AVGN: Star Wars</title>
 <link>http:http://cinemassacre.com/2011/02/03/avgn-star-wars/</link>
-<id>268</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>34</id>
 <movieURL>2T9YYQUd</movieURL>
 <description>AVGN: Star Wars</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/2T9YYQUd-720.jpg</smallThumbnail>
@@ -474,10 +508,11 @@
 </categories>
 </item>
 
-<item id="269" activeInd="Y">
+<item id="35" activeInd="Y">
 <title>AVGN: ROB the Robot</title>
 <link>http:http://cinemassacre.com/2011/03/03/avgn-rob-the-robot/</link>
-<id>269</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>35</id>
 <movieURL>tCVGIR6X</movieURL>
 <description>AVGN: ROB the Robot</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/tCVGIR6X-720.jpg</smallThumbnail>
@@ -488,10 +523,11 @@
 </categories>
 </item>
 
-<item id="270" activeInd="Y">
+<item id="36" activeInd="Y">
 <title>AVGN: Spielberg Games</title>
 <link>http:http://cinemassacre.com/2011/04/06/avgn-spielberg-games/</link>
-<id>270</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>36</id>
 <movieURL>1ZBH9hlU</movieURL>
 <description>AVGN: Spielberg Games</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/1ZBH9hlU-720.jpg</smallThumbnail>
@@ -502,10 +538,11 @@
 </categories>
 </item>
 
-<item id="271" activeInd="Y">
+<item id="37" activeInd="Y">
 <title>102_MAKING OF AVGN.mov</title>
 <link>http:http://cinemassacre.com/2011/07/06/the-making-of-the-angry-video-game-nerd/</link>
-<id>271</id>
+<pubDate>Sun, 08 May 2016 06:41:03 -0000</pubDate>
+<id>37</id>
 <movieURL>GY2DBdP4</movieURL>
 <description>102_MAKING OF AVGN.mov</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/GY2DBdP4-720.jpg</smallThumbnail>
@@ -516,10 +553,11 @@
 </categories>
 </item>
 
-<item id="272" activeInd="Y">
+<item id="38" activeInd="Y">
 <title>AVGN: Kid Kool</title>
 <link>http:http://cinemassacre.com/2011/08/03/avgn-kid-kool/</link>
-<id>272</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>38</id>
 <movieURL>t2ydfAbw</movieURL>
 <description>AVGN: Kid Kool</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/t2ydfAbw-720.jpg</smallThumbnail>
@@ -530,10 +568,11 @@
 </categories>
 </item>
 
-<item id="273" activeInd="Y">
+<item id="39" activeInd="Y">
 <title>AVGN: Nintendo World Championships</title>
 <link>http:http://cinemassacre.com/2011/08/26/avgn-nintendo-world-championships/</link>
-<id>273</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>39</id>
 <movieURL>RO0sV8hm</movieURL>
 <description>AVGN: Nintendo World Championships</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/RO0sV8hm-720.jpg</smallThumbnail>
@@ -544,10 +583,11 @@
 </categories>
 </item>
 
-<item id="274" activeInd="Y">
+<item id="40" activeInd="Y">
 <title>105_Dark Castle</title>
 <link>http:http://cinemassacre.com/2011/10/06/avgn-episode-105-dark-castle/</link>
-<id>274</id>
+<pubDate>Sat, 07 May 2016 05:37:49 -0000</pubDate>
+<id>40</id>
 <movieURL>O6vzSnO8</movieURL>
 <description>105_Dark Castle</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/O6vzSnO8-720.jpg</smallThumbnail>
@@ -558,10 +598,11 @@
 </categories>
 </item>
 
-<item id="275" activeInd="Y">
+<item id="41" activeInd="Y">
 <title>BIBLE GAMES 3 AVGN</title>
 <link>http:http://cinemassacre.com/2011/12/07/avgn-bible-games-3/</link>
-<id>275</id>
+<pubDate>Wed, 11 May 2016 20:52:49 -0000</pubDate>
+<id>41</id>
 <movieURL>IQh64ICZ</movieURL>
 <description>BIBLE GAMES 3 AVGN</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/IQh64ICZ-720.jpg</smallThumbnail>
@@ -572,10 +613,11 @@
 </categories>
 </item>
 
-<item id="276" activeInd="Y">
+<item id="42" activeInd="Y">
 <title>AVGN: Schwarzenegger Games</title>
 <link>http:http://cinemassacre.com/2012/07/23/avgn-schwarzenegger-games/</link>
-<id>276</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>42</id>
 <movieURL>4kvF79i7</movieURL>
 <description>AVGN: Schwarzenegger Games</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/4kvF79i7-720.jpg</smallThumbnail>
@@ -586,10 +628,11 @@
 </categories>
 </item>
 
-<item id="277" activeInd="Y">
+<item id="43" activeInd="Y">
 <title>AVGN: Ghosts N' Goblins</title>
 <link>http:http://cinemassacre.com/2012/10/24/avgn-ghosts-n-goblins/</link>
-<id>277</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>43</id>
 <movieURL>DgFtshsj</movieURL>
 <description>AVGN: Ghosts N' Goblins</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/DgFtshsj-720.jpg</smallThumbnail>
@@ -600,10 +643,11 @@
 </categories>
 </item>
 
-<item id="278" activeInd="Y">
+<item id="44" activeInd="Y">
 <title>AVGN: Atari Sports</title>
 <link>http:http://cinemassacre.com/2012/12/17/avgn-atari-sports/</link>
-<id>278</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>44</id>
 <movieURL>MOfieJ6I</movieURL>
 <description>AVGN: Atari Sports</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/MOfieJ6I-720.jpg</smallThumbnail>
@@ -614,10 +658,11 @@
 </categories>
 </item>
 
-<item id="279" activeInd="Y">
+<item id="45" activeInd="Y">
 <title>AVGN: Ikari Warriors</title>
 <link>http:http://cinemassacre.com/2013/03/06/avgn-ikari-warriors/</link>
-<id>279</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>45</id>
 <movieURL>agQ6cjXH</movieURL>
 <description>AVGN: Ikari Warriors</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/agQ6cjXH-720.jpg</smallThumbnail>
@@ -628,10 +673,11 @@
 </categories>
 </item>
 
-<item id="280" activeInd="Y">
+<item id="46" activeInd="Y">
 <title>AVGN: Toxic Crusaders</title>
 <link>http:http://cinemassacre.com/2013/04/30/avgn-toxic-crusaders/</link>
-<id>280</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>46</id>
 <movieURL>NZVlTwjJ</movieURL>
 <description>AVGN: Toxic Crusaders</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/NZVlTwjJ-720.jpg</smallThumbnail>
@@ -642,10 +688,11 @@
 </categories>
 </item>
 
-<item id="281" activeInd="Y">
+<item id="47" activeInd="Y">
 <title>AVGN: Bill &amp; Ted's Excellent Adventure</title>
 <link>http:http://cinemassacre.com/2013/07/01/avgn-bill-teds-excellent-adventure/</link>
-<id>281</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>47</id>
 <movieURL>SXmfIXI4</movieURL>
 <description>AVGN: Bill &amp; Ted's Excellent Adventure</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/SXmfIXI4-720.jpg</smallThumbnail>
@@ -656,10 +703,11 @@
 </categories>
 </item>
 
-<item id="282" activeInd="Y">
+<item id="48" activeInd="Y">
 <title>AVGN: Tiger Electronic Games</title>
 <link>http:http://cinemassacre.com/2013/09/06/avgn-tiger-electronic/</link>
-<id>282</id>
+<pubDate>Wed, 04 Sep 2013 04:00:00 -0000</pubDate>
+<id>48</id>
 <movieURL>oyhYIkjA</movieURL>
 <description>AVGN: Tiger Electronic Games</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/oyhYIkjA-720.jpg</smallThumbnail>
@@ -670,10 +718,11 @@
 </categories>
 </item>
 
-<item id="283" activeInd="Y">
+<item id="49" activeInd="Y">
 <title>Alien 3 - AVGN fixed</title>
 <link>http:http://cinemassacre.com/2013/10/22/alien-3-angry-video-game-nerd/</link>
-<id>283</id>
+<pubDate>Mon, 21 Oct 2013 04:00:00 -0000</pubDate>
+<id>49</id>
 <movieURL>qnywJliD</movieURL>
 <description>Alien 3 - AVGN fixed</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/qnywJliD-720.jpg</smallThumbnail>
@@ -684,10 +733,11 @@
 </categories>
 </item>
 
-<item id="284" activeInd="Y">
+<item id="50" activeInd="Y">
 <title>AVGN Games</title>
 <link>http:http://cinemassacre.com/2013/11/19/avgn-avgn-games/</link>
-<id>284</id>
+<pubDate>Tue, 19 Nov 2013 05:00:00 -0000</pubDate>
+<id>50</id>
 <movieURL>JIuceeAy</movieURL>
 <description>AVGN Games</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/JIuceeAy-720.jpg</smallThumbnail>
@@ -698,10 +748,11 @@
 </categories>
 </item>
 
-<item id="285" activeInd="Y">
+<item id="51" activeInd="Y">
 <title>AVGN: Atari Jaguar Part 2</title>
 <link>http:http://cinemassacre.com/2009/03/25/atari-jaguar-part-2/</link>
-<id>285</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>51</id>
 <movieURL>5EQzs4zS</movieURL>
 <description>AVGN: Atari Jaguar Part 2</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/5EQzs4zS-720.jpg</smallThumbnail>
@@ -712,10 +763,11 @@
 </categories>
 </item>
 
-<item id="286" activeInd="Y">
+<item id="52" activeInd="Y">
 <title>AVGN: Metal Gear</title>
 <link>http:http://cinemassacre.com/2009/04/08/metal-gear/</link>
-<id>286</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>52</id>
 <movieURL>nFrd6fY0</movieURL>
 <description>AVGN: Metal Gear</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/nFrd6fY0-720.jpg</smallThumbnail>
@@ -726,10 +778,11 @@
 </categories>
 </item>
 
-<item id="287" activeInd="Y">
+<item id="53" activeInd="Y">
 <title>AVGN: The Odyssey</title>
 <link>http:http://cinemassacre.com/2009/04/21/the-odyssey/</link>
-<id>287</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>53</id>
 <movieURL>3WVb4Pf5</movieURL>
 <description>AVGN: The Odyssey</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/3WVb4Pf5-720.jpg</smallThumbnail>
@@ -740,10 +793,11 @@
 </categories>
 </item>
 
-<item id="288" activeInd="Y">
+<item id="54" activeInd="Y">
 <title>AVGN: X-Men</title>
 <link>http:http://cinemassacre.com/2009/05/06/x-men/</link>
-<id>288</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>54</id>
 <movieURL>jhX8OXrB</movieURL>
 <description>AVGN: X-Men</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/jhX8OXrB-720.jpg</smallThumbnail>
@@ -754,10 +808,11 @@
 </categories>
 </item>
 
-<item id="289" activeInd="Y">
+<item id="55" activeInd="Y">
 <title>AVGN: The Terminator</title>
 <link>http:http://cinemassacre.com/2009/05/19/the-terminator-2/</link>
-<id>289</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>55</id>
 <movieURL>gUtmw4NA</movieURL>
 <description>AVGN: The Terminator</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/gUtmw4NA-720.jpg</smallThumbnail>
@@ -768,10 +823,11 @@
 </categories>
 </item>
 
-<item id="290" activeInd="Y">
+<item id="56" activeInd="Y">
 <title>AVGN: Terminator 2</title>
 <link>http:http://cinemassacre.com/2009/06/02/terminator-2-2/</link>
-<id>290</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>56</id>
 <movieURL>VhA0CmsV</movieURL>
 <description>AVGN: Terminator 2</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/VhA0CmsV-720.jpg</smallThumbnail>
@@ -782,10 +838,11 @@
 </categories>
 </item>
 
-<item id="291" activeInd="Y">
+<item id="57" activeInd="Y">
 <title>AVGN: Transformers</title>
 <link>http:http://cinemassacre.com/2009/06/17/transformers/</link>
-<id>291</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>57</id>
 <movieURL>2NsS1EPl</movieURL>
 <description>AVGN: Transformers</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/2NsS1EPl-720.jpg</smallThumbnail>
@@ -796,10 +853,11 @@
 </categories>
 </item>
 
-<item id="292" activeInd="Y">
+<item id="58" activeInd="Y">
 <title>AVGN: Mario is Missing</title>
 <link>http:http://cinemassacre.com/2009/07/01/mario-is-missing/</link>
-<id>292</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>58</id>
 <movieURL>88IvHgZL</movieURL>
 <description>AVGN: Mario is Missing</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/88IvHgZL-720.jpg</smallThumbnail>
@@ -810,10 +868,11 @@
 </categories>
 </item>
 
-<item id="293" activeInd="Y">
+<item id="59" activeInd="Y">
 <title>AVGN: Plumbers Don't Wear Ties</title>
 <link>http:http://cinemassacre.com/2009/07/21/plumbers-dont-wear-ties/</link>
-<id>293</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>59</id>
 <movieURL>uLdQO3k2</movieURL>
 <description>AVGN: Plumbers Don't Wear Ties</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/uLdQO3k2-720.jpg</smallThumbnail>
@@ -824,10 +883,11 @@
 </categories>
 </item>
 
-<item id="294" activeInd="Y">
+<item id="60" activeInd="Y">
 <title>AVGN: Bugs Bunny's Crazy Castle</title>
 <link>http:http://cinemassacre.com/2009/08/05/bugs-bunnys-crazy-castle/</link>
-<id>294</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>60</id>
 <movieURL>caIdG3q0</movieURL>
 <description>AVGN: Bugs Bunny's Crazy Castle</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/caIdG3q0-720.jpg</smallThumbnail>
@@ -838,10 +898,11 @@
 </categories>
 </item>
 
-<item id="295" activeInd="Y">
+<item id="61" activeInd="Y">
 <title>AVGN: Super Pitfall</title>
 <link>http:http://cinemassacre.com/2009/08/20/super-pitfall/</link>
-<id>295</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>61</id>
 <movieURL>mcGCkwUX</movieURL>
 <description>AVGN: Super Pitfall</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/mcGCkwUX-720.jpg</smallThumbnail>
@@ -852,10 +913,11 @@
 </categories>
 </item>
 
-<item id="296" activeInd="Y">
+<item id="62" activeInd="Y">
 <title>AVGN: Godzilla</title>
 <link>http:http://cinemassacre.com/2009/09/04/avgn-godzilla/</link>
-<id>296</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>62</id>
 <movieURL>69vzXzSI</movieURL>
 <description>AVGN: Godzilla</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/69vzXzSI-720.jpg</smallThumbnail>
@@ -866,10 +928,11 @@
 </categories>
 </item>
 
-<item id="297" activeInd="Y">
+<item id="63" activeInd="Y">
 <title>AVGN: Wayne's World</title>
 <link>http:http://cinemassacre.com/2009/09/24/avgn-waynes-world/</link>
-<id>297</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>63</id>
 <movieURL>sL6D69xn</movieURL>
 <description>AVGN: Wayne's World</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/sL6D69xn-720.jpg</smallThumbnail>
@@ -880,10 +943,11 @@
 </categories>
 </item>
 
-<item id="298" activeInd="Y">
+<item id="64" activeInd="Y">
 <title>AVGN: Castlevania Part 1</title>
 <link>http:http://cinemassacre.com/2009/10/08/castlevania-part-1/</link>
-<id>298</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>64</id>
 <movieURL>f8BYg7so</movieURL>
 <description>AVGN: Castlevania Part 1</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/f8BYg7so-720.jpg</smallThumbnail>
@@ -894,10 +958,11 @@
 </categories>
 </item>
 
-<item id="299" activeInd="Y">
+<item id="65" activeInd="Y">
 <title>AVGN: Castlevania Part 2</title>
 <link>http:http://cinemassacre.com/2009/10/21/castlevania-part-2/</link>
-<id>299</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>65</id>
 <movieURL>R6pt3N2q</movieURL>
 <description>AVGN: Castlevania Part 2</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/R6pt3N2q-720.jpg</smallThumbnail>
@@ -908,10 +973,11 @@
 </categories>
 </item>
 
-<item id="300" activeInd="Y">
+<item id="66" activeInd="Y">
 <title>AVGN: Castlevania Part 3</title>
 <link>http:http://cinemassacre.com/2009/11/05/castlevania-part-3/</link>
-<id>300</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>66</id>
 <movieURL>5oPIT7zG</movieURL>
 <description>AVGN: Castlevania Part 3</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/5oPIT7zG-720.jpg</smallThumbnail>
@@ -922,10 +988,11 @@
 </categories>
 </item>
 
-<item id="301" activeInd="Y">
+<item id="67" activeInd="Y">
 <title>AVGN: Castlevania Part 4</title>
 <link>http:http://cinemassacre.com/2009/11/19/castlevania-part-4/</link>
-<id>301</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>67</id>
 <movieURL>ft1Y4cMl</movieURL>
 <description>AVGN: Castlevania Part 4</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/ft1Y4cMl-720.jpg</smallThumbnail>
@@ -936,10 +1003,11 @@
 </categories>
 </item>
 
-<item id="302" activeInd="Y">
+<item id="68" activeInd="Y">
 <title>AVGN: Little Red Hood</title>
 <link>http:http://cinemassacre.com/2009/12/03/little-red-hood/</link>
-<id>302</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>68</id>
 <movieURL>sRoSqmT6</movieURL>
 <description>AVGN: Little Red Hood</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/sRoSqmT6-720.jpg</smallThumbnail>
@@ -950,10 +1018,11 @@
 </categories>
 </item>
 
-<item id="303" activeInd="Y">
+<item id="69" activeInd="Y">
 <title>AVGN: Winter Games</title>
 <link>http:http://cinemassacre.com/2009/12/25/winter-games/</link>
-<id>303</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>69</id>
 <movieURL>nPzoD4XB</movieURL>
 <description>AVGN: Winter Games</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/nPzoD4XB-720.jpg</smallThumbnail>
@@ -964,10 +1033,11 @@
 </categories>
 </item>
 
-<item id="304" activeInd="Y">
+<item id="70" activeInd="Y">
 <title>AVGN: Street Fighter 2010</title>
 <link>http:http://cinemassacre.com/2010/01/06/street-fighter-2010/</link>
-<id>304</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>70</id>
 <movieURL>irHRD7o3</movieURL>
 <description>AVGN: Street Fighter 2010</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/irHRD7o3-720.jpg</smallThumbnail>
@@ -978,10 +1048,11 @@
 </categories>
 </item>
 
-<item id="305" activeInd="Y">
+<item id="71" activeInd="Y">
 <title>AVGN: Hydlide</title>
 <link>http:http://cinemassacre.com/2010/01/20/avgn-hydlide-2/</link>
-<id>305</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>71</id>
 <movieURL>5byVSjAv</movieURL>
 <description>AVGN: Hydlide</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/5byVSjAv-720.jpg</smallThumbnail>
@@ -992,10 +1063,11 @@
 </categories>
 </item>
 
-<item id="306" activeInd="Y">
+<item id="72" activeInd="Y">
 <title>AVGN: Ninja Gaiden</title>
 <link>http:http://cinemassacre.com/2010/02/04/avgn-ninja-gaiden/</link>
-<id>306</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>72</id>
 <movieURL>3tXdrW3j</movieURL>
 <description>AVGN: Ninja Gaiden</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/3tXdrW3j-720.jpg</smallThumbnail>
@@ -1006,10 +1078,11 @@
 </categories>
 </item>
 
-<item id="307" activeInd="Y">
+<item id="73" activeInd="Y">
 <title>AVGN: Swordquest</title>
 <link>http:http://cinemassacre.com/2010/02/18/avgn-swordquest/</link>
-<id>307</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>73</id>
 <movieURL>jqCrbfmB</movieURL>
 <description>AVGN: Swordquest</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/jqCrbfmB-720.jpg</smallThumbnail>
@@ -1020,10 +1093,11 @@
 </categories>
 </item>
 
-<item id="308" activeInd="Y">
+<item id="74" activeInd="Y">
 <title>AVGN: Pong Consoles</title>
 <link>http:http://cinemassacre.com/2010/03/06/avgn-pong-consoles/</link>
-<id>308</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>74</id>
 <movieURL>WwfFdz3l</movieURL>
 <description>AVGN: Pong Consoles</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/WwfFdz3l-720.jpg</smallThumbnail>
@@ -1034,10 +1108,11 @@
 </categories>
 </item>
 
-<item id="309" activeInd="Y">
+<item id="75" activeInd="Y">
 <title>AVGN: Action 52</title>
 <link>http:http://cinemassacre.com/2010/04/30/avgn-episode-90-action-52/</link>
-<id>309</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>75</id>
 <movieURL>xCPK3viY</movieURL>
 <description>AVGN: Action 52</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/xCPK3viY-720.jpg</smallThumbnail>
@@ -1048,10 +1123,11 @@
 </categories>
 </item>
 
-<item id="310" activeInd="Y">
+<item id="76" activeInd="Y">
 <title>AVGN: Rambo</title>
 <link>http:http://cinemassacre.com/2008/01/22/rambo/</link>
-<id>310</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>76</id>
 <movieURL>aT2SculS</movieURL>
 <description>AVGN: Rambo</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/aT2SculS-720.jpg</smallThumbnail>
@@ -1062,10 +1138,11 @@
 </categories>
 </item>
 
-<item id="311" activeInd="Y">
+<item id="77" activeInd="Y">
 <title>AVGN: Virtual Boy</title>
 <link>http:http://cinemassacre.com/2008/02/19/virtual-boy/</link>
-<id>311</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>77</id>
 <movieURL>5Z9y3dNs</movieURL>
 <description>AVGN: Virtual Boy</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/5Z9y3dNs-720.jpg</smallThumbnail>
@@ -1076,10 +1153,11 @@
 </categories>
 </item>
 
-<item id="312" activeInd="Y">
+<item id="78" activeInd="Y">
 <title>AVGN: Wizard of Oz</title>
 <link>http:http://cinemassacre.com/2008/03/04/wizard-of-oz/</link>
-<id>312</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>78</id>
 <movieURL>euO2eiA3</movieURL>
 <description>AVGN: Wizard of Oz</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/euO2eiA3-720.jpg</smallThumbnail>
@@ -1090,10 +1168,11 @@
 </categories>
 </item>
 
-<item id="313" activeInd="Y">
+<item id="79" activeInd="Y">
 <title>AVGN: Doublevision Part 1 - Intellivision</title>
 <link>http:http://cinemassacre.com/2008/03/25/doublevision-part-1-intellivision/</link>
-<id>313</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>79</id>
 <movieURL>aMOY0Mip</movieURL>
 <description>AVGN: Doublevision Part 1 - Intellivision</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/aMOY0Mip-720.jpg</smallThumbnail>
@@ -1104,10 +1183,11 @@
 </categories>
 </item>
 
-<item id="314" activeInd="Y">
+<item id="80" activeInd="Y">
 <title>AVGN: Doublevision Part 2 - Colecovision</title>
 <link>http:http://cinemassacre.com/2008/04/08/doublevision-part-2-colecovision/</link>
-<id>314</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>80</id>
 <movieURL>p90COAhL</movieURL>
 <description>AVGN: Doublevision Part 2 - Colecovision</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/p90COAhL-720.jpg</smallThumbnail>
@@ -1118,10 +1198,11 @@
 </categories>
 </item>
 
-<item id="315" activeInd="Y">
+<item id="81" activeInd="Y">
 <title>AVGN: The Wizard and Super Mario Bros 3</title>
 <link>http:http://cinemassacre.com/2008/04/22/the-wizard-and-super-mario-bros-3/</link>
-<id>315</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>81</id>
 <movieURL>mDvW7KCQ</movieURL>
 <description>AVGN: The Wizard and Super Mario Bros 3</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/mDvW7KCQ-720.jpg</smallThumbnail>
@@ -1132,10 +1213,11 @@
 </categories>
 </item>
 
-<item id="316" activeInd="Y">
+<item id="82" activeInd="Y">
 <title>AVGN: Nes Accessories</title>
 <link>http:http://cinemassacre.com/2008/05/14/nes-accessories/</link>
-<id>316</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>82</id>
 <movieURL>2ItMYyHs</movieURL>
 <description>AVGN: Nes Accessories</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/2ItMYyHs-720.jpg</smallThumbnail>
@@ -1146,10 +1228,11 @@
 </categories>
 </item>
 
-<item id="317" activeInd="Y">
+<item id="83" activeInd="Y">
 <title>AVGN: Indiana Jones Trilogy</title>
 <link>http:http://cinemassacre.com/2008/05/20/indiana-jones-trilogy-2/</link>
-<id>317</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>83</id>
 <movieURL>szNfoCcb</movieURL>
 <description>AVGN: Indiana Jones Trilogy</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/szNfoCcb-720.jpg</smallThumbnail>
@@ -1160,10 +1243,11 @@
 </categories>
 </item>
 
-<item id="318" activeInd="Y">
+<item id="84" activeInd="Y">
 <title>AVGN: Star Trek</title>
 <link>http:http://cinemassacre.com/2008/06/11/avgn-star-trek-2/</link>
-<id>318</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>84</id>
 <movieURL>w4xAqfdz</movieURL>
 <description>AVGN: Star Trek</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/w4xAqfdz-720.jpg</smallThumbnail>
@@ -1174,10 +1258,11 @@
 </categories>
 </item>
 
-<item id="319" activeInd="Y">
+<item id="85" activeInd="Y">
 <title>AVGN: Superman</title>
 <link>http:http://cinemassacre.com/2008/06/26/avgn-superman-2/</link>
-<id>319</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>85</id>
 <movieURL>muh3KF13</movieURL>
 <description>AVGN: Superman</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/muh3KF13-720.jpg</smallThumbnail>
@@ -1188,10 +1273,11 @@
 </categories>
 </item>
 
-<item id="320" activeInd="Y">
+<item id="86" activeInd="Y">
 <title>AVGN: Superman 64</title>
 <link>http:http://cinemassacre.com/2008/07/08/avgn-superman-64-2/</link>
-<id>320</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>86</id>
 <movieURL>AlkutvII</movieURL>
 <description>AVGN: Superman 64</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/AlkutvII-720.jpg</smallThumbnail>
@@ -1202,10 +1288,11 @@
 </categories>
 </item>
 
-<item id="321" activeInd="Y">
+<item id="87" activeInd="Y">
 <title>AVGN: Batman Part 1</title>
 <link>http:http://cinemassacre.com/2008/07/22/batman-part-1/</link>
-<id>321</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>87</id>
 <movieURL>WgMcNttt</movieURL>
 <description>AVGN: Batman Part 1</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/WgMcNttt-720.jpg</smallThumbnail>
@@ -1216,10 +1303,11 @@
 </categories>
 </item>
 
-<item id="322" activeInd="Y">
+<item id="88" activeInd="Y">
 <title></title>
 <link>http:http://cinemassacre.com/2008/08/02/merch/</link>
-<id>322</id>
+<pubDate></pubDate>
+<id>88</id>
 <movieURL></movieURL>
 <description></description>
 <smallThumbnail>http:</smallThumbnail>
@@ -1230,10 +1318,11 @@
 </categories>
 </item>
 
-<item id="323" activeInd="Y">
+<item id="89" activeInd="Y">
 <title>AVGN: Batman Part 2</title>
 <link>http:http://cinemassacre.com/2008/08/10/batman-part-2/</link>
-<id>323</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>89</id>
 <movieURL>w7JVjQoJ</movieURL>
 <description>AVGN: Batman Part 2</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/w7JVjQoJ-720.jpg</smallThumbnail>
@@ -1244,10 +1333,11 @@
 </categories>
 </item>
 
-<item id="324" activeInd="Y">
+<item id="90" activeInd="Y">
 <title>AVGN: Deadly Towers</title>
 <link>http:http://cinemassacre.com/2008/08/19/deadly-towers/</link>
-<id>324</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>90</id>
 <movieURL>1ELaxkJ4</movieURL>
 <description>AVGN: Deadly Towers</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/1ELaxkJ4-720.jpg</smallThumbnail>
@@ -1258,10 +1348,11 @@
 </categories>
 </item>
 
-<item id="325" activeInd="Y">
+<item id="91" activeInd="Y">
 <title>AVGN: Battletoads</title>
 <link>http:http://cinemassacre.com/2008/09/03/battletoads/</link>
-<id>325</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>91</id>
 <movieURL>b0v3uI21</movieURL>
 <description>AVGN: Battletoads</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/b0v3uI21-720.jpg</smallThumbnail>
@@ -1272,10 +1363,11 @@
 </categories>
 </item>
 
-<item id="326" activeInd="Y">
+<item id="92" activeInd="Y">
 <title>AVGN: Dick Tracy</title>
 <link>http:http://cinemassacre.com/2008/09/16/dick-tracy/</link>
-<id>326</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>92</id>
 <movieURL>FcDhf4J5</movieURL>
 <description>AVGN: Dick Tracy</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/FcDhf4J5-720.jpg</smallThumbnail>
@@ -1286,10 +1378,11 @@
 </categories>
 </item>
 
-<item id="327" activeInd="Y">
+<item id="93" activeInd="Y">
 <title>AVGN: Dracula</title>
 <link>http:http://cinemassacre.com/2008/10/14/avgn-dracula-2/</link>
-<id>327</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>93</id>
 <movieURL>U3vDmRaT</movieURL>
 <description>AVGN: Dracula</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/U3vDmRaT-720.jpg</smallThumbnail>
@@ -1300,10 +1393,11 @@
 </categories>
 </item>
 
-<item id="328" activeInd="Y">
+<item id="94" activeInd="Y">
 <title>AVGN: Frankenstein</title>
 <link>http:http://cinemassacre.com/2008/10/29/avgn-frankenstein/</link>
-<id>328</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>94</id>
 <movieURL>tORTJPDw</movieURL>
 <description>AVGN: Frankenstein</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/tORTJPDw-720.jpg</smallThumbnail>
@@ -1314,10 +1408,11 @@
 </categories>
 </item>
 
-<item id="329" activeInd="Y">
+<item id="95" activeInd="Y">
 <title>AVGN: CD-I Part 1 - Hotel Mario</title>
 <link>http:http://cinemassacre.com/2008/11/12/avgn-cd-i-part-1/</link>
-<id>329</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>95</id>
 <movieURL>GN2K0pgI</movieURL>
 <description>AVGN: CD-I Part 1 - Hotel Mario</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/GN2K0pgI-720.jpg</smallThumbnail>
@@ -1328,10 +1423,11 @@
 </categories>
 </item>
 
-<item id="330" activeInd="Y">
+<item id="96" activeInd="Y">
 <title>AVGN: CD-I Part 2 - Zelda Wand of Gamelon</title>
 <link>http:http://cinemassacre.com/2008/11/25/avgn-cd-i-part-2/</link>
-<id>330</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>96</id>
 <movieURL>Ul2RVtG6</movieURL>
 <description>AVGN: CD-I Part 2 - Zelda Wand of Gamelon</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/Ul2RVtG6-720.jpg</smallThumbnail>
@@ -1342,10 +1438,11 @@
 </categories>
 </item>
 
-<item id="331" activeInd="Y">
+<item id="97" activeInd="Y">
 <title>AVGN: CD-I Part 3 - Link The Faces of Evil</title>
 <link>http:http://cinemassacre.com/2008/12/09/avgn-cd-i-part-3/</link>
-<id>331</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>97</id>
 <movieURL>aVkntu6W</movieURL>
 <description>AVGN: CD-I Part 3 - Link The Faces of Evil</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/aVkntu6W-720.jpg</smallThumbnail>
@@ -1356,10 +1453,11 @@
 </categories>
 </item>
 
-<item id="332" activeInd="Y">
+<item id="98" activeInd="Y">
 <title>AVGN: Bible Games 2</title>
 <link>http:http://cinemassacre.com/2008/12/23/bible-games-2/</link>
-<id>332</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>98</id>
 <movieURL>ieCOo5Yn</movieURL>
 <description>AVGN: Bible Games 2</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/ieCOo5Yn-720.jpg</smallThumbnail>
@@ -1370,10 +1468,11 @@
 </categories>
 </item>
 
-<item id="333" activeInd="Y">
+<item id="99" activeInd="Y">
 <title>AVGN: Michael Jackson's Moonwalker</title>
 <link>http:http://cinemassacre.com/2009/01/07/michael-jacksons-moonwalker/</link>
-<id>333</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>99</id>
 <movieURL>6hvaouqZ</movieURL>
 <description>AVGN: Michael Jackson's Moonwalker</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/6hvaouqZ-720.jpg</smallThumbnail>
@@ -1384,10 +1483,11 @@
 </categories>
 </item>
 
-<item id="334" activeInd="Y">
+<item id="100" activeInd="Y">
 <title>064 Milon's Secret Castle</title>
 <link>http:http://cinemassacre.com/2009/01/27/milons-secret-castle-2/</link>
-<id>334</id>
+<pubDate>Sat, 07 May 2016 02:43:23 -0000</pubDate>
+<id>100</id>
 <movieURL>yPll14q5</movieURL>
 <description>064 Milon's Secret Castle</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/yPll14q5-720.jpg</smallThumbnail>
@@ -1398,10 +1498,11 @@
 </categories>
 </item>
 
-<item id="335" activeInd="Y">
+<item id="101" activeInd="Y">
 <title>AVGN: Atari Jaguar Part 1</title>
 <link>http:http://cinemassacre.com/2009/03/16/atari-jaguar-part-1/</link>
-<id>335</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>101</id>
 <movieURL>K9o9pyJt</movieURL>
 <description>AVGN: Atari Jaguar Part 1</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/K9o9pyJt-720.jpg</smallThumbnail>
@@ -1412,10 +1513,11 @@
 </categories>
 </item>
 
-<item id="336" activeInd="Y">
+<item id="102" activeInd="Y">
 <title>AVGN: Rocky</title>
 <link>http:http://cinemassacre.com/2006/12/20/rocky/</link>
-<id>336</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>102</id>
 <movieURL>EjVnWE2F</movieURL>
 <description>AVGN: Rocky</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/EjVnWE2F-720.jpg</smallThumbnail>
@@ -1426,10 +1528,11 @@
 </categories>
 </item>
 
-<item id="337" activeInd="Y">
+<item id="103" activeInd="Y">
 <title>AVGN: Bible Games</title>
 <link>http:http://cinemassacre.com/2006/12/25/bible-games/</link>
-<id>337</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>103</id>
 <movieURL>5uYzsPtK</movieURL>
 <description>AVGN: Bible Games</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/5uYzsPtK-720.jpg</smallThumbnail>
@@ -1440,10 +1543,11 @@
 </categories>
 </item>
 
-<item id="338" activeInd="Y">
+<item id="104" activeInd="Y">
 <title>AVGN: TMNT 3 Movie Review</title>
 <link>http:http://cinemassacre.com/2007/01/25/tmnt-part-1/</link>
-<id>338</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>104</id>
 <movieURL>EWxlxme7</movieURL>
 <description>AVGN: TMNT 3 Movie Review</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/EWxlxme7-720.jpg</smallThumbnail>
@@ -1454,10 +1558,11 @@
 </categories>
 </item>
 
-<item id="339" activeInd="Y">
+<item id="105" activeInd="Y">
 <title>AVGN: Atari 5200</title>
 <link>http:http://cinemassacre.com/2007/02/13/atari-5200/</link>
-<id>339</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>105</id>
 <movieURL>slwMITH4</movieURL>
 <description>AVGN: Atari 5200</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/slwMITH4-720.jpg</smallThumbnail>
@@ -1468,10 +1573,11 @@
 </categories>
 </item>
 
-<item id="340" activeInd="Y">
+<item id="106" activeInd="Y">
 <title>AVGN: Ghostbusters</title>
 <link>http:http://cinemassacre.com/2007/02/27/ghostbusters/</link>
-<id>340</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>106</id>
 <movieURL>9NNaxibS</movieURL>
 <description>AVGN: Ghostbusters</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/9NNaxibS-720.jpg</smallThumbnail>
@@ -1482,10 +1588,11 @@
 </categories>
 </item>
 
-<item id="341" activeInd="Y">
+<item id="107" activeInd="Y">
 <title>AVGN: Ghostbusters Follow-Up</title>
 <link>http:http://cinemassacre.com/2007/03/20/ghostbusters-follow-up/</link>
-<id>341</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>107</id>
 <movieURL>yVSKC84W</movieURL>
 <description>AVGN: Ghostbusters Follow-Up</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/yVSKC84W-720.jpg</smallThumbnail>
@@ -1496,10 +1603,11 @@
 </categories>
 </item>
 
-<item id="342" activeInd="Y">
+<item id="108" activeInd="Y">
 <title></title>
 <link>http:http://cinemassacre.com/2007/03/22/game-collection/</link>
-<id>342</id>
+<pubDate></pubDate>
+<id>108</id>
 <movieURL></movieURL>
 <description></description>
 <smallThumbnail>http:</smallThumbnail>
@@ -1510,10 +1618,11 @@
 </categories>
 </item>
 
-<item id="343" activeInd="Y">
+<item id="109" activeInd="Y">
 <title>AVGN: Ghostbusters Conclusion</title>
 <link>http:http://cinemassacre.com/2007/04/03/ghostbusters-conclusion/</link>
-<id>343</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>109</id>
 <movieURL>Tda0yJ7k</movieURL>
 <description>AVGN: Ghostbusters Conclusion</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/Tda0yJ7k-720.jpg</smallThumbnail>
@@ -1524,10 +1633,11 @@
 </categories>
 </item>
 
-<item id="344" activeInd="Y">
+<item id="110" activeInd="Y">
 <title>AVGN: Spiderman</title>
 <link>http:http://cinemassacre.com/2007/04/17/spiderman/</link>
-<id>344</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>110</id>
 <movieURL>bqgNGupn</movieURL>
 <description>AVGN: Spiderman</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/bqgNGupn-720.jpg</smallThumbnail>
@@ -1538,10 +1648,11 @@
 </categories>
 </item>
 
-<item id="345" activeInd="Y">
+<item id="111" activeInd="Y">
 <title>AVGN: Sega CD</title>
 <link>http:http://cinemassacre.com/2007/05/02/sega-cd/</link>
-<id>345</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>111</id>
 <movieURL>J1bHi9rz</movieURL>
 <description>AVGN: Sega CD</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/J1bHi9rz-720.jpg</smallThumbnail>
@@ -1552,10 +1663,11 @@
 </categories>
 </item>
 
-<item id="346" activeInd="Y">
+<item id="112" activeInd="Y">
 <title>AVGN: Sega 32X</title>
 <link>http:http://cinemassacre.com/2007/05/15/sega-32x/</link>
-<id>346</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>112</id>
 <movieURL>iF6JBh84</movieURL>
 <description>AVGN: Sega 32X</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/iF6JBh84-720.jpg</smallThumbnail>
@@ -1566,10 +1678,11 @@
 </categories>
 </item>
 
-<item id="347" activeInd="Y">
+<item id="113" activeInd="Y">
 <title>AVGN: Silver Surfer</title>
 <link>http:http://cinemassacre.com/2007/06/05/silver-surfer/</link>
-<id>347</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>113</id>
 <movieURL>8Hhqg3Zj</movieURL>
 <description>AVGN: Silver Surfer</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/8Hhqg3Zj-720.jpg</smallThumbnail>
@@ -1580,10 +1693,11 @@
 </categories>
 </item>
 
-<item id="348" activeInd="Y">
+<item id="114" activeInd="Y">
 <title>AVGN: Die Hard</title>
 <link>http:http://cinemassacre.com/2007/06/19/avgn-die-hard/</link>
-<id>348</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>114</id>
 <movieURL>EijVYgaS</movieURL>
 <description>AVGN: Die Hard</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/EijVYgaS-720.jpg</smallThumbnail>
@@ -1594,10 +1708,11 @@
 </categories>
 </item>
 
-<item id="349" activeInd="Y">
+<item id="115" activeInd="Y">
 <title>AVGN: Independence Day</title>
 <link>http:http://cinemassacre.com/2007/07/03/independence-day/</link>
-<id>349</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>115</id>
 <movieURL>uIQd3139</movieURL>
 <description>AVGN: Independence Day</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/uIQd3139-720.jpg</smallThumbnail>
@@ -1608,10 +1723,11 @@
 </categories>
 </item>
 
-<item id="350" activeInd="Y">
+<item id="116" activeInd="Y">
 <title>AVGN: The Simpsons</title>
 <link>http:http://cinemassacre.com/2007/07/17/avgn-the-simpsons/</link>
-<id>350</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>116</id>
 <movieURL>RtqCPu8E</movieURL>
 <description>AVGN: The Simpsons</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/RtqCPu8E-720.jpg</smallThumbnail>
@@ -1622,10 +1738,11 @@
 </categories>
 </item>
 
-<item id="351" activeInd="Y">
+<item id="117" activeInd="Y">
 <title>AVGN: Bugs Bunnys Birthday Blowout</title>
 <link>http:http://cinemassacre.com/2007/08/07/bugs-bunnys-birthday-blowout/</link>
-<id>351</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>117</id>
 <movieURL>O1IKeYH0</movieURL>
 <description>AVGN: Bugs Bunnys Birthday Blowout</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/O1IKeYH0-720.jpg</smallThumbnail>
@@ -1636,10 +1753,11 @@
 </categories>
 </item>
 
-<item id="352" activeInd="Y">
+<item id="118" activeInd="Y">
 <title>AVGN: Atari Porn</title>
 <link>http:http://cinemassacre.com/2007/08/22/atari-porn/</link>
-<id>352</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>118</id>
 <movieURL>La9WLQBD</movieURL>
 <description>AVGN: Atari Porn</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/La9WLQBD-720.jpg</smallThumbnail>
@@ -1650,10 +1768,11 @@
 </categories>
 </item>
 
-<item id="353" activeInd="Y">
+<item id="119" activeInd="Y">
 <title>AVGN: Nintendo Power</title>
 <link>http:http://cinemassacre.com/2007/09/04/avgn-nintendo-power/</link>
-<id>353</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>119</id>
 <movieURL>a9x0gJN5</movieURL>
 <description>AVGN: Nintendo Power</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/a9x0gJN5-720.jpg</smallThumbnail>
@@ -1664,10 +1783,11 @@
 </categories>
 </item>
 
-<item id="354" activeInd="Y">
+<item id="120" activeInd="Y">
 <title>AVGN: Festers Quest</title>
 <link>http:http://cinemassacre.com/2007/09/18/festers-quest/</link>
-<id>354</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>120</id>
 <movieURL>P4Ocn5yz</movieURL>
 <description>AVGN: Festers Quest</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/P4Ocn5yz-720.jpg</smallThumbnail>
@@ -1678,10 +1798,11 @@
 </categories>
 </item>
 
-<item id="355" activeInd="Y">
+<item id="121" activeInd="Y">
 <title>AVGN: Texas Chainsaw Massacre</title>
 <link>http:http://cinemassacre.com/2007/10/09/texas-chainsaw-massacre-2/</link>
-<id>355</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>121</id>
 <movieURL>Y1KnfQ2e</movieURL>
 <description>AVGN: Texas Chainsaw Massacre</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/Y1KnfQ2e-720.jpg</smallThumbnail>
@@ -1692,10 +1813,11 @@
 </categories>
 </item>
 
-<item id="356" activeInd="Y">
+<item id="122" activeInd="Y">
 <title>036 Halloween</title>
 <link>http:http://cinemassacre.com/2007/10/30/halloween-2/</link>
-<id>356</id>
+<pubDate>Sat, 07 May 2016 05:28:04 -0000</pubDate>
+<id>122</id>
 <movieURL>B1mlp7QY</movieURL>
 <description>036 Halloween</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/B1mlp7QY-720.jpg</smallThumbnail>
@@ -1706,10 +1828,11 @@
 </categories>
 </item>
 
-<item id="357" activeInd="Y">
+<item id="123" activeInd="Y">
 <title>AVGN: Dragons Lair</title>
 <link>http:http://cinemassacre.com/2007/11/20/dragons-lair/</link>
-<id>357</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>123</id>
 <movieURL>mpDhgU9b</movieURL>
 <description>AVGN: Dragons Lair</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/mpDhgU9b-720.jpg</smallThumbnail>
@@ -1720,10 +1843,11 @@
 </categories>
 </item>
 
-<item id="358" activeInd="Y">
+<item id="124" activeInd="Y">
 <title>AVGN: Christmas Carol Part 1 - Home Alone 2</title>
 <link>http:http://cinemassacre.com/2007/12/18/christmas-carol-part-1-home-alone-2/</link>
-<id>358</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>124</id>
 <movieURL>edbwOELh</movieURL>
 <description>AVGN: Christmas Carol Part 1 - Home Alone 2</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/edbwOELh-720.jpg</smallThumbnail>
@@ -1734,10 +1858,11 @@
 </categories>
 </item>
 
-<item id="359" activeInd="Y">
+<item id="125" activeInd="Y">
 <title>AVGN: Christmas Carol Part 2 - Shaq Fu</title>
 <link>http:http://cinemassacre.com/2007/12/24/christmas-carol-part-2-shaq-fu/</link>
-<id>359</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>125</id>
 <movieURL>rSgkKsW8</movieURL>
 <description>AVGN: Christmas Carol Part 2 - Shaq Fu</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/rSgkKsW8-720.jpg</smallThumbnail>
@@ -1748,10 +1873,11 @@
 </categories>
 </item>
 
-<item id="360" activeInd="Y">
+<item id="126" activeInd="Y">
 <title>AVGN: Chronologically Confused About The Legend Of</title>
 <link>http:http://cinemassacre.com/2008/01/08/chronologically-confused-about-the-legend-of-zelda-timeline/</link>
-<id>360</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>126</id>
 <movieURL>QWWNtFDM</movieURL>
 <description>AVGN: Chronologically Confused About The Legend Of</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/QWWNtFDM-720.jpg</smallThumbnail>
@@ -1762,10 +1888,11 @@
 </categories>
 </item>
 
-<item id="361" activeInd="Y">
+<item id="127" activeInd="Y">
 <title>AVGN: The Karate Kid</title>
 <link>http:http://cinemassacre.com/2006/02/10/the-karate-kid/</link>
-<id>361</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>127</id>
 <movieURL>qjWvTyBR</movieURL>
 <description>AVGN: The Karate Kid</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/qjWvTyBR-720.jpg</smallThumbnail>
@@ -1776,10 +1903,11 @@
 </categories>
 </item>
 
-<item id="362" activeInd="Y">
+<item id="128" activeInd="Y">
 <title>Who Framed Roger Rabbit</title>
 <link>http:http://cinemassacre.com/2006/04/24/who-framed-roger-rabbit/</link>
-<id>362</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>128</id>
 <movieURL>yPR8FuSy</movieURL>
 <description>Who Framed Roger Rabbit</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/yPR8FuSy-720.jpg</smallThumbnail>
@@ -1790,10 +1918,11 @@
 </categories>
 </item>
 
-<item id="363" activeInd="Y">
+<item id="129" activeInd="Y">
 <title>AVGN: Teenage Mutant Ninja Turtles TMNT</title>
 <link>http:http://cinemassacre.com/2006/06/29/teenage-mutant-ninja-turtles/</link>
-<id>363</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>129</id>
 <movieURL>Yh3SNitM</movieURL>
 <description>AVGN: Teenage Mutant Ninja Turtles TMNT</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/Yh3SNitM-720.jpg</smallThumbnail>
@@ -1804,10 +1933,11 @@
 </categories>
 </item>
 
-<item id="364" activeInd="Y">
+<item id="130" activeInd="Y">
 <title>AVGN: Back To The Future</title>
 <link>http:http://cinemassacre.com/2006/07/29/back-to-the-future/</link>
-<id>364</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>130</id>
 <movieURL>OiHscRfr</movieURL>
 <description>AVGN: Back To The Future</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/OiHscRfr-720.jpg</smallThumbnail>
@@ -1818,10 +1948,11 @@
 </categories>
 </item>
 
-<item id="365" activeInd="Y">
+<item id="131" activeInd="Y">
 <title>AVGN: McKids</title>
 <link>http:http://cinemassacre.com/2006/09/01/mckids/</link>
-<id>365</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>131</id>
 <movieURL>TppSJTS9</movieURL>
 <description>AVGN: McKids</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/TppSJTS9-720.jpg</smallThumbnail>
@@ -1832,10 +1963,11 @@
 </categories>
 </item>
 
-<item id="366" activeInd="Y">
+<item id="132" activeInd="Y">
 <title>AVGN: Wally Bear and the NO! Gang</title>
 <link>http:http://cinemassacre.com/2006/09/08/wally-bear-and-the-no-gang/</link>
-<id>366</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>132</id>
 <movieURL>YvGtfka0</movieURL>
 <description>AVGN: Wally Bear and the NO! Gang</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/YvGtfka0-720.jpg</smallThumbnail>
@@ -1846,10 +1978,11 @@
 </categories>
 </item>
 
-<item id="367" activeInd="Y">
+<item id="133" activeInd="Y">
 <title>AVGN: Master Chu and the Drunkard Hu</title>
 <link>http:http://cinemassacre.com/2006/09/24/master-chu-and-the-drunkard-hu/</link>
-<id>367</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>133</id>
 <movieURL>4tVqrOBr</movieURL>
 <description>AVGN: Master Chu and the Drunkard Hu</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/4tVqrOBr-720.jpg</smallThumbnail>
@@ -1860,10 +1993,11 @@
 </categories>
 </item>
 
-<item id="368" activeInd="Y">
+<item id="134" activeInd="Y">
 <title>AVGN: Top Gun</title>
 <link>http:http://cinemassacre.com/2006/09/24/top-gun/</link>
-<id>368</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>134</id>
 <movieURL>ijhMmGkx</movieURL>
 <description>AVGN: Top Gun</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/ijhMmGkx-720.jpg</smallThumbnail>
@@ -1874,10 +2008,11 @@
 </categories>
 </item>
 
-<item id="369" activeInd="Y">
+<item id="135" activeInd="Y">
 <title>AVGN: Double Dragon 3</title>
 <link>http:http://cinemassacre.com/2006/10/02/double-dragon-3/</link>
-<id>369</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>135</id>
 <movieURL>fOWEsTIb</movieURL>
 <description>AVGN: Double Dragon 3</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/fOWEsTIb-720.jpg</smallThumbnail>
@@ -1888,10 +2023,11 @@
 </categories>
 </item>
 
-<item id="370" activeInd="Y">
+<item id="136" activeInd="Y">
 <title>AVGN: Friday the 13th</title>
 <link>http:http://cinemassacre.com/2006/10/13/friday-the-13th-2/</link>
-<id>370</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>136</id>
 <movieURL>G12qrFHC</movieURL>
 <description>AVGN: Friday the 13th</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/G12qrFHC-720.jpg</smallThumbnail>
@@ -1902,10 +2038,11 @@
 </categories>
 </item>
 
-<item id="371" activeInd="Y">
+<item id="137" activeInd="Y">
 <title>AVGN: A Nightmare On Elm Street</title>
 <link>http:http://cinemassacre.com/2006/10/31/a-nightmare-on-elm-street-2/</link>
-<id>371</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>137</id>
 <movieURL>bu1r6wif</movieURL>
 <description>AVGN: A Nightmare On Elm Street</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/bu1r6wif-720.jpg</smallThumbnail>
@@ -1916,10 +2053,11 @@
 </categories>
 </item>
 
-<item id="372" activeInd="Y">
+<item id="138" activeInd="Y">
 <title>AVGN: The Power Glove</title>
 <link>http:http://cinemassacre.com/2006/11/22/the-power-glove/</link>
-<id>372</id>
+<pubDate>Wed, 09 Oct 2013 04:00:00 -0000</pubDate>
+<id>138</id>
 <movieURL>8HXYzVRN</movieURL>
 <description>AVGN: The Power Glove</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/8HXYzVRN-720.jpg</smallThumbnail>
@@ -1930,10 +2068,11 @@
 </categories>
 </item>
 
-<item id="373" activeInd="Y">
+<item id="139" activeInd="Y">
 <title>Chronologically Confused about Sequel Titles - Angry Video Game Nerd - Episode 15</title>
 <link>http:http://cinemassacre.com/2006/12/07/chronologically-confused-about-bad-movie-and-video-game-sequel-titles/</link>
-<id>373</id>
+<pubDate>Sat, 07 May 2016 06:16:05 -0000</pubDate>
+<id>139</id>
 <movieURL>ptx1NEmH</movieURL>
 <description>Chronologically Confused about Sequel Titles - Angry Video Game Nerd - Episode 15</description>
 <smallThumbnail>http://content.jwplatform.com/thumbs/ptx1NEmH-720.jpg</smallThumbnail>
