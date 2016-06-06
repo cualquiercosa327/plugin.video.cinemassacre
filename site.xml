@@ -87,7 +87,7 @@
 
 <!-- ******************************************************* -->
 <!-- SHOW: Angry Video Game Nerd Menu -->
- <MainCategory id="1001" activeInd="Y" parent_id="101" name="AVGN Episodes"/>
+ <!-- <MainCategory id="1001" activeInd="Y" parent_id="101" name="AVGN Episodes"/> -->
  <MainCategory id="1002" activeInd="Y" parent_id="101" name="Full List of AVGN Videos"/>
  <!--<MainCategory id="1003" activeInd="Y" parent_id="101" name="2004 - 2006"/>
  <MainCategory id="1004" activeInd="Y" parent_id="101" name="2007"/>
@@ -196,10 +196,10 @@
  <!-- <MainCategory id="5001" activeInd="Y" parent_id="501" name=""/> -->
 
 <!-- MUSIC: Audio Slaughter -->
- <!-- <MainCategory id="5101" activeInd="Y" parent_id="502" name=""/> -->
+ <MainCategory id="5101" activeInd="Y" parent_id="502" name="Nothing Is Available Yet For This Item"/> 
 
 <!-- MUSIC: Kyle Justin -->
- <!-- <MainCategory id="5201" activeInd="Y" parent_id="503" name=""/> -->
+ <MainCategory id="5201" activeInd="Y" parent_id="503" name="Nothing Is Available Yet For This Item"/> 
 
 <!-- MUSIC: Name That Tune -->
  <!-- <MainCategory id="5301" activeInd="Y" parent_id="504" name=""/> -->
@@ -238,8 +238,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/X2w7CsMB-720.jpg</smallThumbnail>
 <duration>906</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -253,8 +253,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/atr4Zcs6-720.jpg</smallThumbnail>
 <duration>927</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -268,8 +268,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/U5zjKSFT-720.jpg</smallThumbnail>
 <duration>944</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -283,8 +283,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/0I6xK6Fy-720.jpg</smallThumbnail>
 <duration>929</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -298,8 +298,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/StMOetNi-720.jpg</smallThumbnail>
 <duration>420</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -313,8 +313,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/q8be1I0P-720.jpg</smallThumbnail>
 <duration>833</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -328,8 +328,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/6Udxa40b-720.jpg</smallThumbnail>
 <duration>230</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -343,8 +343,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/dJChcZDd-720.jpg</smallThumbnail>
 <duration>241</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -358,8 +358,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/XQq0JirJ-720.jpg</smallThumbnail>
 <duration>246</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -373,8 +373,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/A8yKkigh-720.jpg</smallThumbnail>
 <duration>316</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -388,8 +388,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/134KOmsy-720.jpg</smallThumbnail>
 <duration>246</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -403,8 +403,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/sb1UBfGU-720.jpg</smallThumbnail>
 <duration>255</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -418,8 +418,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/qbv36kyM-720.jpg</smallThumbnail>
 <duration>293</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -433,8 +433,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/BaEU7AvT-720.jpg</smallThumbnail>
 <duration>277</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -448,8 +448,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/XFK3Z0Gl-720.jpg</smallThumbnail>
 <duration>362</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -463,8 +463,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/GPaojEMY-720.jpg</smallThumbnail>
 <duration>392</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -478,8 +478,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/XoxgQiX5-720.jpg</smallThumbnail>
 <duration>689</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -493,8 +493,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/72aPvBnz-720.jpg</smallThumbnail>
 <duration>523</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -508,8 +508,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/GQ36aasp-720.jpg</smallThumbnail>
 <duration>750</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -523,8 +523,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/xtATVrON-720.jpg</smallThumbnail>
 <duration>802</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -538,8 +538,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/okcDH3ua-720.jpg</smallThumbnail>
 <duration>1044</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -553,8 +553,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/EOKBHv4V-720.jpg</smallThumbnail>
 <duration>582</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -568,8 +568,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/QBuE6osl-720.jpg</smallThumbnail>
 <duration>722</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -583,8 +583,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/XMma2ld5-720.jpg</smallThumbnail>
 <duration>1506</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -598,8 +598,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/WXjhuCeQ-720.jpg</smallThumbnail>
 <duration>965</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -613,8 +613,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/joSA8jRl-720.jpg</smallThumbnail>
 <duration>1225</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -628,8 +628,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/hqydVTjY-720.jpg</smallThumbnail>
 <duration>967</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -643,8 +643,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/0MVIdLaC-720.jpg</smallThumbnail>
 <duration>907</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -658,8 +658,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/jNymxqrU-720.jpg</smallThumbnail>
 <duration>1383</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -673,8 +673,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/uTOjmk0W-720.jpg</smallThumbnail>
 <duration>1000</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -688,8 +688,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/iHD4Tdg4-720.jpg</smallThumbnail>
 <duration>644</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -703,8 +703,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/q6ysKg5R-720.jpg</smallThumbnail>
 <duration>726</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -718,8 +718,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/8S5MYtHR-720.jpg</smallThumbnail>
 <duration>840</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -733,8 +733,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/2T9YYQUd-720.jpg</smallThumbnail>
 <duration>1348</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -748,8 +748,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/tCVGIR6X-720.jpg</smallThumbnail>
 <duration>1134</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -763,8 +763,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/1ZBH9hlU-720.jpg</smallThumbnail>
 <duration>1278</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -778,8 +778,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/GY2DBdP4-720.jpg</smallThumbnail>
 <duration>2105</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -793,8 +793,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/t2ydfAbw-720.jpg</smallThumbnail>
 <duration>494</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -808,8 +808,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/RO0sV8hm-720.jpg</smallThumbnail>
 <duration>1022</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -823,8 +823,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/O6vzSnO8-720.jpg</smallThumbnail>
 <duration>727</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -838,8 +838,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/IQh64ICZ-720.jpg</smallThumbnail>
 <duration>854</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -853,8 +853,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/4kvF79i7-720.jpg</smallThumbnail>
 <duration>1345</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -868,8 +868,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/DgFtshsj-720.jpg</smallThumbnail>
 <duration>1023</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -883,8 +883,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/MOfieJ6I-720.jpg</smallThumbnail>
 <duration>761</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -898,8 +898,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/agQ6cjXH-720.jpg</smallThumbnail>
 <duration>1238</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -913,8 +913,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/NZVlTwjJ-720.jpg</smallThumbnail>
 <duration>881</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -928,8 +928,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/SXmfIXI4-720.jpg</smallThumbnail>
 <duration>1071</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -943,8 +943,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/oyhYIkjA-720.jpg</smallThumbnail>
 <duration>1119</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -958,8 +958,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/qnywJliD-720.jpg</smallThumbnail>
 <duration>616</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -973,8 +973,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/JIuceeAy-720.jpg</smallThumbnail>
 <duration>1315</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -988,8 +988,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/5EQzs4zS-720.jpg</smallThumbnail>
 <duration>861</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1003,8 +1003,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/nFrd6fY0-720.jpg</smallThumbnail>
 <duration>797</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1018,8 +1018,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/3WVb4Pf5-720.jpg</smallThumbnail>
 <duration>658</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1033,8 +1033,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/jhX8OXrB-720.jpg</smallThumbnail>
 <duration>851</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1048,8 +1048,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/gUtmw4NA-720.jpg</smallThumbnail>
 <duration>894</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1063,8 +1063,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/VhA0CmsV-720.jpg</smallThumbnail>
 <duration>805</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1078,8 +1078,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/2NsS1EPl-720.jpg</smallThumbnail>
 <duration>763</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1093,8 +1093,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/88IvHgZL-720.jpg</smallThumbnail>
 <duration>570</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1108,8 +1108,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/uLdQO3k2-720.jpg</smallThumbnail>
 <duration>1238</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1123,8 +1123,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/caIdG3q0-720.jpg</smallThumbnail>
 <duration>1018</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1138,8 +1138,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/mcGCkwUX-720.jpg</smallThumbnail>
 <duration>667</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1153,8 +1153,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/69vzXzSI-720.jpg</smallThumbnail>
 <duration>946</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1168,8 +1168,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/sL6D69xn-720.jpg</smallThumbnail>
 <duration>735</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1183,8 +1183,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/f8BYg7so-720.jpg</smallThumbnail>
 <duration>608</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1198,8 +1198,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/R6pt3N2q-720.jpg</smallThumbnail>
 <duration>767</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1213,8 +1213,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/5oPIT7zG-720.jpg</smallThumbnail>
 <duration>772</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1228,8 +1228,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/ft1Y4cMl-720.jpg</smallThumbnail>
 <duration>588</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1243,8 +1243,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/sRoSqmT6-720.jpg</smallThumbnail>
 <duration>894</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1258,8 +1258,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/nPzoD4XB-720.jpg</smallThumbnail>
 <duration>628</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1273,8 +1273,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/irHRD7o3-720.jpg</smallThumbnail>
 <duration>1076</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1288,8 +1288,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/5byVSjAv-720.jpg</smallThumbnail>
 <duration>508</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1303,8 +1303,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/3tXdrW3j-720.jpg</smallThumbnail>
 <duration>940</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1318,8 +1318,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/jqCrbfmB-720.jpg</smallThumbnail>
 <duration>552</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1333,8 +1333,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/WwfFdz3l-720.jpg</smallThumbnail>
 <duration>720</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1348,8 +1348,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/xCPK3viY-720.jpg</smallThumbnail>
 <duration>1610</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1363,8 +1363,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/aT2SculS-720.jpg</smallThumbnail>
 <duration>793</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1378,8 +1378,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/5Z9y3dNs-720.jpg</smallThumbnail>
 <duration>905</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1393,8 +1393,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/euO2eiA3-720.jpg</smallThumbnail>
 <duration>692</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1408,8 +1408,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/aMOY0Mip-720.jpg</smallThumbnail>
 <duration>603</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1423,8 +1423,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/p90COAhL-720.jpg</smallThumbnail>
 <duration>503</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1438,8 +1438,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/mDvW7KCQ-720.jpg</smallThumbnail>
 <duration>1038</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1453,8 +1453,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/2ItMYyHs-720.jpg</smallThumbnail>
 <duration>830</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1468,8 +1468,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/szNfoCcb-720.jpg</smallThumbnail>
 <duration>1046</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1483,8 +1483,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/w4xAqfdz-720.jpg</smallThumbnail>
 <duration>645</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1498,8 +1498,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/muh3KF13-720.jpg</smallThumbnail>
 <duration>705</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1513,8 +1513,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/AlkutvII-720.jpg</smallThumbnail>
 <duration>636</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1528,8 +1528,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/WgMcNttt-720.jpg</smallThumbnail>
 <duration>704</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1543,8 +1543,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/w7JVjQoJ-720.jpg</smallThumbnail>
 <duration>582</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1558,8 +1558,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/1ELaxkJ4-720.jpg</smallThumbnail>
 <duration>500</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1573,8 +1573,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/b0v3uI21-720.jpg</smallThumbnail>
 <duration>472</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1588,8 +1588,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/FcDhf4J5-720.jpg</smallThumbnail>
 <duration>844</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1603,8 +1603,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/U3vDmRaT-720.jpg</smallThumbnail>
 <duration>717</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1618,8 +1618,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/tORTJPDw-720.jpg</smallThumbnail>
 <duration>848</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1633,8 +1633,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/GN2K0pgI-720.jpg</smallThumbnail>
 <duration>477</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1648,8 +1648,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/Ul2RVtG6-720.jpg</smallThumbnail>
 <duration>755</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1663,8 +1663,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/aVkntu6W-720.jpg</smallThumbnail>
 <duration>855</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1678,8 +1678,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/ieCOo5Yn-720.jpg</smallThumbnail>
 <duration>1020</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1693,8 +1693,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/6hvaouqZ-720.jpg</smallThumbnail>
 <duration>604</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1708,8 +1708,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/yPll14q5-720.jpg</smallThumbnail>
 <duration>693</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1723,8 +1723,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/K9o9pyJt-720.jpg</smallThumbnail>
 <duration>503</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1738,8 +1738,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/EjVnWE2F-720.jpg</smallThumbnail>
 <duration>585</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1753,8 +1753,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/5uYzsPtK-720.jpg</smallThumbnail>
 <duration>1288</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1768,8 +1768,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/EWxlxme7-720.jpg</smallThumbnail>
 <duration>1338</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1783,8 +1783,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/slwMITH4-720.jpg</smallThumbnail>
 <duration>618</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1798,8 +1798,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/9NNaxibS-720.jpg</smallThumbnail>
 <duration>1026</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1813,8 +1813,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/yVSKC84W-720.jpg</smallThumbnail>
 <duration>674</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1828,8 +1828,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/Tda0yJ7k-720.jpg</smallThumbnail>
 <duration>768</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1843,8 +1843,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/bqgNGupn-720.jpg</smallThumbnail>
 <duration>620</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1858,8 +1858,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/J1bHi9rz-720.jpg</smallThumbnail>
 <duration>792</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1873,8 +1873,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/iF6JBh84-720.jpg</smallThumbnail>
 <duration>535</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1888,8 +1888,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/8Hhqg3Zj-720.jpg</smallThumbnail>
 <duration>668</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1903,8 +1903,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/EijVYgaS-720.jpg</smallThumbnail>
 <duration>530</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1918,8 +1918,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/uIQd3139-720.jpg</smallThumbnail>
 <duration>371</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1933,8 +1933,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/RtqCPu8E-720.jpg</smallThumbnail>
 <duration>788</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1948,8 +1948,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/O1IKeYH0-720.jpg</smallThumbnail>
 <duration>524</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1963,8 +1963,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/La9WLQBD-720.jpg</smallThumbnail>
 <duration>603</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1978,8 +1978,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/a9x0gJN5-720.jpg</smallThumbnail>
 <duration>884</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -1993,8 +1993,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/P4Ocn5yz-720.jpg</smallThumbnail>
 <duration>564</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2008,8 +2008,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/Y1KnfQ2e-720.jpg</smallThumbnail>
 <duration>765</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2023,8 +2023,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/B1mlp7QY-720.jpg</smallThumbnail>
 <duration>967</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2038,8 +2038,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/mpDhgU9b-720.jpg</smallThumbnail>
 <duration>563</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2053,8 +2053,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/edbwOELh-720.jpg</smallThumbnail>
 <duration>353</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2068,8 +2068,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/rSgkKsW8-720.jpg</smallThumbnail>
 <duration>587</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2083,8 +2083,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/QWWNtFDM-720.jpg</smallThumbnail>
 <duration>1135</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2098,8 +2098,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/qjWvTyBR-720.jpg</smallThumbnail>
 <duration>270</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2113,8 +2113,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/yPR8FuSy-720.jpg</smallThumbnail>
 <duration>226</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2128,8 +2128,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/Yh3SNitM-720.jpg</smallThumbnail>
 <duration>428</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2143,8 +2143,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/OiHscRfr-720.jpg</smallThumbnail>
 <duration>402</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2158,8 +2158,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/TppSJTS9-720.jpg</smallThumbnail>
 <duration>428</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2173,8 +2173,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/YvGtfka0-720.jpg</smallThumbnail>
 <duration>272</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2188,8 +2188,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/4tVqrOBr-720.jpg</smallThumbnail>
 <duration>259</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2203,8 +2203,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/ijhMmGkx-720.jpg</smallThumbnail>
 <duration>454</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2218,8 +2218,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/fOWEsTIb-720.jpg</smallThumbnail>
 <duration>249</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2233,8 +2233,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/G12qrFHC-720.jpg</smallThumbnail>
 <duration>741</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2248,8 +2248,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/bu1r6wif-720.jpg</smallThumbnail>
 <duration>885</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2263,8 +2263,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/8HXYzVRN-720.jpg</smallThumbnail>
 <duration>747</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
@@ -2278,8 +2278,8 @@
 <smallThumbnail>http://content.jwplatform.com/thumbs/ptx1NEmH-720.jpg</smallThumbnail>
 <duration>693</duration>
 <categories>
-<category id="1001" activeInd="Y"/>
 <category id="1002" activeInd="Y"/>
+<category id="7" activeInd="Y"/>
 </categories>
 </item>
 
