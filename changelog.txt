@@ -2,6 +2,9 @@
 
 - project picked up by esc0rtd3w
 - fixed "xbmcaddon" import issue
+- fixed all video links
+- rewrote all xml with working info
+- added all available categories to xml
 
 [B]Version 2.0.2[/B]
 
