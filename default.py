@@ -382,10 +382,10 @@ def getContent():
 
 def getCategories(content,id):
     items = []
-    if id=="":
-        listitem=xbmcgui.ListItem("- All Videos Sorted By Date -", iconImage="DefaultFolder.png")
-        url = build_url({'id': "all"})
-        items.append((url, listitem, True))
+    #if id=="":
+    #    listitem=xbmcgui.ListItem("- All Videos Sorted By Date -", iconImage="DefaultFolder.png")
+    #    url = build_url({'id': "all"})
+    #    items.append((url, listitem, True))
 
     if id=="all":
         xbmcplugin.addSortMethod(addon_handle, xbmcplugin.SORT_METHOD_DATE)
