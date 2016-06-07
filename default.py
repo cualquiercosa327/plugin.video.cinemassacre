@@ -68,8 +68,6 @@ def getSignature(key, msg):
     return base64.b64encode(hmac.new(key, msg, hashlib.sha1).digest())
 
 def buildUrl(query):
-    #logPlus(base, "base: ")
-    #logPlus(query, "query: ")
     return base_url + '?' + urllib.urlencode(query)
 
 # Default Log
@@ -89,25 +87,16 @@ def getContentFromXML():
     # signature=getSignature(os.urandom(20),os.urandom(20))
     # timestamp=datetime.now().strftime("%Y-%m-%dT%H:%M:%S.000Z")
     #URL="http://cinemassacre.screenwavemedia.com/AppServer/SWMAppFeed.php?appname=Cinemassacre&appversion=1.5.8&devicetoken="+devicetoken+"&deviceuid="+deviceuid+"&lastupdateid=0&timestamp="+timestamp+"&signature="+signature
-    URL = site_base + "category/avgn/avgnepisodes/page/1/"
-    #cache.set(URL, "notCOOL")
-    logPlus(URL, "URL: ")
-    req = urllib2.Request(URL)
-    req.add_header('User-Agent','Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0')
-    #logPlus(req, "req: ")
-    response = urllib2.urlopen(req)
-    #logPlus(response, "response: ")
-    xml = response.read()
-    #logPlus(xml, "xml_1: ")
-    response.close()
+    #req = urllib2.Request(URL)
+    #response = urllib2.urlopen(req)
+    #xml = response.read()
+    #response.close()
 	
     addon = xbmcaddon.Addon()
     addon_path = addon.getAddonInfo('path')
     _path = os.path.join(addon_path,'site.xml')
     f = open(_path, 'r')
     xml = f.read()
-    #logPlus(xml, "xml_2: ")
-    #logPlus(xmltodict.parse(xml)['document'], "xml_3: ")
     return xmltodict.parse(xml)['document']
 
 
