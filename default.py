@@ -257,106 +257,106 @@ def dumpSite():
     pageDump(site_base + "category/mikevideos", "3")
 	
     # Bootsy Beats
-    pageDump(site_base + "category/bootsy-beats", "1")
+    #pageDump(site_base + "category/bootsy-beats", "1")
 	
     # James Gaming Videos
-    pageDump(site_base + "category/jamesgamingvideos", "1")
+    #pageDump(site_base + "category/jamesgamingvideos", "1")
 	
     # Other Gaming Videos
-    pageDump(site_base + "category/othergaming-videos", "1")
+    #pageDump(site_base + "category/othergaming-videos", "1")
 	
     # Game Collection
-    pageDump(site_base + "2007/03/22/game-collection", "1")
+    #pageDump(site_base + "2007/03/22/game-collection", "1")
 	
     # Movie Reviews A-Z
-    pageDump(site_base + "category/moviereviewsatoz", "1")
-    pageDump(site_base + "category/moviereviewsatoz", "2")
-    pageDump(site_base + "category/moviereviewsatoz", "3")
-    pageDump(site_base + "category/moviereviewsatoz", "4")
-    pageDump(site_base + "category/moviereviewsatoz", "5")
-    pageDump(site_base + "category/moviereviewsatoz", "6")
-    pageDump(site_base + "category/moviereviewsatoz", "7")
-    pageDump(site_base + "category/moviereviewsatoz", "8")
-    pageDump(site_base + "category/moviereviewsatoz", "9")
-    pageDump(site_base + "category/moviereviewsatoz", "10")
-    pageDump(site_base + "category/moviereviewsatoz", "11")
-    pageDump(site_base + "category/moviereviewsatoz", "12")
-    pageDump(site_base + "category/moviereviewsatoz", "13")
-    pageDump(site_base + "category/moviereviewsatoz", "14")
-    pageDump(site_base + "category/moviereviewsatoz", "15")
+    #pageDump(site_base + "category/moviereviewsatoz", "1")
+    #pageDump(site_base + "category/moviereviewsatoz", "2")
+    #pageDump(site_base + "category/moviereviewsatoz", "3")
+    #pageDump(site_base + "category/moviereviewsatoz", "4")
+    #pageDump(site_base + "category/moviereviewsatoz", "5")
+    #pageDump(site_base + "category/moviereviewsatoz", "6")
+    #pageDump(site_base + "category/moviereviewsatoz", "7")
+    #pageDump(site_base + "category/moviereviewsatoz", "8")
+    #pageDump(site_base + "category/moviereviewsatoz", "9")
+    #pageDump(site_base + "category/moviereviewsatoz", "10")
+    #pageDump(site_base + "category/moviereviewsatoz", "11")
+    #pageDump(site_base + "category/moviereviewsatoz", "12")
+    #pageDump(site_base + "category/moviereviewsatoz", "13")
+    #pageDump(site_base + "category/moviereviewsatoz", "14")
+    #pageDump(site_base + "category/moviereviewsatoz", "15")
 	
     # Top Tens
-    pageDump(site_base + "category/moviereviews/top-tens", "1")
+    #pageDump(site_base + "category/moviereviews/top-tens", "1")
 	
     # Animation Related
-    pageDump(site_base + "category/moviereviews/animation-moviereviews", "1")
+    #pageDump(site_base + "category/moviereviews/animation-moviereviews", "1")
 	
     # Commentaries
-    pageDump(site_base + "category/moviereviews/commentaries", "1")
+    #pageDump(site_base + "category/moviereviews/commentaries", "1")
 	
     # Interviews
-    pageDump(site_base + "category/moviereviews/interviews", "1")
+    #pageDump(site_base + "category/moviereviews/interviews", "1")
 	
     # Location Tours
-    pageDump(site_base + "category/location-tours", "1")
+    #pageDump(site_base + "category/location-tours", "1")
 	
     # Monster Madness
-    pageDump(site_base + "category/moviereviews/monstermadness", "1")
+    #pageDump(site_base + "category/moviereviews/monstermadness", "1")
 	
     # Trivia Videos
-    pageDump(site_base + "category/trivia-videos", "1")
+    #pageDump(site_base + "category/trivia-videos", "1")
 	
     # Other Movie Related Videos
-    pageDump(site_base + "category/othermovierelatedvideos", "1")
+    #pageDump(site_base + "category/othermovierelatedvideos", "1")
 	
     # Original Films Main
-    pageDump(site_base + "category/films", "1")
-    pageDump(site_base + "category/films", "2")
-    pageDump(site_base + "category/films", "3")
-    pageDump(site_base + "category/films", "4")
+    #pageDump(site_base + "category/films", "1")
+    #pageDump(site_base + "category/films", "2")
+    #pageDump(site_base + "category/films", "3")
+    #pageDump(site_base + "category/films", "4")
 	
     # Favorites
-    pageDump(site_base + "category/films/favorites", "1")
+    #pageDump(site_base + "category/films/favorites", "1")
 	
     # Animation
-    pageDump(site_base + "category/films/animation", "1")
+    #pageDump(site_base + "category/films/animation", "1")
 	
     # Horror Films
-    pageDump(site_base + "category/films/horror-films", "1")
-    pageDump(site_base + "category/films/horror-films", "2")
+    #pageDump(site_base + "category/films/horror-films", "1")
+    #pageDump(site_base + "category/films/horror-films", "2")
 	
     # Comedy
     pageDump(site_base + "category/films/comedy", "1")
 	
     # 48-Hour Films
-    pageDump(site_base + "category/films/48-hour-films", "1")
+    #pageDump(site_base + "category/films/48-hour-films", "1")
 	
     # Other
-    pageDump(site_base + "category/films/other", "1")
+    #pageDump(site_base + "category/films/other", "1")
 	
     # Music Main
-    pageDump(site_base + "category/music-2", "1")
+    #pageDump(site_base + "category/music-2", "1")
 	
     # Audio Slaughter
-    pageDump(site_base + "category/music-2/audio-slaughter", "1")
+    #pageDump(site_base + "category/music-2/audio-slaughter", "1")
 	
     # Kyle Justin
-    pageDump(site_base + "category/music-2/kylejustin", "1")
+    #pageDump(site_base + "category/music-2/kylejustin", "1")
 	
     # Name That Tune
-    pageDump(site_base + "category/music-2/namethattune", "1")
+    #pageDump(site_base + "category/music-2/namethattune", "1")
 	
     # Site Main
-    pageDump(site_base + "category/site-2", "1")
+    #pageDump(site_base + "category/site-2", "1")
 	
     # Articles
-    pageDump(site_base + "category/site-2/featuredarticles", "1")
+    #pageDump(site_base + "category/site-2/featuredarticles", "1")
 	
     # Appearances
-    pageDump(site_base + "category/site-2/appearances", "1")
+    #pageDump(site_base + "category/site-2/appearances", "1")
 	
     # Misc Videos
-    pageDump(site_base + "category/site-2/misc-videos", "1")
+    #pageDump(site_base + "category/site-2/misc-videos", "1")
 
 
 
