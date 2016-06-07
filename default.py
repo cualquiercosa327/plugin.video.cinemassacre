@@ -9,25 +9,27 @@
 # fanart.jpg source: http://the-great-pipmax.deviantart.com/art/cinemassacre-chainsaw-camera-386865336
 
 
+import base64
+import binascii
+import hashlib
+import hmac
+import os
+import re
 import sys
-import xbmc
-import xbmcgui
-import xbmcplugin
-import xbmcaddon
+import time
 import urllib
 import urllib2
 import urlparse
-import hmac
-import hashlib
-import base64
-import os
-import binascii
-import time
+import xbmc
+import xbmcaddon
+import xbmcgui
+import xbmcplugin
 import xmltodict
-import re
 
 from datetime import datetime, date
 from types import *
+
+# Importing BeautifulSoup
 from bs4 import *
 
 base_url = sys.argv[0]
