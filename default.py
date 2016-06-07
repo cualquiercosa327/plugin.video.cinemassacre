@@ -47,7 +47,7 @@ except:
 # cache for one hour
 cache = StorageServer.StorageServer(PLUGIN_NAME, 1)
 
-cache.table_name = "PLUGIN_NAME"
+cache.table_name = PLUGIN_NAME
 #cache.set("some_string", "string")
 #save_data = { "some_string": "string", "some_int": 1234, "some_dict": repr({ "our": { "dictionary": [] } }) }
 #cache.setMulti("pre-", save_data)
