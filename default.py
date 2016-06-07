@@ -183,32 +183,34 @@ def getCategoriesFromXML(content,id):
     xbmcplugin.addDirectoryItems(addon_handle,items)
 	
 
-def siteDump(value):
+def pageDump(web_url, page_num):
 	
-    #f = urllib.urlopen(value)
-    #html = f.read()
-	
-    req = urllib2.Request(value, headers={ 'User-Agent': 'CasperTheFriendlyGhost/v1.0' })
+    req = urllib2.Request(web_url + "/page/" + page_num, headers={ 'User-Agent': 'CasperTheFriendlyGhost/v1.0' })
     html = urllib2.urlopen(req).read()
 
     soup = BeautifulSoup(html, "html.parser")
-    #logPlus(soup, "soup: ")
 
     for html in soup.find_all("div", {"class": "archiveitem"}):
         temp_grab = (html.get('Permanent'))
         #tempGrab = findSections(html)
 		
-        #logPlus(value, "value: ")
+        #logPlus(web_url, "web_url: ")
         #logPlus(html, "html: ")
         #logPlus(temp_grab, "temp_grab: ")
-        #found_video_link = soup.find("archiveitem")
-        #logPlus(found_video_link, "found_video_link: ")
-        item_blob = html
-        logPlus(item_blob, "item_blob: ")
+		
+    # Get "link" for XML Output
+    for temp_grab in soup.find_all('a'):
+        temp_link = (temp_grab.get('href'))
+        logPlus(temp_link, "temp_link: ")
+		
+    # Get "smallThumbnail" for XML Output
+    for temp_grab in soup.find_all('img'):
+        temp_small_thumbnail = (temp_grab.get('src'))
+        logPlus(temp_small_thumbnail, "temp_small_thumbnail: ")
 	
 	
-def findSections(value):
-    soup = BeautifulSoup(html, "html.parser")
+def findSections(source, text):
+    soup = BeautifulSoup(source, "html.parser")
     sections = soup.find_all("div", {"class": "archiveitem"})
     for sec in sections:
         fr = sec.find("Permanent")
@@ -218,7 +220,12 @@ def findSections(value):
 
 
 		
-siteDump(site_base + "category/avgn/avgnepisodes/page/1/")
+pageDump(site_base + "category/avgn/avgnepisodes", "1")
+pageDump(site_base + "category/avgn/avgnepisodes", "2")
+pageDump(site_base + "category/avgn/avgnepisodes", "3")
+pageDump(site_base + "category/avgn/avgnepisodes", "4")
+pageDump(site_base + "category/avgn/avgnepisodes", "5")
+pageDump(site_base + "category/avgn/avgnepisodes", "6")
 
 
 xbmcplugin.setContent(addon_handle, "episodes")
