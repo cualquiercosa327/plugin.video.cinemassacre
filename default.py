@@ -54,6 +54,9 @@ cache = StorageServer.StorageServer(PLUGIN_NAME, 1)
 #save_data = { "some_string": "string", "some_int": 1234, "some_dict": repr({ "our": { "dictionary": [] } }) }
 #cache.setMulti("pre-", save_data)
 
+def doNothing():
+    nothing=""
+
 # Youtube Video ID (MOSTLY OBSOLETE AS OF 2016)
 def videoIdYoutube(value):
     youtube_regex = (
@@ -74,11 +77,11 @@ def findValidLinks(value):
     # Get "Dated" URLs
     get_dated = (r'(\/\d\d\d\d\/\d\d\/\d\d\/)')
     #get_dated = (r'(\/\d\d\d\d\/\d\d\/\d\d\/)[^\d]')
-    temp_link = re.match(get_dated, value)
+    temp_link = re.findall(get_dated, value)
     logPlus(temp_link, "temp_link: ")
 	
-    if temp_link:
-        return temp_link.group(6)
+    #if temp_link:
+    #    return temp_link.group(6)
 
     return temp_link
 	
@@ -177,13 +180,39 @@ def getCategoriesFromXML(content, id):
 
     xbmcplugin.addDirectoryItems(addon_handle,items)
 	
+	
+def getTitle(data):
+
+    try:
+        #request = urllib2.Request(web_url + "/page/" + page_num, headers={ 'User-Agent': 'CasperTheFriendlyGhost/v1.0' })
+        #html = urllib2.urlopen(request).read()
+        #soup = BeautifulSoup(data, "html.parser")
+        #link = soup.find('a', 'title')
+        #value = link['href']
+        #logPlus(value, "value: ")
+
+        return {data}
+		
+
+    except:
+        error_msg = xbmcgui.Dialog()
+        error_msg.ok("Error!", "Could Not Get Title From HTML Source")
+		
 
 def pageDump(web_url, page_num):
 	
-    req = urllib2.Request(web_url + "/page/" + page_num, headers={ 'User-Agent': 'CasperTheFriendlyGhost/v1.0' })
-    html = urllib2.urlopen(req).read()
-
+    request = urllib2.Request(web_url + "/page/" + page_num, headers={ 'User-Agent': 'CasperTheFriendlyGhost/v1.0' })
+    html = urllib2.urlopen(request).read()
     soup = BeautifulSoup(html, "html.parser")
+	
+    #url= web_url + "/page/" + page_num
+    #get_html_src = urllib2.urlopen(request)
+    #soup = BeautifulSoup(get_html_src.read(), "html.parser")
+    #logPlus(soup, "soup: ")
+	
+    #blob_archiveitem = soup.find("div", {"class": "archiveitem"}).a.contents
+    #temp_grab=soup.find_all('href')
+    #logPlus(temp_grab, "temp_grab: ")
 
     for html in soup.find_all("div", {"class": "archiveitem"}):
         temp_grab = (html.get('Permanent'))
@@ -191,20 +220,22 @@ def pageDump(web_url, page_num):
 		
         #logPlus(web_url, "web_url: ")
         #logPlus(html, "html: ")
-        #logPlus(temp_grab, "temp_grab: ")
+        logPlus(html, "html: ")
 		
-        #findValidLinks(temp_grab)
+        #findValidLinks(html)
+        #getTitle(temp_grab)
+        #logPlus(getTitle(temp_grab), "getTitle: ")
 
 		
     # Get "link" for XML Output
-    for temp_grab in soup.find_all('a'):
-        temp_link = (temp_grab.get('href'))
-        logPlus(temp_link, "temp_link: ")
+    #for temp_grab in soup.find_all('a'):
+        #temp_link = (temp_grab.get('href'))
+        #logPlus(temp_link, "temp_link: ")
 		
     # Get "smallThumbnail" for XML Output
-    for temp_grab in soup.find_all('img'):
-        temp_small_thumbnail = (temp_grab.get('src'))
-        logPlus(temp_small_thumbnail, "temp_small_thumbnail: ")
+    #for temp_grab in soup.find_all('img'):
+        #temp_small_thumbnail = (temp_grab.get('src'))
+        #logPlus(temp_small_thumbnail, "temp_small_thumbnail: ")
 	
 	
 def findSections(source, text):
@@ -222,39 +253,39 @@ def dumpSite():
     
     # Angry Video Game Nerd
     pageDump(site_base + "category/avgn/avgnepisodes", "1")
-    pageDump(site_base + "category/avgn/avgnepisodes", "2")
-    pageDump(site_base + "category/avgn/avgnepisodes", "3")
-    pageDump(site_base + "category/avgn/avgnepisodes", "4")
-    pageDump(site_base + "category/avgn/avgnepisodes", "5")
-    pageDump(site_base + "category/avgn/avgnepisodes", "6")
+    #pageDump(site_base + "category/avgn/avgnepisodes", "2")
+    #pageDump(site_base + "category/avgn/avgnepisodes", "3")
+    #pageDump(site_base + "category/avgn/avgnepisodes", "4")
+    #pageDump(site_base + "category/avgn/avgnepisodes", "5")
+    #pageDump(site_base + "category/avgn/avgnepisodes", "6")
 	
     # James and Mike Mondays
-    pageDump(site_base + "category/jamesandmike", "1")
-    pageDump(site_base + "category/jamesandmike", "2")
-    pageDump(site_base + "category/jamesandmike", "3")
-    pageDump(site_base + "category/jamesandmike", "4")
-    pageDump(site_base + "category/jamesandmike", "5")
-    pageDump(site_base + "category/jamesandmike", "6")
-    pageDump(site_base + "category/jamesandmike", "7")
+    #pageDump(site_base + "category/jamesandmike", "1")
+    #pageDump(site_base + "category/jamesandmike", "2")
+    #pageDump(site_base + "category/jamesandmike", "3")
+    #pageDump(site_base + "category/jamesandmike", "4")
+    #pageDump(site_base + "category/jamesandmike", "5")
+    #pageDump(site_base + "category/jamesandmike", "6")
+    #pageDump(site_base + "category/jamesandmike", "7")
 	
     # Mike and Ryan
-    pageDump(site_base + "category/mikeryantalkaboutgames", "1")
+    #pageDump(site_base + "category/mikeryantalkaboutgames", "1")
 	
     # Mike and Bootsy
-    pageDump(site_base + "category/mike-bootsy", "1")
+    #pageDump(site_base + "category/mike-bootsy", "1")
 	
     # Board James
-    pageDump(site_base + "category/boardjames", "1")
-    pageDump(site_base + "category/boardjames", "2")
+    #pageDump(site_base + "category/boardjames", "1")
+    #pageDump(site_base + "category/boardjames", "2")
 	
     # You Know Whats Bullshit
-    pageDump(site_base + "category/ykwb", "1")
-    pageDump(site_base + "category/ykwb", "2")
+    #pageDump(site_base + "category/ykwb", "1")
+    #pageDump(site_base + "category/ykwb", "2")
 	
     # Mikes Gaming Videos
-    pageDump(site_base + "category/mikevideos", "1")
-    pageDump(site_base + "category/mikevideos", "2")
-    pageDump(site_base + "category/mikevideos", "3")
+    #pageDump(site_base + "category/mikevideos", "1")
+    #pageDump(site_base + "category/mikevideos", "2")
+    #pageDump(site_base + "category/mikevideos", "3")
 	
     # Bootsy Beats
     #pageDump(site_base + "category/bootsy-beats", "1")
@@ -326,7 +357,7 @@ def dumpSite():
     #pageDump(site_base + "category/films/horror-films", "2")
 	
     # Comedy
-    pageDump(site_base + "category/films/comedy", "1")
+    #pageDump(site_base + "category/films/comedy", "1")
 	
     # 48-Hour Films
     #pageDump(site_base + "category/films/48-hour-films", "1")
@@ -359,9 +390,10 @@ def dumpSite():
     #pageDump(site_base + "category/site-2/misc-videos", "1")
 
 
-
-dumpSite()
-
+try:
+    dumpSite()
+except:
+    doNothing()
 
 xbmcplugin.setContent(addon_handle, "episodes")
 id = ''.join(args.get('id', ""))
