@@ -215,7 +215,7 @@ def pageDump(web_url, page_num):
     #logPlus(temp_grab, "temp_grab: ")
 
     for html in soup.find_all("div", {"class": "archiveitem"}):
-        temp_grab = (html.get('Permanent'))
+        #temp_grab = (html.get('Permanent'))
         #tempGrab = findSections(html)
 		
         #logPlus(web_url, "web_url: ")
