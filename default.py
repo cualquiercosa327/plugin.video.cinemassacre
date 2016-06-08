@@ -215,6 +215,16 @@ def pageDump(web_url, page_num):
     #logPlus(temp_grab, "temp_grab: ")
 
     for html in soup.find_all("div", {"class": "archiveitem"}):
+	
+        # main_links = {}
+        # for element in html:
+            # main_links[element.a.get_text()] = {}
+        # logPlus(element, "element1: ")
+		
+        # letters[0].a["href"]
+        # for element in html:
+            # main_links[element.a.get_text()]["link"] = prefix + element.a["href"]
+        # logPlus(element, "element2: ")
         #temp_grab = (html.get('Permanent'))
         #tempGrab = findSections(html)
 		
@@ -238,6 +248,9 @@ def pageDump(web_url, page_num):
         #logPlus(temp_small_thumbnail, "temp_small_thumbnail: ")
 	
 	
+    
+	
+	
 def findSections(source, text):
 
     soup = BeautifulSoup(source, "html.parser")
@@ -251,59 +264,58 @@ def findSections(source, text):
 
 def dumpSite():
     
-    more_data = "0"
-    cur_page = "0"
-    max_page = "20"
+    # more_data = "0"
+    # cur_page = "0"
+    # max_page = "20"
 	
-    # By Date
-    cur_day = "0"
-    max_day = "31"
-    cur_month = "0"
-    max_month = "12"
-    cur_year = "2005"
-    max_year = "2016"
-    cur_date = "0"
-    max_date = max_year + "/" + max_month + "/" + max_day
+    # # By Date
+    # cur_day = "0"
+    # max_day = "31"
+    # cur_month = "0"
+    # max_month = "12"
+    # cur_year = "2005"
+    # max_year = "2016"
+    # cur_date = "0"
+    # max_date = max_year + "/" + max_month + "/" + max_day
 	
-    while cur_year <= max_year:
+    # while cur_year <= max_year:
 	
-        cur_day = cur_day + 1
+        # cur_day = cur_day + 1
 	
-        cur_date = cur_year + "/" + cur_month + "/" + cur_day
-        cur_link = site_base + "/" + cur_date + "/"
+        # cur_date = cur_year + "/" + cur_month + "/" + cur_day
+        # cur_link = site_base + "/" + cur_date + "/"
 		
-        if cur_day == max_day:
-            cur_month += 1
-            #break
+        # if cur_day == max_day:
+            # cur_month += 1
+            # #break
 		
-        if cur_month == max_month:
-            cur_year += 1
-            #break
+        # if cur_month == max_month:
+            # cur_year += 1
+            # #break
 		
-        if cur_year == max_year:
-            more_data = "1"
-        break
+        # if cur_year == max_year:
+            # more_data = "1"
+        # break
 			
-        # Advance Page Forward
-        cur_page += 1
+        # # Advance Page Forward
+        # cur_page += 1
 		
-        pageDump(site_base + "/" + cur_year + "/", cur_page)
-        pageDump(site_base + "/" + cur_year + "/" + cur_month + "/", cur_page)
-        pageDump(site_base + "/" + cur_year + "/" + cur_month + "/" + cur_day + "/", cur_page)
+        # pageDump(site_base + "/" + cur_year + "/", cur_page)
+        # pageDump(site_base + "/" + cur_year + "/" + cur_month + "/", cur_page)
+        # pageDump(site_base + "/" + cur_year + "/" + cur_month + "/" + cur_day + "/", cur_page)
 	
-        logPlus(cur_date, "cur_date: ")
-        logPlus(cur_link, "cur_link: ")
-        logPlus(cur_page, "cur_page: ")
-        logPlus(cur_day, "cur_day: ")
-        logPlus(cur_month, "cur_month: ")
-        logPlus(cur_year, "cur_year: ")
+        # logPlus(cur_date, "cur_date: ")
+        # logPlus(cur_link, "cur_link: ")
+        # logPlus(cur_page, "cur_page: ")
+        # logPlus(cur_day, "cur_day: ")
+        # logPlus(cur_month, "cur_month: ")
+        # logPlus(cur_year, "cur_year: ")
 	
 	
 	
-    
-    
+	
     # Angry Video Game Nerd
-    #pageDump(site_base + "category/avgn/avgnepisodes", "1")
+    pageDump(site_base + "category/avgn/avgnepisodes", "1")
     #pageDump(site_base + "category/avgn/avgnepisodes", "2")
     #pageDump(site_base + "category/avgn/avgnepisodes", "3")
     #pageDump(site_base + "category/avgn/avgnepisodes", "4")
