@@ -251,8 +251,56 @@ def findSections(source, text):
 
 def dumpSite():
     
+    more_data = "0"
+    cur_page = "0"
+    max_page = "20"
+	
+    # By Date
+    cur_day = "0"
+    max_day = "31"
+    cur_month = "0"
+    max_month = "12"
+    cur_year = "2005"
+    max_year = "2016"
+    cur_date = "0"
+    max_date = max_year + "/" + max_month + "/" + max_day
+	
+    while cur_year <= max_year:
+	
+        cur_day = cur_year + 1
+	
+        cur_date = cur_year + "/" + cur_month + "/" + cur_day
+        cur_link = site_base + "/" + cur_date + "/"
+		
+        if cur_day == max_day:
+            cur_month += 1
+            #break
+		
+        if cur_month == max_month:
+            cur_year += 1
+            #break
+		
+        if cur_year == max_year:
+            more_data = "1"
+        break
+		
+        pageDump(site_base + "/" + cur_year + "/", cur_page)
+        pageDump(site_base + "/" + cur_year + "/" + cur_month + "/", cur_page)
+        pageDump(site_base + "/" + cur_year + "/" + cur_month + "/" + cur_day + "/", cur_page)
+	
+        logPlus(cur_date, "cur_date: ")
+        logPlus(cur_link, "cur_link: ")
+        logPlus(cur_page, "cur_page: ")
+        logPlus(cur_day, "cur_day: ")
+        logPlus(cur_month, "cur_month: ")
+        logPlus(cur_year, "cur_year: ")
+	
+	
+	
+    
+    
     # Angry Video Game Nerd
-    pageDump(site_base + "category/avgn/avgnepisodes", "1")
+    #pageDump(site_base + "category/avgn/avgnepisodes", "1")
     #pageDump(site_base + "category/avgn/avgnepisodes", "2")
     #pageDump(site_base + "category/avgn/avgnepisodes", "3")
     #pageDump(site_base + "category/avgn/avgnepisodes", "4")
