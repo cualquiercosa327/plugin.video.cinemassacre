@@ -267,7 +267,7 @@ def dumpSite():
 	
     while cur_year <= max_year:
 	
-        cur_day = cur_year + 1
+        cur_day = cur_day + 1
 	
         cur_date = cur_year + "/" + cur_month + "/" + cur_day
         cur_link = site_base + "/" + cur_date + "/"
@@ -283,6 +283,9 @@ def dumpSite():
         if cur_year == max_year:
             more_data = "1"
         break
+			
+        # Advance Page Forward
+        cur_page += 1
 		
         pageDump(site_base + "/" + cur_year + "/", cur_page)
         pageDump(site_base + "/" + cur_year + "/" + cur_month + "/", cur_page)
