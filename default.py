@@ -211,14 +211,33 @@ def pageDump(web_url, page_num):
     response.close()
 
     soup = BeautifulSoup(output, "html.parser")
-    episodes = soup.findAll("div", {"class": "archiveitem"})
+    #episodes = soup.findAll("div", {"class": "archiveitem"})
+    episodes = soup.findAll("div", class_="archiveitem")
 	
-    return episodes
+    list = {}
+    for element in episodes:
+        list[element.a["href"]] = {}
+	
+    #episodes[0].a["href"]
+    #episodes[0].find(href="")
+		
+    return list
 	
 
-def getPageLinks(blob):
+def getPageLinks(page_dump):
 
-    doNothing = ""
+    #links = []
+    #html = page_dump
+    #logPlus(page_dump, "page_dump: ")
+    #soup = BeautifulSoup(page_dump, "html.parser")
+    #episode = soup.find("div", "archiveitem")
+    #logPlus(episode, "episode: ")
+    #links = [site_base + div.a["href"] for div in soup.findAll("div")]
+    #logPlus(links, "links: ")
+    #links = page_dump
+    return page_dump
+    #for link in links:
+      #return link
 
 
 def dumpSite():
@@ -275,8 +294,8 @@ def dumpSite():
 	
     # Angry Video Game Nerd
     #pageDump(site_base + "category/avgn/avgnepisodes", "1")
-    #test1 = getPageLinks(pageDump(site_base + "category/avgn/avgnepisodes", "1"))
-    test1 = pageDump(site_base + "category/avgn/avgnepisodes", "1")
+    test1 = getPageLinks(pageDump(site_base + "category/avgn/avgnepisodes", "1"))
+    #test1 = pageDump(site_base + "category/avgn/avgnepisodes", "1")
     logPlus(test1, "test1: ")
     
     #pageDump(site_base + "category/avgn/avgnepisodes", "2")
