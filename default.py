@@ -238,13 +238,11 @@ def processLinks(page_base, page_max):
         link = getPageLinks(site_base + page_base, str(page_counter))
         page_counter += 1
         links.append(link)
-			
-    #logPlus(links, "Links: ")
 	
     return links
 	
 	
-def processLinksLarge(page_base, page_start, page_max):
+def processLinksAlt(page_base, page_start, page_max):
 
     page_counter = page_start
     links = []
@@ -252,8 +250,6 @@ def processLinksLarge(page_base, page_start, page_max):
         link = getPageLinks(site_base + page_base, str(page_counter))
         page_counter += 1
         links.append(link)
-			
-    #logPlus(links, "Links: ")
 	
     return links
 	
@@ -350,10 +346,8 @@ def dumpSite():
     #logPlus(links_ogv, "Links (GAMES -> Other Gaming Videos): ")
 	
     # Movie Reviews A-Z
-    links_mraz1 = processLinksLarge("category/moviereviewsatoz", 1, 10)
-    #links_mraz2 = processLinksLarge("category/moviereviewsatoz", 11, 17)
-    logPlus(links_mraz1, "Links (MOVIES -> Movie Reviews A-Z) Part 1: ")
-    #logPlus(links_mraz2, "Links (MOVIES -> Movie Reviews A-Z) Part 2: ")
+    links_mraz = processLinks("category/moviereviewsatoz", 13)
+    logPlus(links_mraz, "Links (MOVIES -> Movie Reviews A-Z): ")
 	
     # Top Tens
     links_mrtt = processLinks("category/moviereviews/top-tens", 1)
@@ -376,10 +370,8 @@ def dumpSite():
     #logPlus(links_mrlt, "Links (MOVIES -> Location Tours): ")
 	
     # Monster Madness
-    links_mrmm1 = processLinksLarge("category/moviereviews/monstermadness", 1, 10)
-    #links_mrmm2 = processLinksLarge("category/moviereviews/monstermadness", 11, 17)
-    logPlus(links_mrmm1, "Links (MOVIES -> Monster Madness) Part 1: ")
-    #logPlus(links_mrmm2, "Links (MOVIES -> Monster Madness) Part 2: ")
+    links_mrmm = processLinks("category/moviereviews/monstermadness", 12)
+    logPlus(links_mrmm, "Links (MOVIES -> Monster Madness): ")
 	
     # Trivia Videos
     links_mrtv = processLinks("category/moviereviews/trivia-videos", 1)
