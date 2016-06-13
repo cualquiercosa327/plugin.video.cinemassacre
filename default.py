@@ -72,16 +72,16 @@ def videoIdYoutube(value):
     return youtube_regex_match
 	
 	
-def findValidLinks(value):
+def findValidLinks(blob, type):
     
     # Get "Dated" URLs
     get_dated = (r'(\/\d\d\d\d\/\d\d\/\d\d\/)')
     #get_dated = (r'(\/\d\d\d\d\/\d\d\/\d\d\/)[^\d]')
-    temp_link = re.findall(get_dated, value)
-    logPlus(temp_link, "temp_link: ")
 	
-    #if temp_link:
-    #    return temp_link.group(6)
+    temp = re.compile(get_dated, re.DOTALL + re.MULTILINE + re.UNICODE)
+    temp_link = temp.findall(blob)
+    logPlus(temp, "temp: ")
+    logPlus(temp_link, "temp_link: ")
 
     return temp_link
 	
@@ -202,64 +202,23 @@ def getTitle(data):
 def pageDump(web_url, page_num):
 	
     request = urllib2.Request(web_url + "/page/" + page_num, headers={ 'User-Agent': 'CasperTheFriendlyGhost/v1.0' })
-    html = urllib2.urlopen(request).read()
-    soup = BeautifulSoup(html, "html.parser")
+    #blob = urllib2.urlopen(request).read()
+    #soup = BeautifulSoup(blob, "html.parser")
 	
-    #url= web_url + "/page/" + page_num
-    #get_html_src = urllib2.urlopen(request)
-    #soup = BeautifulSoup(get_html_src.read(), "html.parser")
-    #logPlus(soup, "soup: ")
-	
-    #blob_archiveitem = soup.find("div", {"class": "archiveitem"}).a.contents
-    #temp_grab=soup.find_all('href')
-    #logPlus(temp_grab, "temp_grab: ")
+    response = urllib2.urlopen(request)
+    output = response.read()
+    #logPlus(output, "output: ")
+    response.close()
 
-    for html in soup.find_all("div", {"class": "archiveitem"}):
+    soup = BeautifulSoup(output, "html.parser")
+    episodes = soup.findAll("div", {"class": "archiveitem"})
 	
-        # main_links = {}
-        # for element in html:
-            # main_links[element.a.get_text()] = {}
-        # logPlus(element, "element1: ")
-		
-        # letters[0].a["href"]
-        # for element in html:
-            # main_links[element.a.get_text()]["link"] = prefix + element.a["href"]
-        # logPlus(element, "element2: ")
-        #temp_grab = (html.get('Permanent'))
-        #tempGrab = findSections(html)
-		
-        #logPlus(web_url, "web_url: ")
-        #logPlus(html, "html: ")
-        logPlus(html, "html: ")
-		
-        #findValidLinks(html)
-        #getTitle(temp_grab)
-        #logPlus(getTitle(temp_grab), "getTitle: ")
+    return episodes
+	
 
-		
-    # Get "link" for XML Output
-    #for temp_grab in soup.find_all('a'):
-        #temp_link = (temp_grab.get('href'))
-        #logPlus(temp_link, "temp_link: ")
-		
-    # Get "smallThumbnail" for XML Output
-    #for temp_grab in soup.find_all('img'):
-        #temp_small_thumbnail = (temp_grab.get('src'))
-        #logPlus(temp_small_thumbnail, "temp_small_thumbnail: ")
-	
-	
-    
-	
-	
-def findSections(source, text):
+def getPageLinks(blob):
 
-    soup = BeautifulSoup(source, "html.parser")
-    sections = soup.find_all("div", {"class": "archiveitem"})
-    for sec in sections:
-        fr = sec.find("Permanent")
-        url, img = fr["href"], fr.find("img")["src"]
-        name, size =  sec.select("h3.title a")[0].text, sec.select("span.details")[0].text.split(None,1)[-1]
-        yield url, name, img,size
+    doNothing = ""
 
 
 def dumpSite():
@@ -315,7 +274,11 @@ def dumpSite():
 	
 	
     # Angry Video Game Nerd
-    pageDump(site_base + "category/avgn/avgnepisodes", "1")
+    #pageDump(site_base + "category/avgn/avgnepisodes", "1")
+    #test1 = getPageLinks(pageDump(site_base + "category/avgn/avgnepisodes", "1"))
+    test1 = pageDump(site_base + "category/avgn/avgnepisodes", "1")
+    logPlus(test1, "test1: ")
+    
     #pageDump(site_base + "category/avgn/avgnepisodes", "2")
     #pageDump(site_base + "category/avgn/avgnepisodes", "3")
     #pageDump(site_base + "category/avgn/avgnepisodes", "4")
