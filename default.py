@@ -515,10 +515,10 @@ def dumpPageAll():
 
 
 try:
+
     #dumpPageAll()
-    
-    logPlus(dumpPageShows("avgn"), "AVGN: ")
-    logPlus(dumpPageShows("jamm"), "JAMM: ")
+    logPlus(dumpPageShows("avgn"), "avgn")
+	
 except:
     doNothing()
 
