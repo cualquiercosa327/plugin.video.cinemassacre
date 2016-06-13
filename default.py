@@ -345,23 +345,44 @@ def dumpSite():
     logPlus(links_ykwb, "Links (SHOWS -> You Know Whats Bullshit): ")
 	
     # Mikes Gaming Videos
-    #pageDump(site_base + "category/mikevideos", "1")
-    #pageDump(site_base + "category/mikevideos", "2")
-    #pageDump(site_base + "category/mikevideos", "3")
+    links_mgv = []
+    links_mgv1 = getPageLinks(site_base + "category/mikevideos", "1")
+    links_mgv2 = getPageLinks(site_base + "category/mikevideos", "2")
+    links_mgv3 = getPageLinks(site_base + "category/mikevideos", "3")
+    links_mgv.append(links_mgv1)
+    links_mgv.append(links_mgv2)
+    links_mgv.append(links_mgv3)
+    logPlus(links_mgv, "Links (GAMES -> Mikes Gaming Videos): ")
 	
     # Bootsy Beats
-    #pageDump(site_base + "category/bootsy-beats", "1")
+    links_bb = []
+    links_bb1 = getPageLinks(site_base + "category/bootsy-beats", "1")
+    links_bb.append(links_bb1)
+    logPlus(links_bb, "Links (GAMES -> Bootsy Beats): ")
 	
     # James Gaming Videos
-    #pageDump(site_base + "category/jamesgamingvideos", "1")
+    links_jgv = []
+    links_jgv1 = getPageLinks(site_base + "category/jamesgamingvideos", "1")
+    links_jgv.append(links_jgv1)
+    logPlus(links_jgv, "Links (GAMES -> James Gaming Videos): ")
 	
     # Other Gaming Videos
-    #pageDump(site_base + "category/othergaming-videos", "1")
+    links_ogv = []
+    links_ogv1 = getPageLinks(site_base + "category/othergaming-videos", "1")
+    links_ogv.append(links_ogv1)
+    logPlus(links_ogv, "Links (GAMES -> Other Gaming Videos): ")
 	
-    # Game Collection
-    #pageDump(site_base + "2007/03/22/game-collection", "1")
+    # Game Collection (NO VIDEOS!!!)
+    #links_gc = []
+    #links_gc1 = getPageLinks(site_base + "2007/03/22/game-collection", "1")
+    #links_gc.append(links_gc1)
+    #logPlus(links_gc, "Links (GAMES -> Game Collection): ")
 	
     # Movie Reviews A-Z
+    links_mraz = []
+    links_mraz1 = getPageLinks(site_base + "category/moviereviewsatoz", "1")
+    links_mraz.append(links_mraz1)
+    logPlus(links_mraz, "Links (MOVIES -> Movie Reviews A-Z): ")
     #pageDump(site_base + "category/moviereviewsatoz", "1")
     #pageDump(site_base + "category/moviereviewsatoz", "2")
     #pageDump(site_base + "category/moviereviewsatoz", "3")
