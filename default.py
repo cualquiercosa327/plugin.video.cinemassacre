@@ -284,7 +284,6 @@ def dumpSite():
 	
     # Angry Video Game Nerd
     links_avgn = []
-    #pageDump(site_base + "category/avgn/avgnepisodes", "1")
     links_avgn1 = getPageLinks(site_base + "category/avgn/avgnepisodes", "1")
     links_avgn2 = getPageLinks(site_base + "category/avgn/avgnepisodes", "2")
     links_avgn3 = getPageLinks(site_base + "category/avgn/avgnepisodes", "3")
@@ -297,36 +296,53 @@ def dumpSite():
     links_avgn.append(links_avgn4)
     links_avgn.append(links_avgn5)
     links_avgn.append(links_avgn6)
-    logPlus(links_avgn, "links_avgn: ")
-    
-    #pageDump(site_base + "category/avgn/avgnepisodes", "2")
-    #pageDump(site_base + "category/avgn/avgnepisodes", "3")
-    #pageDump(site_base + "category/avgn/avgnepisodes", "4")
-    #pageDump(site_base + "category/avgn/avgnepisodes", "5")
-    #pageDump(site_base + "category/avgn/avgnepisodes", "6")
+    logPlus(links_avgn, "Links (SHOWS -> Angry Video Game Nerd): ")
 	
     # James and Mike Mondays
-    #pageDump(site_base + "category/jamesandmike", "1")
-    #pageDump(site_base + "category/jamesandmike", "2")
-    #pageDump(site_base + "category/jamesandmike", "3")
-    #pageDump(site_base + "category/jamesandmike", "4")
-    #pageDump(site_base + "category/jamesandmike", "5")
-    #pageDump(site_base + "category/jamesandmike", "6")
-    #pageDump(site_base + "category/jamesandmike", "7")
+    links_jmm = []
+    links_jmm1 = getPageLinks(site_base + "category/jamesandmike", "1")
+    links_jmm2 = getPageLinks(site_base + "category/jamesandmike", "2")
+    links_jmm3 = getPageLinks(site_base + "category/jamesandmike", "3")
+    links_jmm4 = getPageLinks(site_base + "category/jamesandmike", "4")
+    links_jmm5 = getPageLinks(site_base + "category/jamesandmike", "5")
+    links_jmm6 = getPageLinks(site_base + "category/jamesandmike", "6")
+    links_jmm7 = getPageLinks(site_base + "category/jamesandmike", "7")
+    links_jmm.append(links_jmm1)
+    links_jmm.append(links_jmm2)
+    links_jmm.append(links_jmm3)
+    links_jmm.append(links_jmm4)
+    links_jmm.append(links_jmm5)
+    links_jmm.append(links_jmm6)
+    links_jmm.append(links_jmm7)
+    logPlus(links_jmm, "Links (SHOWS -> James and Mike Mondays): ")
 	
     # Mike and Ryan
-    #pageDump(site_base + "category/mikeryantalkaboutgames", "1")
+    links_mr = []
+    links_mr1 = getPageLinks(site_base + "category/mikeryantalkaboutgames", "1")
+    links_mr.append(links_mr1)
+    logPlus(links_mr, "Links (Mike and Ryan): ")
 	
     # Mike and Bootsy
-    #pageDump(site_base + "category/mike-bootsy", "1")
+    links_mb = []
+    links_mb1 = getPageLinks(site_base + "category/mike-bootsy", "1")
+    links_mb.append(links_mb1)
+    logPlus(links_mb, "Links (SHOWS -> Mike and Bootsy): ")
 	
     # Board James
-    #pageDump(site_base + "category/boardjames", "1")
-    #pageDump(site_base + "category/boardjames", "2")
+    links_bj = []
+    links_bj1 = getPageLinks(site_base + "category/boardjames", "1")
+    links_bj2 = getPageLinks(site_base + "category/boardjames", "2")
+    links_bj.append(links_bj1)
+    links_bj.append(links_bj2)
+    logPlus(links_bj, "Links (SHOWS -> Board James): ")
 	
     # You Know Whats Bullshit
-    #pageDump(site_base + "category/ykwb", "1")
-    #pageDump(site_base + "category/ykwb", "2")
+    links_ykwb = []
+    links_ykwb1 = getPageLinks(site_base + "category/ykwb", "1")
+    links_ykwb2 = getPageLinks(site_base + "category/ykwb", "2")
+    links_ykwb.append(links_ykwb1)
+    links_ykwb.append(links_ykwb2)
+    logPlus(links_ykwb, "Links (SHOWS -> You Know Whats Bullshit): ")
 	
     # Mikes Gaming Videos
     #pageDump(site_base + "category/mikevideos", "1")
