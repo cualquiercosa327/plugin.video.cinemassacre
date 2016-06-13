@@ -304,158 +304,204 @@ def dumpPageByDate():
         # logPlus(cur_year, "cur_year: ")
 	
 	
-def dumpPageShows():
+def dumpPageShows(show):
 	
     # Angry Video Game Nerd
-    links_avgn = processLinks("category/avgn/avgnepisodes", 6)
-    #logPlus(links_avgn, "Links (SHOWS -> Angry Video Game Nerd): ")
+    if show == "avgn":
+        links = processLinks("category/avgn/avgnepisodes", 6)
+        #logPlus(links, "Links (SHOWS -> Angry Video Game Nerd): ")
 	
     # James and Mike Mondays
-    links_jmm = processLinks("category/jamesandmike", 7)
-    #logPlus(links_jmm, "Links (SHOWS -> James and Mike Mondays): ")
+    if show == "jamm":
+        links = processLinks("category/jamesandmike", 7)
+        #logPlus(links, "Links (SHOWS -> James and Mike Mondays): ")
 	
     # Mike and Ryan
-    links_mr = processLinks("category/mikeryantalkaboutgames", 1)
-    #logPlus(links_mr, "Links (SHOWS -> Mike and Ryan): ")
+    if show == "mar":
+        links = processLinks("category/mikeryantalkaboutgames", 1)
+        #logPlus(links, "Links (SHOWS -> Mike and Ryan): ")
 	
     # Mike and Bootsy
-    links_mb = processLinks("category/mike-bootsy", 1)
-    #logPlus(links_mb, "Links (SHOWS -> Mike and Bootsy): ")
+    if show == "mab":
+        links = processLinks("category/mike-bootsy", 1)
+        #logPlus(links, "Links (SHOWS -> Mike and Bootsy): ")
 	
     # Board James
-    links_bj = processLinks("category/boardjames", 1)
-    #logPlus(links_bj, "Links (SHOWS -> Board James): ")
+    if show == "bj":
+        links = processLinks("category/boardjames", 1)
+        #logPlus(links, "Links (SHOWS -> Board James): ")
 	
     # You Know Whats Bullshit
-    links_ykwb = processLinks("category/ykwb", 2)
-    #logPlus(links_ykwb, "Links (SHOWS -> You Know Whats Bullshit): ")
+    if show == "ykwb":
+        links = processLinks("category/ykwb", 2)
+        #logPlus(links, "Links (SHOWS -> You Know Whats Bullshit): ")
+	
+    return links
 	
 	
-def dumpPageGames():
+def dumpPageGames(show):
 	
     # Mikes Gaming Videos
-    links_mgv = processLinks("category/mikevideos", 3)
-    #logPlus(links_mgv, "Links (GAMES -> Mikes Gaming Videos): ")
+    if show == "mgv":
+        links = processLinks("category/mikevideos", 3)
+        #logPlus(links, "Links (GAMES -> Mikes Gaming Videos): ")
 	
     # Bootsy Beats
-    links_bb = processLinks("category/bootsy-beats", 1)
-    #logPlus(links_bb, "Links (GAMES -> Bootsy Beats): ")
+    if show == "bb":
+        links = processLinks("category/bootsy-beats", 1)
+        #logPlus(links, "Links (GAMES -> Bootsy Beats): ")
 	
     # James Gaming Videos
-    links_jgv = processLinks("category/jamesgamingvideos", 1)
-    #logPlus(links_jgv, "Links (GAMES -> James Gaming Videos): ")
+    if show == "jgv":
+        links = processLinks("category/jamesgamingvideos", 1)
+        #logPlus(links, "Links (GAMES -> James Gaming Videos): ")
 	
     # Other Gaming Videos
-    links_ogv = processLinks("category/othergaming-videos", 1)
-    #logPlus(links_ogv, "Links (GAMES -> Other Gaming Videos): ")
+    if show == "ogv":
+        links = processLinks("category/othergaming-videos", 1)
+        #logPlus(links, "Links (GAMES -> Other Gaming Videos): ")
+	
+    return links
 	
 	
-def dumpPageMovies():
+def dumpPageMovies(show):
 	
     # Movie Reviews A-Z
-    links_mraz = processLinks("category/moviereviewsatoz", 13)
-    #logPlus(links_mraz, "Links (MOVIES -> Movie Reviews A-Z): ")
+    if show == "mraz":
+        links = processLinks("category/moviereviewsatoz", 13)
+        #logPlus(links, "Links (MOVIES -> Movie Reviews A-Z): ")
 	
     # Top Tens
-    links_mrtt = processLinks("category/moviereviews/top-tens", 1)
-    #logPlus(links_mrtt, "Links (MOVIES -> Top Tens): ")
+    if show == "mrtt":
+        links = processLinks("category/moviereviews/top-tens", 1)
+        #logPlus(links, "Links (MOVIES -> Top Tens): ")
 	
     # Animation Related
-    links_mrar = processLinks("category/moviereviews/animation-moviereviews", 1)
-    #logPlus(links_mrar, "Links (MOVIES -> Animation Related): ")
+    if show == "mrar":
+        links = processLinks("category/moviereviews/animation-moviereviews", 1)
+        #logPlus(links, "Links (MOVIES -> Animation Related): ")
 	
     # Commentaries
-    links_mrc = processLinks("category/moviereviews/commentaries", 1)
-    #logPlus(links_mrc, "Links (MOVIES -> Commentaries): ")
+    if show == "mrc":
+        links = processLinks("category/moviereviews/commentaries", 1)
+        #logPlus(links, "Links (MOVIES -> Commentaries): ")
 	
     # Interviews
-    links_mri = processLinks("category/moviereviews/interviews", 1)
-    #logPlus(links_mri, "Links (MOVIES -> Interviews): ")
+    if show == "mri":
+        links = processLinks("category/moviereviews/interviews", 1)
+        #logPlus(links, "Links (MOVIES -> Interviews): ")
 	
     # Location Tours
-    links_mrlt = processLinks("category/moviereviews/location-tours", 1)
-    #logPlus(links_mrlt, "Links (MOVIES -> Location Tours): ")
+    if show == "mrlt":
+        links = processLinks("category/moviereviews/location-tours", 1)
+        #logPlus(links, "Links (MOVIES -> Location Tours): ")
 	
     # Monster Madness
-    links_mrmm = processLinks("category/moviereviews/monstermadness", 12)
-    #logPlus(links_mrmm, "Links (MOVIES -> Monster Madness): ")
+    if show == "mrmm":
+        links_mrmm = processLinks("category/moviereviews/monstermadness", 12)
+        #logPlus(links_mrmm, "Links (MOVIES -> Monster Madness): ")
 	
     # Trivia Videos
-    links_mrtv = processLinks("category/moviereviews/trivia-videos", 1)
-    #logPlus(links_mrtv, "Links (MOVIES -> Trivia Videos): ")
+    if show == "mrtv":
+        links = processLinks("category/moviereviews/trivia-videos", 1)
+        #logPlus(links, "Links (MOVIES -> Trivia Videos): ")
 	
     # Other Movie Related Videos
-    links_mromrv = processLinks("category/moviereviews/othermovierelatedvideos", 1)
-    #logPlus(links_mromrv, "Links (MOVIES -> Other Movie Related Videos): ")
+    if show == "mromrv":
+        links = processLinks("category/moviereviews/othermovierelatedvideos", 1)
+        #logPlus(links, "Links (MOVIES -> Other Movie Related Videos): ")
+	
+    return links
 	
 	
-def dumpPageFilm():
+def dumpPageFilm(show):
 	
     # Original Films Main
-    links_film = processLinks("category/films", 4)
-    #logPlus(links_film, "Links (ORIGINAL FILMS -> Main): ")
+    if show == "film":
+        links = processLinks("category/films", 4)
+        #logPlus(links, "Links (ORIGINAL FILMS -> Main): ")
 	
     # Favorites
-    links_filmfav = processLinks("category/films/favorites", 1)
-    #logPlus(links_filmfav, "Links (ORIGINAL FILMS -> Favorites): ")
+    if show == "filmfav":
+        links = processLinks("category/films/favorites", 1)
+        #logPlus(links, "Links (ORIGINAL FILMS -> Favorites): ")
 	
     # Animation
-    links_filmani = processLinks("category/films/animation", 1)
-    #logPlus(links_filmani, "Links (ORIGINAL FILMS -> Animation): ")
+    if show == "filmani":
+        links = processLinks("category/films/animation", 1)
+        #logPlus(links, "Links (ORIGINAL FILMS -> Animation): ")
 	
     # Horror Films
-    links_filmhorror = processLinks("category/films/horror-films", 2)
-    #logPlus(links_filmhorror, "Links (ORIGINAL FILMS -> Horror Films): ")
+    if show == "filmhorror":
+        links = processLinks("category/films/horror-films", 2)
+        #logPlus(links, "Links (ORIGINAL FILMS -> Horror Films): ")
 	
     # Comedy
-    links_filmcomedy = processLinks("category/films/comedy", 1)
-    #logPlus(links_filmcomedy, "Links (ORIGINAL FILMS -> Comedy): ")
+    if show == "filmcomedy":
+        links = processLinks("category/films/comedy", 1)
+        #logPlus(links, "Links (ORIGINAL FILMS -> Comedy): ")
 	
     # 48-Hour Films
-    links_film48 = processLinks("category/films/48-hour-films", 1)
-    #logPlus(links_film48, "Links (ORIGINAL FILMS -> 48 Hour Films): ")
+    if show == "film48":
+        links = processLinks("category/films/48-hour-films", 1)
+        #logPlus(links, "Links (ORIGINAL FILMS -> 48 Hour Films): ")
 	
     # Other
-    links_filmother = processLinks("category/films/other", 1)
-    #logPlus(links_filmother, "Links (ORIGINAL FILMS -> Other): ")
+    if show == "filmother":
+        links = processLinks("category/films/other", 1)
+        #logPlus(links, "Links (ORIGINAL FILMS -> Other): ")
+	
+    return links
 	
 
-def dumpPageMusic():
+def dumpPageMusic(show):
 	
     # Music Main
-    links_mus = processLinks("category/music-2", 1)
-    #logPlus(links_mus, "Links (MUSIC -> Main): ")
+    if show == "mus":
+        links = processLinks("category/music-2", 1)
+        #logPlus(links, "Links (MUSIC -> Main): ")
 	
     # Audio Slaughter
-    links_musas = processLinks("category/music-2/audio-slaughter", 1)
-    #logPlus(links_musas, "Links (MUSIC -> Audio Slaughter): ")
+    if show == "musas":
+        links = processLinks("category/music-2/audio-slaughter", 1)
+        #logPlus(links, "Links (MUSIC -> Audio Slaughter): ")
 	
     # Kyle Justin
-    links_muskj = processLinks("category/music-2/kylejustin", 1)
-    #logPlus(links_muskj, "Links (MUSIC -> Kyle Justin): ")
+    if show == "musjk":
+        links = processLinks("category/music-2/kylejustin", 1)
+        #logPlus(links, "Links (MUSIC -> Kyle Justin): ")
 	
     # Name That Tune
-    links_musntt = processLinks("category/music-2/namethattune", 1)
-    #logPlus(links_musntt, "Links (MUSIC -> Name That Tune): ")
+    if show == "musntt":
+        links = processLinks("category/music-2/namethattune", 1)
+        #logPlus(links, "Links (MUSIC -> Name That Tune): ")
+	
+    return links
 	
 
-def dumpPageSite():
+def dumpPageSite(show):
     
     # Site Main
-    links_site = processLinks("category/site-2", 1)
-    #logPlus(links_site, "Links (SITE -> Main): ")
+    if show == "site":
+        links = processLinks("category/site-2", 1)
+        #logPlus(links, "Links (SITE -> Main): ")
 	
     # Articles
-    links_sitearticles = processLinks("category/site-2/featuredarticles", 1)
-    #logPlus(links_sitearticles, "Links (SITE -> Articles): ")
+    if show == "sitearticles":
+        links = processLinks("category/site-2/featuredarticles", 1)
+        #logPlus(links, "Links (SITE -> Articles): ")
 	
     # Appearances
-    links_siteappear = processLinks("category/site-2/appearances", 1)
-    #logPlus(links_siteappear, "Links (SITE -> Appearances): ")
+    if show == "siteappear":
+        links = processLinks("category/site-2/appearances", 1)
+        #logPlus(links, "Links (SITE -> Appearances): ")
 	
     # Misc Videos
-    links_sitemisc = processLinks("category/site-2/misc-videos", 1)
-    #logPlus(links_sitemisc, "Links (SITE -> Misc Videos): ")
+    if show == "sitemisc":
+        links = processLinks("category/site-2/misc-videos", 1)
+        #logPlus(links, "Links (SITE -> Misc Videos): ")
+	
+    return links
 	
 	
 def dumpPageAll():
@@ -469,7 +515,10 @@ def dumpPageAll():
 
 
 try:
-    dumpPageAll()
+    #dumpPageAll()
+    
+    logPlus(dumpPageShows("avgn"), "AVGN: ")
+    logPlus(dumpPageShows("jamm"), "JAMM: ")
 except:
     doNothing()
 
