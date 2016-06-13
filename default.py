@@ -199,7 +199,7 @@ def getTitle(data):
         error_msg.ok("Error!", "Could Not Get Title From HTML Source")
 		
 
-def pageDump(web_url, page_num):
+def getPageLinks(web_url, page_num):
 	
     request = urllib2.Request(web_url + "/page/" + page_num, headers={ 'User-Agent': 'CasperTheFriendlyGhost/v1.0' })
     #blob = urllib2.urlopen(request).read()
@@ -214,31 +214,21 @@ def pageDump(web_url, page_num):
     #episodes = soup.findAll("div", {"class": "archiveitem"})
     episodes = soup.findAll("div", class_="archiveitem")
 	
-    list = {}
+    #links = {}
+    links=[]
+    counter = 0
     for element in episodes:
-        list[element.a["href"]] = {}
-	
-    #episodes[0].a["href"]
-    #episodes[0].find(href="")
+        #links[element.a.get_text()] = {}
+        #links[element.a.get_text()]["href"] = element.a["href"]
+        #links[element.a.get_text()]["title"] = element.a["title"]
+        
+        if counter < 50:
+            link = episodes[counter].a["href"]
+            counter += 1
+            links.append(link)
 		
-    return list
+    return links
 	
-
-def getPageLinks(page_dump):
-
-    #links = []
-    #html = page_dump
-    #logPlus(page_dump, "page_dump: ")
-    #soup = BeautifulSoup(page_dump, "html.parser")
-    #episode = soup.find("div", "archiveitem")
-    #logPlus(episode, "episode: ")
-    #links = [site_base + div.a["href"] for div in soup.findAll("div")]
-    #logPlus(links, "links: ")
-    #links = page_dump
-    return page_dump
-    #for link in links:
-      #return link
-
 
 def dumpSite():
     
@@ -294,7 +284,7 @@ def dumpSite():
 	
     # Angry Video Game Nerd
     #pageDump(site_base + "category/avgn/avgnepisodes", "1")
-    test1 = getPageLinks(pageDump(site_base + "category/avgn/avgnepisodes", "1"))
+    test1 = getPageLinks(site_base + "category/avgn/avgnepisodes", "1")
     #test1 = pageDump(site_base + "category/avgn/avgnepisodes", "1")
     logPlus(test1, "test1: ")
     
