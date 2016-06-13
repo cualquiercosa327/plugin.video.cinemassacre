@@ -243,6 +243,20 @@ def processLinks(page_base, page_max):
 	
     return links
 	
+	
+def processLinksLarge(page_base, page_start, page_max):
+
+    page_counter = page_start
+    links = []
+    while page_counter <= page_max:
+        link = getPageLinks(site_base + page_base, str(page_counter))
+        page_counter += 1
+        links.append(link)
+			
+    #logPlus(links, "Links: ")
+	
+    return links
+	
 
 def dumpSite():
     
@@ -297,139 +311,143 @@ def dumpSite():
 	
     # Angry Video Game Nerd
     links_avgn = processLinks("category/avgn/avgnepisodes", 6)
-    logPlus(links_avgn, "Links (SHOWS -> Angry Video Game Nerd): ")
+    #logPlus(links_avgn, "Links (SHOWS -> Angry Video Game Nerd): ")
 	
     # James and Mike Mondays
     links_jmm = processLinks("category/jamesandmike", 7)
-    logPlus(links_jmm, "Links (SHOWS -> James and Mike Mondays): ")
+    #logPlus(links_jmm, "Links (SHOWS -> James and Mike Mondays): ")
 	
     # Mike and Ryan
     links_mr = processLinks("category/mikeryantalkaboutgames", 1)
-    logPlus(links_mr, "Links (SHOWS -> Mike and Ryan): ")
+    #logPlus(links_mr, "Links (SHOWS -> Mike and Ryan): ")
 	
     # Mike and Bootsy
     links_mb = processLinks("category/mike-bootsy", 1)
-    logPlus(links_mb, "Links (SHOWS -> Mike and Bootsy): ")
+    #logPlus(links_mb, "Links (SHOWS -> Mike and Bootsy): ")
 	
     # Board James
     links_bj = processLinks("category/boardjames", 1)
-    logPlus(links_bj, "Links (SHOWS -> Board James): ")
+    #logPlus(links_bj, "Links (SHOWS -> Board James): ")
 	
     # You Know Whats Bullshit
     links_ykwb = processLinks("category/ykwb", 2)
-    logPlus(links_ykwb, "Links (SHOWS -> You Know Whats Bullshit): ")
+    #logPlus(links_ykwb, "Links (SHOWS -> You Know Whats Bullshit): ")
 	
     # Mikes Gaming Videos
     links_mgv = processLinks("category/mikevideos", 3)
-    logPlus(links_mgv, "Links (GAMES -> Mikes Gaming Videos): ")
+    #logPlus(links_mgv, "Links (GAMES -> Mikes Gaming Videos): ")
 	
     # Bootsy Beats
     links_bb = processLinks("category/bootsy-beats", 1)
-    logPlus(links_bb, "Links (GAMES -> Bootsy Beats): ")
+    #logPlus(links_bb, "Links (GAMES -> Bootsy Beats): ")
 	
     # James Gaming Videos
     links_jgv = processLinks("category/jamesgamingvideos", 1)
-    logPlus(links_jgv, "Links (GAMES -> James Gaming Videos): ")
+    #logPlus(links_jgv, "Links (GAMES -> James Gaming Videos): ")
 	
     # Other Gaming Videos
     links_ogv = processLinks("category/othergaming-videos", 1)
-    logPlus(links_ogv, "Links (GAMES -> Other Gaming Videos): ")
+    #logPlus(links_ogv, "Links (GAMES -> Other Gaming Videos): ")
 	
     # Movie Reviews A-Z
-    #links_mraz = processLinks("category/moviereviewsatoz", 17)
-    #logPlus(links_mraz, "Links (MOVIES -> Movie Reviews A-Z): ")
+    links_mraz1 = processLinksLarge("category/moviereviewsatoz", 1, 10)
+    #links_mraz2 = processLinksLarge("category/moviereviewsatoz", 11, 17)
+    logPlus(links_mraz1, "Links (MOVIES -> Movie Reviews A-Z) Part 1: ")
+    #logPlus(links_mraz2, "Links (MOVIES -> Movie Reviews A-Z) Part 2: ")
 	
     # Top Tens
     links_mrtt = processLinks("category/moviereviews/top-tens", 1)
-    logPlus(links_mrtt, "Links (MOVIES -> Top Tens): ")
+    #logPlus(links_mrtt, "Links (MOVIES -> Top Tens): ")
 	
     # Animation Related
     links_mrar = processLinks("category/moviereviews/animation-moviereviews", 1)
-    logPlus(links_mrar, "Links (MOVIES -> Animation Related): ")
+    #logPlus(links_mrar, "Links (MOVIES -> Animation Related): ")
 	
     # Commentaries
     links_mrc = processLinks("category/moviereviews/commentaries", 1)
-    logPlus(links_mrc, "Links (MOVIES -> Commentaries): ")
+    #logPlus(links_mrc, "Links (MOVIES -> Commentaries): ")
 	
     # Interviews
     links_mri = processLinks("category/moviereviews/interviews", 1)
-    logPlus(links_mri, "Links (MOVIES -> Interviews): ")
+    #logPlus(links_mri, "Links (MOVIES -> Interviews): ")
 	
     # Location Tours
     links_mrlt = processLinks("category/moviereviews/location-tours", 1)
-    logPlus(links_mrlt, "Links (MOVIES -> Location Tours): ")
+    #logPlus(links_mrlt, "Links (MOVIES -> Location Tours): ")
 	
     # Monster Madness
-    #links_mrmm = processLinks("category/moviereviews/monstermadness", 13)
-    #logPlus(links_mrmm, "Links (MOVIES -> Monster Madness): ")
+    links_mrmm1 = processLinksLarge("category/moviereviews/monstermadness", 1, 10)
+    #links_mrmm2 = processLinksLarge("category/moviereviews/monstermadness", 11, 17)
+    logPlus(links_mrmm1, "Links (MOVIES -> Monster Madness) Part 1: ")
+    #logPlus(links_mrmm2, "Links (MOVIES -> Monster Madness) Part 2: ")
 	
     # Trivia Videos
     links_mrtv = processLinks("category/moviereviews/trivia-videos", 1)
-    logPlus(links_mrtv, "Links (MOVIES -> Trivia Videos): ")
+    #logPlus(links_mrtv, "Links (MOVIES -> Trivia Videos): ")
 	
     # Other Movie Related Videos
     links_mromrv = processLinks("category/moviereviews/othermovierelatedvideos", 1)
-    logPlus(links_mromrv, "Links (MOVIES -> Other Movie Related Videos): ")
+    #logPlus(links_mromrv, "Links (MOVIES -> Other Movie Related Videos): ")
 	
     # Original Films Main
     links_film = processLinks("category/films", 4)
-    logPlus(links_film, "Links (ORIGINAL FILMS -> Main): ")
+    #logPlus(links_film, "Links (ORIGINAL FILMS -> Main): ")
 	
     # Favorites
     links_filmfav = processLinks("category/films/favorites", 1)
-    logPlus(links_filmfav, "Links (ORIGINAL FILMS -> Favorites): ")
+    #logPlus(links_filmfav, "Links (ORIGINAL FILMS -> Favorites): ")
 	
     # Animation
     links_filmani = processLinks("category/films/animation", 1)
-    logPlus(links_filmani, "Links (ORIGINAL FILMS -> Animation): ")
+    #logPlus(links_filmani, "Links (ORIGINAL FILMS -> Animation): ")
 	
     # Horror Films
     links_filmhorror = processLinks("category/films/horror-films", 2)
-    logPlus(links_filmhorror, "Links (ORIGINAL FILMS -> Horror Films): ")
+    #logPlus(links_filmhorror, "Links (ORIGINAL FILMS -> Horror Films): ")
 	
     # Comedy
     links_filmcomedy = processLinks("category/films/comedy", 1)
-    logPlus(links_filmcomedy, "Links (ORIGINAL FILMS -> Comedy): ")
+    #logPlus(links_filmcomedy, "Links (ORIGINAL FILMS -> Comedy): ")
 	
     # 48-Hour Films
     links_film48 = processLinks("category/films/48-hour-films", 1)
-    logPlus(links_film48, "Links (ORIGINAL FILMS -> 48 Hour Films): ")
+    #logPlus(links_film48, "Links (ORIGINAL FILMS -> 48 Hour Films): ")
 	
     # Other
     links_filmother = processLinks("category/films/other", 1)
-    logPlus(links_filmother, "Links (ORIGINAL FILMS -> Other): ")
+    #logPlus(links_filmother, "Links (ORIGINAL FILMS -> Other): ")
 	
     # Music Main
     links_mus = processLinks("category/music-2", 1)
-    logPlus(links_mus, "Links (MUSIC -> Main): ")
+    #logPlus(links_mus, "Links (MUSIC -> Main): ")
 	
     # Audio Slaughter
     links_musas = processLinks("category/music-2/audio-slaughter", 1)
-    logPlus(links_musas, "Links (MUSIC -> Audio Slaughter): ")
+    #logPlus(links_musas, "Links (MUSIC -> Audio Slaughter): ")
 	
     # Kyle Justin
     links_muskj = processLinks("category/music-2/kylejustin", 1)
-    logPlus(links_muskj, "Links (MUSIC -> Kyle Justin): ")
+    #logPlus(links_muskj, "Links (MUSIC -> Kyle Justin): ")
 	
     # Name That Tune
     links_musntt = processLinks("category/music-2/namethattune", 1)
-    logPlus(links_musntt, "Links (MUSIC -> Name That Tune): ")
+    #logPlus(links_musntt, "Links (MUSIC -> Name That Tune): ")
 	
     # Site Main
     links_site = processLinks("category/site-2", 1)
-    logPlus(links_site, "Links (SITE -> Main): ")
+    #logPlus(links_site, "Links (SITE -> Main): ")
 	
     # Articles
     links_sitearticles = processLinks("category/site-2/featuredarticles", 1)
-    logPlus(links_sitearticles, "Links (SITE -> Articles): ")
+    #logPlus(links_sitearticles, "Links (SITE -> Articles): ")
 	
     # Appearances
     links_siteappear = processLinks("category/site-2/appearances", 1)
-    logPlus(links_siteappear, "Links (SITE -> Appearances): ")
+    #logPlus(links_siteappear, "Links (SITE -> Appearances): ")
 	
     # Misc Videos
     links_sitemisc = processLinks("category/site-2/misc-videos", 1)
-    logPlus(links_sitemisc, "Links (SITE -> Misc Videos): ")
+    #logPlus(links_sitemisc, "Links (SITE -> Misc Videos): ")
 
 
 try:
