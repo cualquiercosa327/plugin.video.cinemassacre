@@ -254,11 +254,11 @@ def processLinksAlt(page_base, page_start, page_max):
     return links
 	
 
-def dumpSite():
+def dumpPageByDate():
     
-    # more_data = "0"
-    # cur_page = "0"
-    # max_page = "20"
+    more_data = "0"
+    #cur_page = "0"
+    #max_page = "20"
 	
     # # By Date
     # cur_day = "0"
@@ -304,6 +304,7 @@ def dumpSite():
         # logPlus(cur_year, "cur_year: ")
 	
 	
+def dumpPageShows():
 	
     # Angry Video Game Nerd
     links_avgn = processLinks("category/avgn/avgnepisodes", 6)
@@ -329,6 +330,9 @@ def dumpSite():
     links_ykwb = processLinks("category/ykwb", 2)
     #logPlus(links_ykwb, "Links (SHOWS -> You Know Whats Bullshit): ")
 	
+	
+def dumpPageGames():
+	
     # Mikes Gaming Videos
     links_mgv = processLinks("category/mikevideos", 3)
     #logPlus(links_mgv, "Links (GAMES -> Mikes Gaming Videos): ")
@@ -345,9 +349,12 @@ def dumpSite():
     links_ogv = processLinks("category/othergaming-videos", 1)
     #logPlus(links_ogv, "Links (GAMES -> Other Gaming Videos): ")
 	
+	
+def dumpPageMovies():
+	
     # Movie Reviews A-Z
     links_mraz = processLinks("category/moviereviewsatoz", 13)
-    logPlus(links_mraz, "Links (MOVIES -> Movie Reviews A-Z): ")
+    #logPlus(links_mraz, "Links (MOVIES -> Movie Reviews A-Z): ")
 	
     # Top Tens
     links_mrtt = processLinks("category/moviereviews/top-tens", 1)
@@ -371,7 +378,7 @@ def dumpSite():
 	
     # Monster Madness
     links_mrmm = processLinks("category/moviereviews/monstermadness", 12)
-    logPlus(links_mrmm, "Links (MOVIES -> Monster Madness): ")
+    #logPlus(links_mrmm, "Links (MOVIES -> Monster Madness): ")
 	
     # Trivia Videos
     links_mrtv = processLinks("category/moviereviews/trivia-videos", 1)
@@ -380,6 +387,9 @@ def dumpSite():
     # Other Movie Related Videos
     links_mromrv = processLinks("category/moviereviews/othermovierelatedvideos", 1)
     #logPlus(links_mromrv, "Links (MOVIES -> Other Movie Related Videos): ")
+	
+	
+def dumpPageFilm():
 	
     # Original Films Main
     links_film = processLinks("category/films", 4)
@@ -409,6 +419,9 @@ def dumpSite():
     links_filmother = processLinks("category/films/other", 1)
     #logPlus(links_filmother, "Links (ORIGINAL FILMS -> Other): ")
 	
+
+def dumpPageMusic():
+	
     # Music Main
     links_mus = processLinks("category/music-2", 1)
     #logPlus(links_mus, "Links (MUSIC -> Main): ")
@@ -425,6 +438,9 @@ def dumpSite():
     links_musntt = processLinks("category/music-2/namethattune", 1)
     #logPlus(links_musntt, "Links (MUSIC -> Name That Tune): ")
 	
+
+def dumpPageSite():
+    
     # Site Main
     links_site = processLinks("category/site-2", 1)
     #logPlus(links_site, "Links (SITE -> Main): ")
@@ -440,10 +456,20 @@ def dumpSite():
     # Misc Videos
     links_sitemisc = processLinks("category/site-2/misc-videos", 1)
     #logPlus(links_sitemisc, "Links (SITE -> Misc Videos): ")
+	
+	
+def dumpPageAll():
+
+    dumpPageShows()
+    dumpPageGames()
+    dumpPageMovies()
+    dumpPageFilm()
+    dumpPageMusic()
+    dumpPageSite()
 
 
 try:
-    dumpSite()
+    dumpPageAll()
 except:
     doNothing()
 
