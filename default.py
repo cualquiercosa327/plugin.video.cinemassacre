@@ -283,10 +283,21 @@ def dumpSite():
 	
 	
     # Angry Video Game Nerd
+    links_avgn = []
     #pageDump(site_base + "category/avgn/avgnepisodes", "1")
-    test1 = getPageLinks(site_base + "category/avgn/avgnepisodes", "1")
-    #test1 = pageDump(site_base + "category/avgn/avgnepisodes", "1")
-    logPlus(test1, "test1: ")
+    links_avgn1 = getPageLinks(site_base + "category/avgn/avgnepisodes", "1")
+    links_avgn2 = getPageLinks(site_base + "category/avgn/avgnepisodes", "2")
+    links_avgn3 = getPageLinks(site_base + "category/avgn/avgnepisodes", "3")
+    links_avgn4 = getPageLinks(site_base + "category/avgn/avgnepisodes", "4")
+    links_avgn5 = getPageLinks(site_base + "category/avgn/avgnepisodes", "5")
+    links_avgn6 = getPageLinks(site_base + "category/avgn/avgnepisodes", "6")
+    links_avgn.append(links_avgn1)
+    links_avgn.append(links_avgn2)
+    links_avgn.append(links_avgn3)
+    links_avgn.append(links_avgn4)
+    links_avgn.append(links_avgn5)
+    links_avgn.append(links_avgn6)
+    logPlus(links_avgn, "links_avgn: ")
     
     #pageDump(site_base + "category/avgn/avgnepisodes", "2")
     #pageDump(site_base + "category/avgn/avgnepisodes", "3")
